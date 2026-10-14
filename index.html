@@ -115,7 +115,7 @@ function render(weekKey) {
     btn.type = 'button';
     btn.className = 'class-head';
     btn.innerHTML = '<h2><span class="chev"></span>' + header + '</h2>' +
-      '<span class="stat">欠交 ' + list.length + ' 人 · 全班 ' + size + ' 人</span>';
+      '<span class="stat">全班 ' + size + ' 人</span>';
     btn.addEventListener('click', () => block.classList.toggle('open'));
 
     const body = document.createElement('div');
