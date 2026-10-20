@@ -88,8 +88,7 @@ function render(weekKey) {
   if (!week) return;
   const pTotal = practiceTotal(week);
   document.getElementById('rangeMeta').textContent =
-    '查閱：' + week.from + ' 至 ' + week.to + ' · 更新：' + DATA.updated +
-    ' · 應做練習 ' + pTotal + ' · 欠交 ' + (week.students ? week.students.length : 0) + ' 人';
+    '查閱：' + week.from + ' 至 ' + week.to + ' · 更新：' + DATA.updated;
   document.querySelectorAll('#weekSeg button').forEach(b => {
     b.classList.toggle('active', b.dataset.week === weekKey);
   });
