@@ -1,0 +1,26 @@
+{
+  "name": "i-learner-scrape",
+  "version": "1.0.0",
+  "description": "智愛週練習欠交儀表板 — Playwright scrape + dashboard publish",
+  "scripts": {
+    "scrape": "node scrape_reports.mjs",
+    "scrape:dry": "DRY_RUN=1 node scrape_reports.mjs",
+    "pipeline": "bash scrape_and_publish.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilcheck/ilcheck.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/ilcheck/ilcheck.github.io/issues"
+  },
+  "homepage": "https://github.com/ilcheck/ilcheck.github.io#readme",
+  "dependencies": {
+    "playwright": "^1.48.2"
+  },
+  "private": true
+}

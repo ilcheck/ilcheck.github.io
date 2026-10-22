@@ -1,0 +1,8 @@
+node_modules/
+.pw-kru-profile/
+scrape-inbox/*.html
+!scrape-inbox/.gitkeep
+.env*
+*.pem
+*.mvault
+__pycache__/

@@ -1,0 +1,4154 @@
+{
+  "1004175": {
+    "id": 1,
+    "name": "莊皓晴",
+    "platformClass": "3GA",
+    "platformStudentId": 1004175,
+    "schoolClass": "3A",
+    "total": 5
+  },
+  "1004176": {
+    "id": 3,
+    "name": "黃錦淇",
+    "platformClass": "3GD",
+    "platformStudentId": 1004176,
+    "schoolClass": "3A",
+    "total": 5
+  },
+  "1004177": {
+    "id": 5,
+    "name": "羅浚婷",
+    "platformClass": "3GC",
+    "platformStudentId": 1004177,
+    "schoolClass": "3A",
+    "total": 5
+  },
+  "1004178": {
+    "id": 6,
+    "name": "羅碧賢",
+    "platformClass": "3GA",
+    "platformStudentId": 1004178,
+    "schoolClass": "3A",
+    "total": 5
+  },
+  "1004179": {
+    "id": 7,
+    "name": "蘇鈺清",
+    "platformClass": "3GA",
+    "platformStudentId": 1004179,
+    "schoolClass": "3A",
+    "total": 5
+  },
+  "1004180": {
+    "id": 8,
+    "name": "胡馨文",
+    "platformClass": "3GA",
+    "platformStudentId": 1004180,
+    "schoolClass": "3A",
+    "total": 5
+  },
+  "1004181": {
+    "id": 9,
+    "name": "余恩欣",
+    "platformClass": "3GA",
+    "platformStudentId": 1004181,
+    "schoolClass": "3A",
+    "total": 5
+  },
+  "1004182": {
+    "id": 4,
+    "name": "鄭康瑞",
+    "platformClass": "2GB",
+    "platformStudentId": 1004182,
+    "schoolClass": "2A",
+    "total": 5
+  },
+  "1004184": {
+    "id": 12,
+    "name": "劉恒雒",
+    "platformClass": "3GA",
+    "platformStudentId": 1004184,
+    "schoolClass": "3A",
+    "total": 5
+  },
+  "1004185": {
+    "id": 13,
+    "name": "劉嘉陞",
+    "platformClass": "3GC",
+    "platformStudentId": 1004185,
+    "schoolClass": "3A",
+    "total": 5
+  },
+  "1004186": {
+    "id": 17,
+    "name": "唐子軒",
+    "platformClass": "3GA",
+    "platformStudentId": 1004186,
+    "schoolClass": "3A",
+    "total": 5
+  },
+  "1004187": {
+    "id": 18,
+    "name": "陳梓臣",
+    "platformClass": "3GA",
+    "platformStudentId": 1004187,
+    "schoolClass": "3A",
+    "total": 5
+  },
+  "1004188": {
+    "id": 18,
+    "name": "黃曉瑨",
+    "platformClass": "2GB",
+    "platformStudentId": 1004188,
+    "schoolClass": "2A",
+    "total": 5
+  },
+  "1004189": {
+    "id": 19,
+    "name": "俞晟睿",
+    "platformClass": "3GA",
+    "platformStudentId": 1004189,
+    "schoolClass": "3A",
+    "total": 5
+  },
+  "1004194": {
+    "id": 1,
+    "name": "張曉琳",
+    "platformClass": "3GB",
+    "platformStudentId": 1004194,
+    "schoolClass": "3B",
+    "total": 5
+  },
+  "1004195": {
+    "id": 2,
+    "name": "何瀅瀅",
+    "platformClass": "3GC",
+    "platformStudentId": 1004195,
+    "schoolClass": "3B",
+    "total": 5
+  },
+  "1004196": {
+    "id": 3,
+    "name": "黃思源",
+    "platformClass": "3GA",
+    "platformStudentId": 1004196,
+    "schoolClass": "3B",
+    "total": 5
+  },
+  "1004197": {
+    "id": 4,
+    "name": "劉金希",
+    "platformClass": "3GB",
+    "platformStudentId": 1004197,
+    "schoolClass": "3B",
+    "total": 5
+  },
+  "1004198": {
+    "id": 6,
+    "name": "葉康頤",
+    "platformClass": "3GB",
+    "platformStudentId": 1004198,
+    "schoolClass": "3B",
+    "total": 5
+  },
+  "1004199": {
+    "id": 7,
+    "name": "余芷晴",
+    "platformClass": "3GA",
+    "platformStudentId": 1004199,
+    "schoolClass": "3B",
+    "total": 5
+  },
+  "1004200": {
+    "id": 8,
+    "name": "朱良欣",
+    "platformClass": "3GB",
+    "platformStudentId": 1004200,
+    "schoolClass": "3B",
+    "total": 5
+  },
+  "1004201": {
+    "id": 9,
+    "name": "陳世峰",
+    "platformClass": "3GA",
+    "platformStudentId": 1004201,
+    "schoolClass": "3B",
+    "total": 5
+  },
+  "1004202": {
+    "id": 13,
+    "name": "李兆宏",
+    "platformClass": "3GB",
+    "platformStudentId": 1004202,
+    "schoolClass": "3B",
+    "total": 5
+  },
+  "1004203": {
+    "id": 22,
+    "name": "林師裕",
+    "platformClass": "3GD",
+    "platformStudentId": 1004203,
+    "schoolClass": "3D",
+    "total": 5
+  },
+  "1004205": {
+    "id": 14,
+    "name": "林柏皓",
+    "platformClass": "3GA",
+    "platformStudentId": 1004205,
+    "schoolClass": "3B",
+    "total": 5
+  },
+  "1004206": {
+    "id": 16,
+    "name": "麥綽洺",
+    "platformClass": "2GB",
+    "platformStudentId": 1004206,
+    "schoolClass": "2B",
+    "total": 5
+  },
+  "1004207": {
+    "id": 15,
+    "name": "巫曦嵐",
+    "platformClass": "3GB",
+    "platformStudentId": 1004207,
+    "schoolClass": "3B",
+    "total": 5
+  },
+  "1004208": {
+    "id": 18,
+    "name": "蘇志軒",
+    "platformClass": "3GA",
+    "platformStudentId": 1004208,
+    "schoolClass": "3B",
+    "total": 5
+  },
+  "1004211": {
+    "id": 26,
+    "name": "晏子杰",
+    "platformClass": "3GD",
+    "platformStudentId": 1004211,
+    "schoolClass": "3D",
+    "total": 5
+  },
+  "1004212": {
+    "id": 21,
+    "name": "周辰涵",
+    "platformClass": "3GC",
+    "platformStudentId": 1004212,
+    "schoolClass": "3B",
+    "total": 5
+  },
+  "1004213": {
+    "id": 1,
+    "name": "陳樂桐",
+    "platformClass": "3GC",
+    "platformStudentId": 1004213,
+    "schoolClass": "3C",
+    "total": 5
+  },
+  "1004215": {
+    "id": 2,
+    "name": "蔡熙彤",
+    "platformClass": "3GB",
+    "platformStudentId": 1004215,
+    "schoolClass": "3C",
+    "total": 5
+  },
+  "1004216": {
+    "id": 4,
+    "name": "黃安雅",
+    "platformClass": "3GD",
+    "platformStudentId": 1004216,
+    "schoolClass": "3D",
+    "total": 5
+  },
+  "1004217": {
+    "id": 5,
+    "name": "黃錦雯",
+    "platformClass": "3GC",
+    "platformStudentId": 1004217,
+    "schoolClass": "3D",
+    "total": 5
+  },
+  "1004218": {
+    "id": 4,
+    "name": "許芷晴",
+    "platformClass": "3GB",
+    "platformStudentId": 1004218,
+    "schoolClass": "3C",
+    "total": 5
+  },
+  "1004219": {
+    "id": 4,
+    "name": "凌莉",
+    "platformClass": "3GC",
+    "platformStudentId": 1004219,
+    "schoolClass": "3A",
+    "total": 5
+  },
+  "1004220": {
+    "id": 6,
+    "name": "盧世婷",
+    "platformClass": "3GC",
+    "platformStudentId": 1004220,
+    "schoolClass": "3C",
+    "total": 5
+  },
+  "1004221": {
+    "id": 8,
+    "name": "馬敏瑜",
+    "platformClass": "3GB",
+    "platformStudentId": 1004221,
+    "schoolClass": "3C",
+    "total": 5
+  },
+  "1004223": {
+    "id": 9,
+    "name": "徐丁敏",
+    "platformClass": "3GC",
+    "platformStudentId": 1004223,
+    "schoolClass": "3C",
+    "total": 5
+  },
+  "1004224": {
+    "id": 14,
+    "name": "王梓芊",
+    "platformClass": "3GD",
+    "platformStudentId": 1004224,
+    "schoolClass": "3D",
+    "total": 5
+  },
+  "1004225": {
+    "id": 10,
+    "name": "黃詠詩",
+    "platformClass": "3GC",
+    "platformStudentId": 1004225,
+    "schoolClass": "3C",
+    "total": 5
+  },
+  "1004226": {
+    "id": 11,
+    "name": "黃彦婷",
+    "platformClass": "3GC",
+    "platformStudentId": 1004226,
+    "schoolClass": "3C",
+    "total": 5
+  },
+  "1004227": {
+    "id": 12,
+    "name": "陳志豪",
+    "platformClass": "3GB",
+    "platformStudentId": 1004227,
+    "schoolClass": "3C",
+    "total": 5
+  },
+  "1004228": {
+    "id": 13,
+    "name": "陳浩賢",
+    "platformClass": "3GA",
+    "platformStudentId": 1004228,
+    "schoolClass": "3C",
+    "total": 5
+  },
+  "1004229": {
+    "id": 14,
+    "name": "陳樂軒",
+    "platformClass": "3GB",
+    "platformStudentId": 1004229,
+    "schoolClass": "3C",
+    "total": 5
+  },
+  "1004230": {
+    "id": 18,
+    "name": "方朗然",
+    "platformClass": "3GB",
+    "platformStudentId": 1004230,
+    "schoolClass": "3C",
+    "total": 5
+  },
+  "1004231": {
+    "id": 19,
+    "name": "黄立恒",
+    "platformClass": "3GB",
+    "platformStudentId": 1004231,
+    "schoolClass": "3C",
+    "total": 5
+  },
+  "1004232": {
+    "id": 15,
+    "name": "陸家軒",
+    "platformClass": "3GD",
+    "platformStudentId": 1004232,
+    "schoolClass": "3A",
+    "total": 5
+  },
+  "1004233": {
+    "id": 16,
+    "name": "馬浩軒",
+    "platformClass": "3GB",
+    "platformStudentId": 1004233,
+    "schoolClass": "3A",
+    "total": 5
+  },
+  "1004234": {
+    "id": 21,
+    "name": "莫文曦",
+    "platformClass": "3GB",
+    "platformStudentId": 1004234,
+    "schoolClass": "3C",
+    "total": 5
+  },
+  "1004235": {
+    "id": 22,
+    "name": "譚斯駿",
+    "platformClass": "3GB",
+    "platformStudentId": 1004235,
+    "schoolClass": "3C",
+    "total": 5
+  },
+  "1004236": {
+    "id": 23,
+    "name": "姚智森",
+    "platformClass": "3GC",
+    "platformStudentId": 1004236,
+    "schoolClass": "3C",
+    "total": 5
+  },
+  "1004237": {
+    "id": 26,
+    "name": "曾子軒",
+    "platformClass": "3GC",
+    "platformStudentId": 1004237,
+    "schoolClass": "3C",
+    "total": 5
+  },
+  "1004238": {
+    "id": 1,
+    "name": "陳唯臻",
+    "platformClass": "3GD",
+    "platformStudentId": 1004238,
+    "schoolClass": "3D",
+    "total": 5
+  },
+  "1004239": {
+    "id": 3,
+    "name": "馮樂瑤",
+    "platformClass": "3GD",
+    "platformStudentId": 1004239,
+    "schoolClass": "3D",
+    "total": 5
+  },
+  "1004240": {
+    "id": 3,
+    "name": "付梓希",
+    "platformClass": "3GC",
+    "platformStudentId": 1004240,
+    "schoolClass": "3C",
+    "total": 5
+  },
+  "1004241": {
+    "id": 6,
+    "name": "江欣",
+    "platformClass": "3GD",
+    "platformStudentId": 1004241,
+    "schoolClass": "3D",
+    "total": 5
+  },
+  "1004242": {
+    "id": 5,
+    "name": "關昕怡",
+    "platformClass": "3GC",
+    "platformStudentId": 1004242,
+    "schoolClass": "3C",
+    "total": 5
+  },
+  "1004243": {
+    "id": 7,
+    "name": "李岭",
+    "platformClass": "3GD",
+    "platformStudentId": 1004243,
+    "schoolClass": "3D",
+    "total": 5
+  },
+  "1004244": {
+    "id": 9,
+    "name": "黎宇珊",
+    "platformClass": "3GD",
+    "platformStudentId": 1004244,
+    "schoolClass": "3D",
+    "total": 5
+  },
+  "1004245": {
+    "id": 10,
+    "name": "凌菲",
+    "platformClass": "3GD",
+    "platformStudentId": 1004245,
+    "schoolClass": "3D",
+    "total": 5
+  },
+  "1004246": {
+    "id": 11,
+    "name": "劉孟涵",
+    "platformClass": "3GD",
+    "platformStudentId": 1004246,
+    "schoolClass": "3D",
+    "total": 5
+  },
+  "1004247": {
+    "id": 12,
+    "name": "吳希妍",
+    "platformClass": "3GC",
+    "platformStudentId": 1004247,
+    "schoolClass": "3D",
+    "total": 5
+  },
+  "1004248": {
+    "id": 13,
+    "name": "施詩",
+    "platformClass": "3GD",
+    "platformStudentId": 1004248,
+    "schoolClass": "3D",
+    "total": 5
+  },
+  "1004249": {
+    "id": 15,
+    "name": "蕭銦彤",
+    "platformClass": "3GD",
+    "platformStudentId": 1004249,
+    "schoolClass": "3D",
+    "total": 5
+  },
+  "1004250": {
+    "id": 16,
+    "name": "楊雨晨",
+    "platformClass": "3GC",
+    "platformStudentId": 1004250,
+    "schoolClass": "3D",
+    "total": 5
+  },
+  "1004251": {
+    "id": 17,
+    "name": "陳家棟",
+    "platformClass": "3GD",
+    "platformStudentId": 1004251,
+    "schoolClass": "3D",
+    "total": 5
+  },
+  "1004252": {
+    "id": 15,
+    "name": "陳裕羲",
+    "platformClass": "3GB",
+    "platformStudentId": 1004252,
+    "schoolClass": "3C",
+    "total": 5
+  },
+  "1004253": {
+    "id": 16,
+    "name": "鍾嘉軒",
+    "platformClass": "3GC",
+    "platformStudentId": 1004253,
+    "schoolClass": "3C",
+    "total": 5
+  },
+  "1004254": {
+    "id": 17,
+    "name": "葛天賜",
+    "platformClass": "3GC",
+    "platformStudentId": 1004254,
+    "schoolClass": "3C",
+    "total": 5
+  },
+  "1004255": {
+    "id": 20,
+    "name": "黃鴻軍",
+    "platformClass": "3GD",
+    "platformStudentId": 1004255,
+    "schoolClass": "3D",
+    "total": 5
+  },
+  "1004256": {
+    "id": 21,
+    "name": "黃梓燁",
+    "platformClass": "3GD",
+    "platformStudentId": 1004256,
+    "schoolClass": "3D",
+    "total": 5
+  },
+  "1004257": {
+    "id": 20,
+    "name": "江煒杰",
+    "platformClass": "3GC",
+    "platformStudentId": 1004257,
+    "schoolClass": "3C",
+    "total": 5
+  },
+  "1004259": {
+    "id": 23,
+    "name": "林宗濤",
+    "platformClass": "3GD",
+    "platformStudentId": 1004259,
+    "schoolClass": "3D",
+    "total": 5
+  },
+  "1004260": {
+    "id": 17,
+    "name": "彭英杰",
+    "platformClass": "3GD",
+    "platformStudentId": 1004260,
+    "schoolClass": "3B",
+    "total": 5
+  },
+  "1004261": {
+    "id": 24,
+    "name": "王智超",
+    "platformClass": "3GD",
+    "platformStudentId": 1004261,
+    "schoolClass": "3D",
+    "total": 5
+  },
+  "1004262": {
+    "id": 25,
+    "name": "吳秉燁",
+    "platformClass": "3GD",
+    "platformStudentId": 1004262,
+    "schoolClass": "3D",
+    "total": 5
+  },
+  "1004263": {
+    "id": 28,
+    "name": "楊文軒",
+    "platformClass": "3GD",
+    "platformStudentId": 1004263,
+    "schoolClass": "3C",
+    "total": 5
+  },
+  "1004264": {
+    "id": 27,
+    "name": "嚴駿濤",
+    "platformClass": "3GD",
+    "platformStudentId": 1004264,
+    "schoolClass": "3D",
+    "total": 5
+  },
+  "1004265": {
+    "id": 28,
+    "name": "余澤峯",
+    "platformClass": "3GD",
+    "platformStudentId": 1004265,
+    "schoolClass": "3D",
+    "total": 5
+  },
+  "1004267": {
+    "id": 19,
+    "name": "何泳鍵",
+    "platformClass": "3GC",
+    "platformStudentId": 1004267,
+    "schoolClass": "3D",
+    "total": 5
+  },
+  "1004268": {
+    "id": 8,
+    "name": "羅欣琪",
+    "platformClass": "4B",
+    "platformStudentId": 1004268,
+    "schoolClass": "4B",
+    "total": 5
+  },
+  "1004269": {
+    "id": 26,
+    "name": "王克燁",
+    "platformClass": "4A",
+    "platformStudentId": 1004269,
+    "schoolClass": "4A",
+    "total": 5
+  },
+  "1004270": {
+    "id": 30,
+    "name": "晏子豪",
+    "platformClass": "4C",
+    "platformStudentId": 1004270,
+    "schoolClass": "4C",
+    "total": 5
+  },
+  "1004272": {
+    "id": 23,
+    "name": "李承志",
+    "platformClass": "4B",
+    "platformStudentId": 1004272,
+    "schoolClass": "4B",
+    "total": 5
+  },
+  "1004274": {
+    "id": 25,
+    "name": "温曉明",
+    "platformClass": "4A",
+    "platformStudentId": 1004274,
+    "schoolClass": "4A",
+    "total": 5
+  },
+  "1004275": {
+    "id": 29,
+    "name": "許嘉亮",
+    "platformClass": "4C",
+    "platformStudentId": 1004275,
+    "schoolClass": "4C",
+    "total": 5
+  },
+  "1004276": {
+    "id": 6,
+    "name": "呂雅榆",
+    "platformClass": "5C",
+    "platformStudentId": 1004276,
+    "schoolClass": "5C",
+    "total": 5
+  },
+  "1004277": {
+    "id": 14,
+    "name": "俞嘉慧",
+    "platformClass": "5C",
+    "platformStudentId": 1004277,
+    "schoolClass": "5C",
+    "total": 5
+  },
+  "1004278": {
+    "id": 15,
+    "name": "趙希希",
+    "platformClass": "5C",
+    "platformStudentId": 1004278,
+    "schoolClass": "5C",
+    "total": 5
+  },
+  "1004279": {
+    "id": 14,
+    "name": "蔡沛錦",
+    "platformClass": "4B",
+    "platformStudentId": 1004279,
+    "schoolClass": "4B",
+    "total": 5
+  },
+  "1004280": {
+    "id": 11,
+    "name": "陳景豪",
+    "platformClass": "5A",
+    "platformStudentId": 1004280,
+    "schoolClass": "5A",
+    "total": 5
+  },
+  "1004281": {
+    "id": 18,
+    "name": "章杰瀚",
+    "platformClass": "5A",
+    "platformStudentId": 1004281,
+    "schoolClass": "5A",
+    "total": 5
+  },
+  "1004282": {
+    "id": 20,
+    "name": "朱良明",
+    "platformClass": "5A",
+    "platformStudentId": 1004282,
+    "schoolClass": "5A",
+    "total": 5
+  },
+  "1004284": {
+    "id": 5,
+    "name": "呂佩恩",
+    "platformClass": "5C",
+    "platformStudentId": 1004284,
+    "schoolClass": "5C",
+    "total": 5
+  },
+  "1004288": {
+    "id": 29,
+    "name": "冼嘉軒",
+    "platformClass": "4A",
+    "platformStudentId": 1004288,
+    "schoolClass": "4A",
+    "total": 5
+  },
+  "1004289": {
+    "id": 20,
+    "name": "劉礼城",
+    "platformClass": "5B",
+    "platformStudentId": 1004289,
+    "schoolClass": "5B",
+    "total": 5
+  },
+  "1004290": {
+    "id": 27,
+    "name": "許鎰俊",
+    "platformClass": "5C",
+    "platformStudentId": 1004290,
+    "schoolClass": "5C",
+    "total": 5
+  },
+  "1004292": {
+    "id": 1,
+    "name": "鄭詠心",
+    "platformClass": "6A",
+    "platformStudentId": 1004292,
+    "schoolClass": "6A",
+    "total": 5
+  },
+  "1004293": {
+    "id": 4,
+    "name": "黃琦舒",
+    "platformClass": "6C",
+    "platformStudentId": 1004293,
+    "schoolClass": "6C",
+    "total": 5
+  },
+  "1004294": {
+    "id": 4,
+    "name": "吳欣琦",
+    "platformClass": "6A",
+    "platformStudentId": 1004294,
+    "schoolClass": "6A",
+    "total": 5
+  },
+  "1004295": {
+    "id": 28,
+    "name": "薛宗凱",
+    "platformClass": "6C",
+    "platformStudentId": 1004295,
+    "schoolClass": "6C",
+    "total": 5
+  },
+  "1018703": {
+    "id": 10,
+    "name": "蘇晓楠",
+    "platformClass": "5C",
+    "platformStudentId": 1018703,
+    "schoolClass": "5C",
+    "total": 5
+  },
+  "1018724": {
+    "id": 5,
+    "name": "許莎桫",
+    "platformClass": "3GB",
+    "platformStudentId": 1018724,
+    "schoolClass": "3B",
+    "total": 5
+  },
+  "1018925": {
+    "id": 6,
+    "name": "陳政衡",
+    "platformClass": "6A",
+    "platformStudentId": 1018925,
+    "schoolClass": "6A",
+    "total": 5
+  },
+  "1019365": {
+    "id": 24,
+    "name": "林睿",
+    "platformClass": "4C",
+    "platformStudentId": 1019365,
+    "schoolClass": "4C",
+    "total": 5
+  },
+  "1019366": {
+    "id": 10,
+    "name": "盧正晴",
+    "platformClass": "4C",
+    "platformStudentId": 1019366,
+    "schoolClass": "4C",
+    "total": 5
+  },
+  "1019367": {
+    "id": 12,
+    "name": "郭俊揚",
+    "platformClass": "5B",
+    "platformStudentId": 1019367,
+    "schoolClass": "5B",
+    "total": 5
+  },
+  "1019480": {
+    "id": 16,
+    "name": "何鈺城",
+    "platformClass": "4A",
+    "platformStudentId": 1019480,
+    "schoolClass": "4A",
+    "total": 5
+  },
+  "1019482": {
+    "id": 8,
+    "name": "邱梓珊",
+    "platformClass": "5C",
+    "platformStudentId": 1019482,
+    "schoolClass": "5C",
+    "total": 5
+  },
+  "1019483": {
+    "id": 11,
+    "name": "黃裕捷",
+    "platformClass": "5C",
+    "platformStudentId": 1019483,
+    "schoolClass": "5C",
+    "total": 5
+  },
+  "1019604": {
+    "id": 19,
+    "name": "方偉同",
+    "platformClass": "5C",
+    "platformStudentId": 1019604,
+    "schoolClass": "5C",
+    "total": 5
+  },
+  "1019605": {
+    "id": 9,
+    "name": "陳梓鏵",
+    "platformClass": "5B",
+    "platformStudentId": 1019605,
+    "schoolClass": "5B",
+    "total": 5
+  },
+  "1019638": {
+    "id": 34,
+    "name": "周鴻彬",
+    "platformClass": "4C",
+    "platformStudentId": 1019638,
+    "schoolClass": "4C",
+    "total": 5
+  },
+  "1046580": {
+    "id": 1,
+    "name": "李紫熒",
+    "platformClass": "2GA",
+    "platformStudentId": 1046580,
+    "schoolClass": "2A",
+    "total": 5
+  },
+  "1046582": {
+    "id": 2,
+    "name": "黃思蕎",
+    "platformClass": "2GA",
+    "platformStudentId": 1046582,
+    "schoolClass": "2A",
+    "total": 5
+  },
+  "1046583": {
+    "id": 3,
+    "name": "楊智茵",
+    "platformClass": "2GC",
+    "platformStudentId": 1046583,
+    "schoolClass": "2A",
+    "total": 5
+  },
+  "1046584": {
+    "id": 5,
+    "name": "徐晉亨",
+    "platformClass": "2GA",
+    "platformStudentId": 1046584,
+    "schoolClass": "2A",
+    "total": 5
+  },
+  "1046585": {
+    "id": 6,
+    "name": "何駿軒",
+    "platformClass": "2GA",
+    "platformStudentId": 1046585,
+    "schoolClass": "2A",
+    "total": 5
+  },
+  "1046586": {
+    "id": 7,
+    "name": "林皓峻",
+    "platformClass": "2GA",
+    "platformStudentId": 1046586,
+    "schoolClass": "2A",
+    "total": 5
+  },
+  "1046587": {
+    "id": 8,
+    "name": "林景汶",
+    "platformClass": "2GC",
+    "platformStudentId": 1046587,
+    "schoolClass": "2A",
+    "total": 5
+  },
+  "1046588": {
+    "id": 16,
+    "name": "梁曉賢",
+    "platformClass": "1GC",
+    "platformStudentId": 1046588,
+    "schoolClass": "1C",
+    "total": 5
+  },
+  "1046589": {
+    "id": 12,
+    "name": "李俊賢",
+    "platformClass": "2GC",
+    "platformStudentId": 1046589,
+    "schoolClass": "2A",
+    "total": 5
+  },
+  "1046590": {
+    "id": 13,
+    "name": "林梓阳",
+    "platformClass": "2GC",
+    "platformStudentId": 1046590,
+    "schoolClass": "2A",
+    "total": 5
+  },
+  "1046591": {
+    "id": 14,
+    "name": "盧逸謙",
+    "platformClass": "2GA",
+    "platformStudentId": 1046591,
+    "schoolClass": "2A",
+    "total": 5
+  },
+  "1046592": {
+    "id": 19,
+    "name": "楊東軒",
+    "platformClass": "2GA",
+    "platformStudentId": 1046592,
+    "schoolClass": "2A",
+    "total": 5
+  },
+  "1046593": {
+    "id": 20,
+    "name": "尤沁諾",
+    "platformClass": "2GA",
+    "platformStudentId": 1046593,
+    "schoolClass": "2A",
+    "total": 5
+  },
+  "1046594": {
+    "id": 22,
+    "name": "余俊達",
+    "platformClass": "2GA",
+    "platformStudentId": 1046594,
+    "schoolClass": "2A",
+    "total": 5
+  },
+  "1046595": {
+    "id": 2,
+    "name": "吳泳儀",
+    "platformClass": "2GB",
+    "platformStudentId": 1046595,
+    "schoolClass": "2B",
+    "total": 5
+  },
+  "1046596": {
+    "id": 3,
+    "name": "蔡沛萁",
+    "platformClass": "2GB",
+    "platformStudentId": 1046596,
+    "schoolClass": "2B",
+    "total": 5
+  },
+  "1046597": {
+    "id": 4,
+    "name": "謝焯姿",
+    "platformClass": "2GB",
+    "platformStudentId": 1046597,
+    "schoolClass": "2B",
+    "total": 5
+  },
+  "1046598": {
+    "id": 5,
+    "name": "胡若冰",
+    "platformClass": "2GB",
+    "platformStudentId": 1046598,
+    "schoolClass": "2B",
+    "total": 5
+  },
+  "1046599": {
+    "id": 7,
+    "name": "BAYR ASHTON MARTIN",
+    "platformClass": "1GA",
+    "platformStudentId": 1046599,
+    "schoolClass": "1A",
+    "total": 5
+  },
+  "1046601": {
+    "id": 8,
+    "name": "陳祉豪",
+    "platformClass": "2GB",
+    "platformStudentId": 1046601,
+    "schoolClass": "2B",
+    "total": 5
+  },
+  "1046602": {
+    "id": 9,
+    "name": "鄭子諾",
+    "platformClass": "2GB",
+    "platformStudentId": 1046602,
+    "schoolClass": "2B",
+    "total": 5
+  },
+  "1046603": {
+    "id": 13,
+    "name": "林學恆",
+    "platformClass": "2GB",
+    "platformStudentId": 1046603,
+    "schoolClass": "2B",
+    "total": 5
+  },
+  "1046604": {
+    "id": 14,
+    "name": "羅文康",
+    "platformClass": "1GB",
+    "platformStudentId": 1046604,
+    "schoolClass": "1B",
+    "total": 5
+  },
+  "1046605": {
+    "id": 14,
+    "name": "李卓賢",
+    "platformClass": "2GB",
+    "platformStudentId": 1046605,
+    "schoolClass": "2B",
+    "total": 5
+  },
+  "1046606": {
+    "id": 15,
+    "name": "呂嘉豪",
+    "platformClass": "2GB",
+    "platformStudentId": 1046606,
+    "schoolClass": "2B",
+    "total": 5
+  },
+  "1046607": {
+    "id": 20,
+    "name": "周家楊",
+    "platformClass": "2GB",
+    "platformStudentId": 1046607,
+    "schoolClass": "2B",
+    "total": 5
+  },
+  "1046608": {
+    "id": 21,
+    "name": "鄒文輝",
+    "platformClass": "2GB",
+    "platformStudentId": 1046608,
+    "schoolClass": "2B",
+    "total": 5
+  },
+  "1046609": {
+    "id": 1,
+    "name": "陳浠兒",
+    "platformClass": "2GC",
+    "platformStudentId": 1046609,
+    "schoolClass": "2C",
+    "total": 5
+  },
+  "1046610": {
+    "id": 2,
+    "name": "利璐佳",
+    "platformClass": "2GC",
+    "platformStudentId": 1046610,
+    "schoolClass": "2C",
+    "total": 5
+  },
+  "1046611": {
+    "id": 3,
+    "name": "利璐雅",
+    "platformClass": "2GC",
+    "platformStudentId": 1046611,
+    "schoolClass": "2C",
+    "total": 5
+  },
+  "1046612": {
+    "id": 4,
+    "name": "李心儀",
+    "platformClass": "2GA",
+    "platformStudentId": 1046612,
+    "schoolClass": "2C",
+    "total": 5
+  },
+  "1046613": {
+    "id": 6,
+    "name": "劉堯曦",
+    "platformClass": "2GA",
+    "platformStudentId": 1046613,
+    "schoolClass": "2C",
+    "total": 5
+  },
+  "1046614": {
+    "id": 10,
+    "name": "蘇文茹",
+    "platformClass": "2GD",
+    "platformStudentId": 1046614,
+    "schoolClass": "2D",
+    "total": 5
+  },
+  "1046615": {
+    "id": 9,
+    "name": "楊海棠",
+    "platformClass": "2GD",
+    "platformStudentId": 1046615,
+    "schoolClass": "2C",
+    "total": 5
+  },
+  "1046616": {
+    "id": 11,
+    "name": "陳凱文",
+    "platformClass": "2GC",
+    "platformStudentId": 1046616,
+    "schoolClass": "2C",
+    "total": 5
+  },
+  "1046617": {
+    "id": 14,
+    "name": "陳柏楊",
+    "platformClass": "2GC",
+    "platformStudentId": 1046617,
+    "schoolClass": "2C",
+    "total": 5
+  },
+  "1046618": {
+    "id": 17,
+    "name": "陳熠林",
+    "platformClass": "2GD",
+    "platformStudentId": 1046618,
+    "schoolClass": "2D",
+    "total": 5
+  },
+  "1046619": {
+    "id": 15,
+    "name": "張其鑫",
+    "platformClass": "2GC",
+    "platformStudentId": 1046619,
+    "schoolClass": "2C",
+    "total": 5
+  },
+  "1046620": {
+    "id": 16,
+    "name": "趙誠陽",
+    "platformClass": "2GC",
+    "platformStudentId": 1046620,
+    "schoolClass": "2C",
+    "total": 5
+  },
+  "1046621": {
+    "id": 18,
+    "name": "朱惠俊",
+    "platformClass": "2GD",
+    "platformStudentId": 1046621,
+    "schoolClass": "2D",
+    "total": 5
+  },
+  "1046622": {
+    "id": 18,
+    "name": "許進禧",
+    "platformClass": "2GC",
+    "platformStudentId": 1046622,
+    "schoolClass": "2C",
+    "total": 5
+  },
+  "1046624": {
+    "id": 19,
+    "name": "劉駿熹",
+    "platformClass": "2GC",
+    "platformStudentId": 1046624,
+    "schoolClass": "2C",
+    "total": 5
+  },
+  "1046625": {
+    "id": 21,
+    "name": "梁澤天",
+    "platformClass": "2GC",
+    "platformStudentId": 1046625,
+    "schoolClass": "2C",
+    "total": 5
+  },
+  "1046626": {
+    "id": 22,
+    "name": "李天睿",
+    "platformClass": "2GA",
+    "platformStudentId": 1046626,
+    "schoolClass": "2C",
+    "total": 5
+  },
+  "1046627": {
+    "id": 20,
+    "name": "梁峻熙",
+    "platformClass": "2GD",
+    "platformStudentId": 1046627,
+    "schoolClass": "2D",
+    "total": 5
+  },
+  "1046628": {
+    "id": 23,
+    "name": "林健翔",
+    "platformClass": "2GC",
+    "platformStudentId": 1046628,
+    "schoolClass": "2C",
+    "total": 5
+  },
+  "1046629": {
+    "id": 25,
+    "name": "王毅",
+    "platformClass": "2GC",
+    "platformStudentId": 1046629,
+    "schoolClass": "2C",
+    "total": 5
+  },
+  "1046630": {
+    "id": 26,
+    "name": "王若楠",
+    "platformClass": "2GB",
+    "platformStudentId": 1046630,
+    "schoolClass": "2C",
+    "total": 5
+  },
+  "1046633": {
+    "id": 1,
+    "name": "陳梓澄",
+    "platformClass": "2GD",
+    "platformStudentId": 1046633,
+    "schoolClass": "2D",
+    "total": 5
+  },
+  "1046634": {
+    "id": 2,
+    "name": "陳瑩雅",
+    "platformClass": "2GD",
+    "platformStudentId": 1046634,
+    "schoolClass": "2D",
+    "total": 5
+  },
+  "1046635": {
+    "id": 3,
+    "name": "陳映彤",
+    "platformClass": "2GD",
+    "platformStudentId": 1046635,
+    "schoolClass": "2D",
+    "total": 5
+  },
+  "1046636": {
+    "id": 4,
+    "name": "許傳馨",
+    "platformClass": "2GD",
+    "platformStudentId": 1046636,
+    "schoolClass": "2D",
+    "total": 5
+  },
+  "1046637": {
+    "id": 5,
+    "name": "梁凱橋",
+    "platformClass": "2GD",
+    "platformStudentId": 1046637,
+    "schoolClass": "2D",
+    "total": 5
+  },
+  "1046638": {
+    "id": 6,
+    "name": "林詩晨",
+    "platformClass": "2GD",
+    "platformStudentId": 1046638,
+    "schoolClass": "2D",
+    "total": 5
+  },
+  "1046639": {
+    "id": 7,
+    "name": "凌宇芯",
+    "platformClass": "2GC",
+    "platformStudentId": 1046639,
+    "schoolClass": "2D",
+    "total": 5
+  },
+  "1046640": {
+    "id": 8,
+    "name": "龍梓琳",
+    "platformClass": "2GC",
+    "platformStudentId": 1046640,
+    "schoolClass": "2D",
+    "total": 5
+  },
+  "1046641": {
+    "id": 1,
+    "name": "雷靜",
+    "platformClass": "2GD",
+    "platformStudentId": 1046641,
+    "schoolClass": "2B",
+    "total": 5
+  },
+  "1046642": {
+    "id": 7,
+    "name": "鄧俙敏",
+    "platformClass": "2GC",
+    "platformStudentId": 1046642,
+    "schoolClass": "2C",
+    "total": 5
+  },
+  "1046643": {
+    "id": 11,
+    "name": "王富睿",
+    "platformClass": "2GD",
+    "platformStudentId": 1046643,
+    "schoolClass": "2D",
+    "total": 5
+  },
+  "1046644": {
+    "id": 13,
+    "name": "夏熒熒",
+    "platformClass": "2GD",
+    "platformStudentId": 1046644,
+    "schoolClass": "2D",
+    "total": 5
+  },
+  "1046645": {
+    "id": 14,
+    "name": "哈迪",
+    "platformClass": "2GC",
+    "platformStudentId": 1046645,
+    "schoolClass": "2D",
+    "total": 5
+  },
+  "1046646": {
+    "id": 7,
+    "name": "陳治文",
+    "platformClass": "2GA",
+    "platformStudentId": 1046646,
+    "schoolClass": "2B",
+    "total": 5
+  },
+  "1046647": {
+    "id": 12,
+    "name": "陳立智",
+    "platformClass": "2GA",
+    "platformStudentId": 1046647,
+    "schoolClass": "2C",
+    "total": 5
+  },
+  "1046648": {
+    "id": 10,
+    "name": "張啟宇",
+    "platformClass": "2GB",
+    "platformStudentId": 1046648,
+    "schoolClass": "2B",
+    "total": 5
+  },
+  "1046649": {
+    "id": 11,
+    "name": "占梓言",
+    "platformClass": "2GD",
+    "platformStudentId": 1046649,
+    "schoolClass": "2B",
+    "total": 5
+  },
+  "1046650": {
+    "id": 19,
+    "name": "江柏僑",
+    "platformClass": "2GD",
+    "platformStudentId": 1046650,
+    "schoolClass": "2D",
+    "total": 5
+  },
+  "1046651": {
+    "id": 9,
+    "name": "林梓健",
+    "platformClass": "2GA",
+    "platformStudentId": 1046651,
+    "schoolClass": "2A",
+    "total": 5
+  },
+  "1046652": {
+    "id": 10,
+    "name": "林葦峯",
+    "platformClass": "2GA",
+    "platformStudentId": 1046652,
+    "schoolClass": "2A",
+    "total": 5
+  },
+  "1046654": {
+    "id": 11,
+    "name": "梁峻榮",
+    "platformClass": "2GA",
+    "platformStudentId": 1046654,
+    "schoolClass": "2A",
+    "total": 5
+  },
+  "1046655": {
+    "id": 21,
+    "name": "呂日朗",
+    "platformClass": "2GD",
+    "platformStudentId": 1046655,
+    "schoolClass": "2D",
+    "total": 5
+  },
+  "1046656": {
+    "id": 17,
+    "name": "施敬軒",
+    "platformClass": "2GA",
+    "platformStudentId": 1046656,
+    "schoolClass": "2B",
+    "total": 5
+  },
+  "1046657": {
+    "id": 22,
+    "name": "施澤鍇",
+    "platformClass": "2GD",
+    "platformStudentId": 1046657,
+    "schoolClass": "2D",
+    "total": 5
+  },
+  "1046658": {
+    "id": 23,
+    "name": "鄧浩賢",
+    "platformClass": "2GC",
+    "platformStudentId": 1046658,
+    "schoolClass": "2D",
+    "total": 5
+  },
+  "1046659": {
+    "id": 24,
+    "name": "黃鎮嵐",
+    "platformClass": "2GD",
+    "platformStudentId": 1046659,
+    "schoolClass": "2D",
+    "total": 5
+  },
+  "1046660": {
+    "id": 21,
+    "name": "余竣傑",
+    "platformClass": "2GA",
+    "platformStudentId": 1046660,
+    "schoolClass": "2A",
+    "total": 5
+  },
+  "1046661": {
+    "id": 27,
+    "name": "左武生",
+    "platformClass": "2GD",
+    "platformStudentId": 1046661,
+    "schoolClass": "2D",
+    "total": 5
+  },
+  "1046662": {
+    "id": 29,
+    "name": "張家豪",
+    "platformClass": "3GC",
+    "platformStudentId": 1046662,
+    "schoolClass": "3D",
+    "total": 5
+  },
+  "1046663": {
+    "id": 27,
+    "name": "王富申",
+    "platformClass": "4C",
+    "platformStudentId": 1046663,
+    "schoolClass": "4C",
+    "total": 5
+  },
+  "1046664": {
+    "id": 31,
+    "name": "左宇生",
+    "platformClass": "4A",
+    "platformStudentId": 1046664,
+    "schoolClass": "4A",
+    "total": 5
+  },
+  "1046665": {
+    "id": 23,
+    "name": "林宝鑫",
+    "platformClass": "4C",
+    "platformStudentId": 1046665,
+    "schoolClass": "4C",
+    "total": 5
+  },
+  "1046666": {
+    "id": 8,
+    "name": "鄧文希",
+    "platformClass": "5A",
+    "platformStudentId": 1046666,
+    "schoolClass": "5A",
+    "total": 5
+  },
+  "1046667": {
+    "id": 20,
+    "name": "郭奧林",
+    "platformClass": "5C",
+    "platformStudentId": 1046667,
+    "schoolClass": "5C",
+    "total": 5
+  },
+  "1046668": {
+    "id": 16,
+    "name": "羅卓言",
+    "platformClass": "5A",
+    "platformStudentId": 1046668,
+    "schoolClass": "5A",
+    "total": 5
+  },
+  "1046669": {
+    "id": 17,
+    "name": "彭源宇",
+    "platformClass": "5A",
+    "platformStudentId": 1046669,
+    "schoolClass": "5A",
+    "total": 5
+  },
+  "1046670": {
+    "id": 8,
+    "name": "夏桑茹",
+    "platformClass": "5B",
+    "platformStudentId": 1046670,
+    "schoolClass": "5B",
+    "total": 5
+  },
+  "1046671": {
+    "id": 10,
+    "name": "陳增炫",
+    "platformClass": "5B",
+    "platformStudentId": 1046671,
+    "schoolClass": "5B",
+    "total": 5
+  },
+  "1046672": {
+    "id": 18,
+    "name": "陳子安",
+    "platformClass": "5C",
+    "platformStudentId": 1046672,
+    "schoolClass": "5C",
+    "total": 5
+  },
+  "1046673": {
+    "id": 25,
+    "name": "張諾軒",
+    "platformClass": "5B",
+    "platformStudentId": 1046673,
+    "schoolClass": "5B",
+    "total": 5
+  },
+  "1046675": {
+    "id": 16,
+    "name": "朱曦敏",
+    "platformClass": "5C",
+    "platformStudentId": 1046675,
+    "schoolClass": "5C",
+    "total": 5
+  },
+  "1048692": {
+    "id": 26,
+    "name": "周弘雨",
+    "platformClass": "2GD",
+    "platformStudentId": 1048692,
+    "schoolClass": "2D",
+    "total": 5
+  },
+  "1048693": {
+    "id": 1,
+    "name": "招梓晴",
+    "platformClass": "4C",
+    "platformStudentId": 1048693,
+    "schoolClass": "4C",
+    "total": 5
+  },
+  "1049686": {
+    "id": 24,
+    "name": "禹弘博",
+    "platformClass": "3GC",
+    "platformStudentId": 1049686,
+    "schoolClass": "3C",
+    "total": 5
+  },
+  "1049687": {
+    "id": 14,
+    "name": "李熠晨",
+    "platformClass": "3GA",
+    "platformStudentId": 1049687,
+    "schoolClass": "3A",
+    "total": 5
+  },
+  "1049741": {
+    "id": 17,
+    "name": "陳少鋒",
+    "platformClass": "5C",
+    "platformStudentId": 1049741,
+    "schoolClass": "5C",
+    "total": 5
+  },
+  "1051060": {
+    "id": 15,
+    "name": "陳子睿",
+    "platformClass": "2GD",
+    "platformStudentId": 1051060,
+    "schoolClass": "2D",
+    "total": 5
+  },
+  "1071617": {
+    "id": 1,
+    "name": "陳洛頤",
+    "platformClass": "1GC",
+    "platformStudentId": 1071617,
+    "schoolClass": "1A",
+    "total": 5
+  },
+  "1071618": {
+    "id": 2,
+    "name": "付梓鎣",
+    "platformClass": "1GC",
+    "platformStudentId": 1071618,
+    "schoolClass": "1A",
+    "total": 5
+  },
+  "1071619": {
+    "id": 3,
+    "name": "羅倩兒",
+    "platformClass": "1GB",
+    "platformStudentId": 1071619,
+    "schoolClass": "1A",
+    "total": 5
+  },
+  "1071620": {
+    "id": 4,
+    "name": "鍾鳴妤",
+    "platformClass": "1GA",
+    "platformStudentId": 1071620,
+    "schoolClass": "1A",
+    "total": 5
+  },
+  "1071621": {
+    "id": 5,
+    "name": "姚芷晴",
+    "platformClass": "1GB",
+    "platformStudentId": 1071621,
+    "schoolClass": "1A",
+    "total": 5
+  },
+  "1071622": {
+    "id": 6,
+    "name": "張淽墧",
+    "platformClass": "1GA",
+    "platformStudentId": 1071622,
+    "schoolClass": "1A",
+    "total": 5
+  },
+  "1071623": {
+    "id": 8,
+    "name": "陳健峰",
+    "platformClass": "1GA",
+    "platformStudentId": 1071623,
+    "schoolClass": "1A",
+    "total": 5
+  },
+  "1071624": {
+    "id": 9,
+    "name": "鄭頌熹",
+    "platformClass": "1GC",
+    "platformStudentId": 1071624,
+    "schoolClass": "1A",
+    "total": 5
+  },
+  "1071625": {
+    "id": 10,
+    "name": "周卓霆",
+    "platformClass": "1GA",
+    "platformStudentId": 1071625,
+    "schoolClass": "1A",
+    "total": 5
+  },
+  "1071626": {
+    "id": 11,
+    "name": "江柏翹",
+    "platformClass": "1GA",
+    "platformStudentId": 1071626,
+    "schoolClass": "1A",
+    "total": 5
+  },
+  "1071627": {
+    "id": 12,
+    "name": "黎樂賢",
+    "platformClass": "1GA",
+    "platformStudentId": 1071627,
+    "schoolClass": "1A",
+    "total": 5
+  },
+  "1071628": {
+    "id": 13,
+    "name": "李宇恒",
+    "platformClass": "1GA",
+    "platformStudentId": 1071628,
+    "schoolClass": "1A",
+    "total": 5
+  },
+  "1071629": {
+    "id": 14,
+    "name": "李金俊",
+    "platformClass": "1GA",
+    "platformStudentId": 1071629,
+    "schoolClass": "1A",
+    "total": 5
+  },
+  "1071630": {
+    "id": 15,
+    "name": "李文睿",
+    "platformClass": "1GA",
+    "platformStudentId": 1071630,
+    "schoolClass": "1A",
+    "total": 5
+  },
+  "1071631": {
+    "id": 16,
+    "name": "盧永耀",
+    "platformClass": "1GA",
+    "platformStudentId": 1071631,
+    "schoolClass": "1A",
+    "total": 5
+  },
+  "1071632": {
+    "id": 17,
+    "name": "SHAH SHAHZAD FAISAL",
+    "platformClass": "1GA",
+    "platformStudentId": 1071632,
+    "schoolClass": "1A",
+    "total": 5
+  },
+  "1071633": {
+    "id": 18,
+    "name": "孫正昊",
+    "platformClass": "1GA",
+    "platformStudentId": 1071633,
+    "schoolClass": "1A",
+    "total": 5
+  },
+  "1071634": {
+    "id": 19,
+    "name": "譚栢翹",
+    "platformClass": "1GA",
+    "platformStudentId": 1071634,
+    "schoolClass": "1A",
+    "total": 5
+  },
+  "1071635": {
+    "id": 1,
+    "name": "陳宥言",
+    "platformClass": "1GB",
+    "platformStudentId": 1071635,
+    "schoolClass": "1B",
+    "total": 5
+  },
+  "1071636": {
+    "id": 2,
+    "name": "李子琳",
+    "platformClass": "1GB",
+    "platformStudentId": 1071636,
+    "schoolClass": "1B",
+    "total": 5
+  },
+  "1071637": {
+    "id": 3,
+    "name": "吳嘉琪",
+    "platformClass": "1GB",
+    "platformStudentId": 1071637,
+    "schoolClass": "1B",
+    "total": 5
+  },
+  "1071638": {
+    "id": 4,
+    "name": "蘇泇澄",
+    "platformClass": "1GB",
+    "platformStudentId": 1071638,
+    "schoolClass": "1B",
+    "total": 5
+  },
+  "1071639": {
+    "id": 6,
+    "name": "唐靜怡",
+    "platformClass": "1GB",
+    "platformStudentId": 1071639,
+    "schoolClass": "1B",
+    "total": 5
+  },
+  "1071640": {
+    "id": 7,
+    "name": "張樂怡",
+    "platformClass": "1GB",
+    "platformStudentId": 1071640,
+    "schoolClass": "1B",
+    "total": 5
+  },
+  "1071641": {
+    "id": 8,
+    "name": "翟俊然",
+    "platformClass": "1GB",
+    "platformStudentId": 1071641,
+    "schoolClass": "1B",
+    "total": 5
+  },
+  "1071642": {
+    "id": 9,
+    "name": "陳志健",
+    "platformClass": "1GB",
+    "platformStudentId": 1071642,
+    "schoolClass": "1B",
+    "total": 5
+  },
+  "1071643": {
+    "id": 10,
+    "name": "陳銘康",
+    "platformClass": "1GA",
+    "platformStudentId": 1071643,
+    "schoolClass": "1B",
+    "total": 5
+  },
+  "1071644": {
+    "id": 11,
+    "name": "鍾家樂",
+    "platformClass": "1GB",
+    "platformStudentId": 1071644,
+    "schoolClass": "1B",
+    "total": 5
+  },
+  "1071645": {
+    "id": 12,
+    "name": "高朗",
+    "platformClass": "1GA",
+    "platformStudentId": 1071645,
+    "schoolClass": "1B",
+    "total": 5
+  },
+  "1071646": {
+    "id": 13,
+    "name": "林景山",
+    "platformClass": "1GB",
+    "platformStudentId": 1071646,
+    "schoolClass": "1B",
+    "total": 5
+  },
+  "1071647": {
+    "id": 15,
+    "name": "林凱延",
+    "platformClass": "1GB",
+    "platformStudentId": 1071647,
+    "schoolClass": "1B",
+    "total": 5
+  },
+  "1071648": {
+    "id": 16,
+    "name": "莫賀名",
+    "platformClass": "1GC",
+    "platformStudentId": 1071648,
+    "schoolClass": "1B",
+    "total": 5
+  },
+  "1071649": {
+    "id": 17,
+    "name": "施文彬",
+    "platformClass": "1GB",
+    "platformStudentId": 1071649,
+    "schoolClass": "1B",
+    "total": 5
+  },
+  "1071650": {
+    "id": 18,
+    "name": "王延鴻",
+    "platformClass": "1GB",
+    "platformStudentId": 1071650,
+    "schoolClass": "1B",
+    "total": 5
+  },
+  "1071651": {
+    "id": 19,
+    "name": "謝賢明",
+    "platformClass": "1GC",
+    "platformStudentId": 1071651,
+    "schoolClass": "1B",
+    "total": 5
+  },
+  "1071652": {
+    "id": 20,
+    "name": "嚴浩洛",
+    "platformClass": "1GA",
+    "platformStudentId": 1071652,
+    "schoolClass": "1B",
+    "total": 5
+  },
+  "1071653": {
+    "id": 1,
+    "name": "陳卓瑤",
+    "platformClass": "1GC",
+    "platformStudentId": 1071653,
+    "schoolClass": "1C",
+    "total": 5
+  },
+  "1071654": {
+    "id": 2,
+    "name": "陳梓怡",
+    "platformClass": "1GC",
+    "platformStudentId": 1071654,
+    "schoolClass": "1C",
+    "total": 5
+  },
+  "1071655": {
+    "id": 3,
+    "name": "徐思敏",
+    "platformClass": "1GC",
+    "platformStudentId": 1071655,
+    "schoolClass": "1C",
+    "total": 5
+  },
+  "1071656": {
+    "id": 4,
+    "name": "俞晞瞳",
+    "platformClass": "1GC",
+    "platformStudentId": 1071656,
+    "schoolClass": "1C",
+    "total": 5
+  },
+  "1071657": {
+    "id": 5,
+    "name": "余慧琪",
+    "platformClass": "1GC",
+    "platformStudentId": 1071657,
+    "schoolClass": "1C",
+    "total": 5
+  },
+  "1071658": {
+    "id": 6,
+    "name": "陳俊僖",
+    "platformClass": "1GB",
+    "platformStudentId": 1071658,
+    "schoolClass": "1C",
+    "total": 5
+  },
+  "1071659": {
+    "id": 7,
+    "name": "陳曉陽",
+    "platformClass": "1GC",
+    "platformStudentId": 1071659,
+    "schoolClass": "1C",
+    "total": 5
+  },
+  "1071660": {
+    "id": 8,
+    "name": "鄭丞希",
+    "platformClass": "1GC",
+    "platformStudentId": 1071660,
+    "schoolClass": "1C",
+    "total": 5
+  },
+  "1071661": {
+    "id": 9,
+    "name": "周栢宇",
+    "platformClass": "1GB",
+    "platformStudentId": 1071661,
+    "schoolClass": "1C",
+    "total": 5
+  },
+  "1071662": {
+    "id": 10,
+    "name": "何彥樑",
+    "platformClass": "1GD",
+    "platformStudentId": 1071662,
+    "schoolClass": "1C",
+    "total": 5
+  },
+  "1071663": {
+    "id": 11,
+    "name": "侯振傑",
+    "platformClass": "1GC",
+    "platformStudentId": 1071663,
+    "schoolClass": "1C",
+    "total": 5
+  },
+  "1071664": {
+    "id": 12,
+    "name": "關卓翹",
+    "platformClass": "1GA",
+    "platformStudentId": 1071664,
+    "schoolClass": "1C",
+    "total": 5
+  },
+  "1071665": {
+    "id": 13,
+    "name": "關宇軒",
+    "platformClass": "1GB",
+    "platformStudentId": 1071665,
+    "schoolClass": "1C",
+    "total": 5
+  },
+  "1071666": {
+    "id": 14,
+    "name": "林梓洛",
+    "platformClass": "1GD",
+    "platformStudentId": 1071666,
+    "schoolClass": "1C",
+    "total": 5
+  },
+  "1071667": {
+    "id": 15,
+    "name": "利宗謙",
+    "platformClass": "1GC",
+    "platformStudentId": 1071667,
+    "schoolClass": "1C",
+    "total": 5
+  },
+  "1071668": {
+    "id": 17,
+    "name": "梁思炫",
+    "platformClass": "1GC",
+    "platformStudentId": 1071668,
+    "schoolClass": "1C",
+    "total": 5
+  },
+  "1071669": {
+    "id": 18,
+    "name": "盧声立",
+    "platformClass": "1GB",
+    "platformStudentId": 1071669,
+    "schoolClass": "1C",
+    "total": 5
+  },
+  "1071670": {
+    "id": 19,
+    "name": "MUHAMMAD SAMIR",
+    "platformClass": "1GB",
+    "platformStudentId": 1071670,
+    "schoolClass": "1C",
+    "total": 5
+  },
+  "1071671": {
+    "id": 20,
+    "name": "冼葦軒",
+    "platformClass": "1GC",
+    "platformStudentId": 1071671,
+    "schoolClass": "1C",
+    "total": 5
+  },
+  "1071672": {
+    "id": 21,
+    "name": "蕭廷熹",
+    "platformClass": "1GD",
+    "platformStudentId": 1071672,
+    "schoolClass": "1C",
+    "total": 5
+  },
+  "1071673": {
+    "id": 22,
+    "name": "譚朗翹",
+    "platformClass": "1GC",
+    "platformStudentId": 1071673,
+    "schoolClass": "1C",
+    "total": 5
+  },
+  "1071674": {
+    "id": 23,
+    "name": "唐振翔",
+    "platformClass": "1GA",
+    "platformStudentId": 1071674,
+    "schoolClass": "1C",
+    "total": 5
+  },
+  "1071675": {
+    "id": 24,
+    "name": "謝勒邦",
+    "platformClass": "1GD",
+    "platformStudentId": 1071675,
+    "schoolClass": "1C",
+    "total": 5
+  },
+  "1071676": {
+    "id": 25,
+    "name": "蔡珀言",
+    "platformClass": "1GC",
+    "platformStudentId": 1071676,
+    "schoolClass": "1C",
+    "total": 5
+  },
+  "1071677": {
+    "id": 26,
+    "name": "王柏熙",
+    "platformClass": "1GC",
+    "platformStudentId": 1071677,
+    "schoolClass": "1C",
+    "total": 5
+  },
+  "1071678": {
+    "id": 27,
+    "name": "王柏軒",
+    "platformClass": "1GB",
+    "platformStudentId": 1071678,
+    "schoolClass": "1C",
+    "total": 5
+  },
+  "1071679": {
+    "id": 28,
+    "name": "葉栢鋒",
+    "platformClass": "1GD",
+    "platformStudentId": 1071679,
+    "schoolClass": "1C",
+    "total": 5
+  },
+  "1071680": {
+    "id": 1,
+    "name": "陳欣彤",
+    "platformClass": "1GD",
+    "platformStudentId": 1071680,
+    "schoolClass": "1D",
+    "total": 5
+  },
+  "1071681": {
+    "id": 2,
+    "name": "張子琪",
+    "platformClass": "1GC",
+    "platformStudentId": 1071681,
+    "schoolClass": "1D",
+    "total": 5
+  },
+  "1071682": {
+    "id": 3,
+    "name": "江凱嵐",
+    "platformClass": "1GD",
+    "platformStudentId": 1071682,
+    "schoolClass": "1D",
+    "total": 5
+  },
+  "1071683": {
+    "id": 4,
+    "name": "林子倩",
+    "platformClass": "1GC",
+    "platformStudentId": 1071683,
+    "schoolClass": "1D",
+    "total": 5
+  },
+  "1071684": {
+    "id": 5,
+    "name": "羅婧嵐",
+    "platformClass": "1GD",
+    "platformStudentId": 1071684,
+    "schoolClass": "1D",
+    "total": 5
+  },
+  "1071685": {
+    "id": 6,
+    "name": "劉梓琪",
+    "platformClass": "1GD",
+    "platformStudentId": 1071685,
+    "schoolClass": "1D",
+    "total": 5
+  },
+  "1071686": {
+    "id": 7,
+    "name": "譚綺玲",
+    "platformClass": "1GD",
+    "platformStudentId": 1071686,
+    "schoolClass": "1D",
+    "total": 5
+  },
+  "1071687": {
+    "id": 8,
+    "name": "吳思涵",
+    "platformClass": "1GD",
+    "platformStudentId": 1071687,
+    "schoolClass": "1D",
+    "total": 5
+  },
+  "1071688": {
+    "id": 9,
+    "name": "曾婉婷",
+    "platformClass": "1GD",
+    "platformStudentId": 1071688,
+    "schoolClass": "1D",
+    "total": 5
+  },
+  "1071689": {
+    "id": 10,
+    "name": "張淑怡",
+    "platformClass": "1GD",
+    "platformStudentId": 1071689,
+    "schoolClass": "1D",
+    "total": 5
+  },
+  "1071690": {
+    "id": 11,
+    "name": "朱若琳",
+    "platformClass": "1GD",
+    "platformStudentId": 1071690,
+    "schoolClass": "1D",
+    "total": 5
+  },
+  "1071691": {
+    "id": 12,
+    "name": "朱文第",
+    "platformClass": "1GD",
+    "platformStudentId": 1071691,
+    "schoolClass": "1D",
+    "total": 5
+  },
+  "1071692": {
+    "id": 13,
+    "name": "翟梓俊",
+    "platformClass": "1GD",
+    "platformStudentId": 1071692,
+    "schoolClass": "1D",
+    "total": 5
+  },
+  "1071693": {
+    "id": 14,
+    "name": "傅奕信",
+    "platformClass": "1GD",
+    "platformStudentId": 1071693,
+    "schoolClass": "1D",
+    "total": 5
+  },
+  "1071694": {
+    "id": 15,
+    "name": "何胤達",
+    "platformClass": "1GD",
+    "platformStudentId": 1071694,
+    "schoolClass": "1D",
+    "total": 5
+  },
+  "1071695": {
+    "id": 16,
+    "name": "何尚謙",
+    "platformClass": "1GD",
+    "platformStudentId": 1071695,
+    "schoolClass": "1D",
+    "total": 5
+  },
+  "1071696": {
+    "id": 17,
+    "name": "何永康",
+    "platformClass": "1GC",
+    "platformStudentId": 1071696,
+    "schoolClass": "1D",
+    "total": 5
+  },
+  "1071697": {
+    "id": 18,
+    "name": "關嘉輝",
+    "platformClass": "1GD",
+    "platformStudentId": 1071697,
+    "schoolClass": "1D",
+    "total": 5
+  },
+  "1071698": {
+    "id": 19,
+    "name": "林修立",
+    "platformClass": "1GD",
+    "platformStudentId": 1071698,
+    "schoolClass": "1D",
+    "total": 5
+  },
+  "1071699": {
+    "id": 20,
+    "name": "李浩林",
+    "platformClass": "1GC",
+    "platformStudentId": 1071699,
+    "schoolClass": "1D",
+    "total": 5
+  },
+  "1071700": {
+    "id": 21,
+    "name": "劉思炫",
+    "platformClass": "1GD",
+    "platformStudentId": 1071700,
+    "schoolClass": "1D",
+    "total": 5
+  },
+  "1071701": {
+    "id": 22,
+    "name": "盧禹仁",
+    "platformClass": "1GD",
+    "platformStudentId": 1071701,
+    "schoolClass": "1D",
+    "total": 5
+  },
+  "1071702": {
+    "id": 23,
+    "name": "鄧宇政",
+    "platformClass": "1GD",
+    "platformStudentId": 1071702,
+    "schoolClass": "1D",
+    "total": 5
+  },
+  "1071703": {
+    "id": 24,
+    "name": "王梓浚",
+    "platformClass": "1GC",
+    "platformStudentId": 1071703,
+    "schoolClass": "1D",
+    "total": 5
+  },
+  "1071704": {
+    "id": 25,
+    "name": "王灃晞",
+    "platformClass": "1GC",
+    "platformStudentId": 1071704,
+    "schoolClass": "1D",
+    "total": 5
+  },
+  "1071705": {
+    "id": 26,
+    "name": "顏鴻澤",
+    "platformClass": "1GD",
+    "platformStudentId": 1071705,
+    "schoolClass": "1D",
+    "total": 5
+  },
+  "1071706": {
+    "id": 27,
+    "name": "曾麒恩",
+    "platformClass": "1GD",
+    "platformStudentId": 1071706,
+    "schoolClass": "1D",
+    "total": 5
+  },
+  "1071707": {
+    "id": 28,
+    "name": "張立之",
+    "platformClass": "1GA",
+    "platformStudentId": 1071707,
+    "schoolClass": "1D",
+    "total": 5
+  },
+  "1071708": {
+    "id": 17,
+    "name": "曾卓一",
+    "platformClass": "2GC",
+    "platformStudentId": 1071708,
+    "schoolClass": "2A",
+    "total": 5
+  },
+  "1071709": {
+    "id": 18,
+    "name": "鄔俊熙",
+    "platformClass": "2GB",
+    "platformStudentId": 1071709,
+    "schoolClass": "2B",
+    "total": 5
+  },
+  "1071710": {
+    "id": 5,
+    "name": "梁伊涵",
+    "platformClass": "2GC",
+    "platformStudentId": 1071710,
+    "schoolClass": "2C",
+    "total": 5
+  },
+  "1071711": {
+    "id": 8,
+    "name": "嚴格",
+    "platformClass": "2GC",
+    "platformStudentId": 1071711,
+    "schoolClass": "2C",
+    "total": 5
+  },
+  "1071712": {
+    "id": 10,
+    "name": "趙芊譽",
+    "platformClass": "2GC",
+    "platformStudentId": 1071712,
+    "schoolClass": "2C",
+    "total": 5
+  },
+  "1071713": {
+    "id": 13,
+    "name": "陳天賜",
+    "platformClass": "2GB",
+    "platformStudentId": 1071713,
+    "schoolClass": "2C",
+    "total": 5
+  },
+  "1071714": {
+    "id": 24,
+    "name": "盧弘智",
+    "platformClass": "2GB",
+    "platformStudentId": 1071714,
+    "schoolClass": "2C",
+    "total": 5
+  },
+  "1071715": {
+    "id": 9,
+    "name": "伍卓婷",
+    "platformClass": "2GD",
+    "platformStudentId": 1071715,
+    "schoolClass": "2D",
+    "total": 5
+  },
+  "1071716": {
+    "id": 12,
+    "name": "吳若希",
+    "platformClass": "2GD",
+    "platformStudentId": 1071716,
+    "schoolClass": "2D",
+    "total": 5
+  },
+  "1071717": {
+    "id": 25,
+    "name": "章赫宸",
+    "platformClass": "2GD",
+    "platformStudentId": 1071717,
+    "schoolClass": "2D",
+    "total": 5
+  },
+  "1071718": {
+    "id": 7,
+    "name": "羅子珊",
+    "platformClass": "3GC",
+    "platformStudentId": 1071718,
+    "schoolClass": "3C",
+    "total": 5
+  },
+  "1071719": {
+    "id": 25,
+    "name": "曾琦博",
+    "platformClass": "3GC",
+    "platformStudentId": 1071719,
+    "schoolClass": "3C",
+    "total": 5
+  },
+  "1071720": {
+    "id": 27,
+    "name": "吳世傑",
+    "platformClass": "3GC",
+    "platformStudentId": 1071720,
+    "schoolClass": "3C",
+    "total": 5
+  },
+  "1071721": {
+    "id": 2,
+    "name": "馮楚怡",
+    "platformClass": "3GB",
+    "platformStudentId": 1071721,
+    "schoolClass": "3D",
+    "total": 5
+  },
+  "1071722": {
+    "id": 8,
+    "name": "李聞炎",
+    "platformClass": "3GB",
+    "platformStudentId": 1071722,
+    "schoolClass": "3D",
+    "total": 5
+  },
+  "1071723": {
+    "id": 18,
+    "name": "陳煜光",
+    "platformClass": "3GD",
+    "platformStudentId": 1071723,
+    "schoolClass": "3D",
+    "total": 5
+  },
+  "1071724": {
+    "id": 5,
+    "name": "陳芯麗",
+    "platformClass": "4A",
+    "platformStudentId": 1071724,
+    "schoolClass": "4A",
+    "total": 5
+  },
+  "1071725": {
+    "id": 10,
+    "name": "吳芯如",
+    "platformClass": "4A",
+    "platformStudentId": 1071725,
+    "schoolClass": "4A",
+    "total": 5
+  },
+  "1071726": {
+    "id": 6,
+    "name": "梁可佳",
+    "platformClass": "4B",
+    "platformStudentId": 1071726,
+    "schoolClass": "4B",
+    "total": 5
+  },
+  "1071727": {
+    "id": 19,
+    "name": "江磊",
+    "platformClass": "4B",
+    "platformStudentId": 1071727,
+    "schoolClass": "4B",
+    "total": 5
+  },
+  "1071728": {
+    "id": 24,
+    "name": "李世博",
+    "platformClass": "4B",
+    "platformStudentId": 1071728,
+    "schoolClass": "4B",
+    "total": 5
+  },
+  "1071729": {
+    "id": 2,
+    "name": "黃真心",
+    "platformClass": "4C",
+    "platformStudentId": 1071729,
+    "schoolClass": "4C",
+    "total": 5
+  },
+  "1071730": {
+    "id": 7,
+    "name": "劉佳林",
+    "platformClass": "4C",
+    "platformStudentId": 1071730,
+    "schoolClass": "4C",
+    "total": 5
+  },
+  "1071731": {
+    "id": 12,
+    "name": "徐絲瑜",
+    "platformClass": "4C",
+    "platformStudentId": 1071731,
+    "schoolClass": "4C",
+    "total": 5
+  },
+  "1071732": {
+    "id": 17,
+    "name": "陳泊羽",
+    "platformClass": "4C",
+    "platformStudentId": 1071732,
+    "schoolClass": "4C",
+    "total": 5
+  },
+  "1071733": {
+    "id": 35,
+    "name": "黃祺越",
+    "platformClass": "4C",
+    "platformStudentId": 1071733,
+    "schoolClass": "4C",
+    "total": 5
+  },
+  "1071734": {
+    "id": 21,
+    "name": "楊梓茵",
+    "platformClass": "5A",
+    "platformStudentId": 1071734,
+    "schoolClass": "5A",
+    "total": 5
+  },
+  "953865": {
+    "id": 4,
+    "name": "陳宛靖",
+    "platformClass": "4A",
+    "platformStudentId": 953865,
+    "schoolClass": "4A",
+    "total": 5
+  },
+  "953866": {
+    "id": 2,
+    "name": "何霈霖",
+    "platformClass": "3GA",
+    "platformStudentId": 953866,
+    "schoolClass": "3A",
+    "total": 5
+  },
+  "953868": {
+    "id": 10,
+    "name": "張俊柏",
+    "platformClass": "3GA",
+    "platformStudentId": 953868,
+    "schoolClass": "3A",
+    "total": 5
+  },
+  "953870": {
+    "id": 11,
+    "name": "樊達軒",
+    "platformClass": "3GA",
+    "platformStudentId": 953870,
+    "schoolClass": "3A",
+    "total": 5
+  },
+  "953871": {
+    "id": 15,
+    "name": "馮柏喬",
+    "platformClass": "4A",
+    "platformStudentId": 953871,
+    "schoolClass": "4A",
+    "total": 5
+  },
+  "953873": {
+    "id": 12,
+    "name": "高仲佳",
+    "platformClass": "3GB",
+    "platformStudentId": 953873,
+    "schoolClass": "3B",
+    "total": 5
+  },
+  "953874": {
+    "id": 16,
+    "name": "蘇爾聲",
+    "platformClass": "2GB",
+    "platformStudentId": 953874,
+    "schoolClass": "2A",
+    "total": 5
+  },
+  "953877": {
+    "id": 1,
+    "name": "蔡顏冰",
+    "platformClass": "4A",
+    "platformStudentId": 953877,
+    "schoolClass": "4A",
+    "total": 5
+  },
+  "953878": {
+    "id": 8,
+    "name": "黎宇桐",
+    "platformClass": "4A",
+    "platformStudentId": 953878,
+    "schoolClass": "4A",
+    "total": 5
+  },
+  "953879": {
+    "id": 11,
+    "name": "徐駿朗",
+    "platformClass": "3GB",
+    "platformStudentId": 953879,
+    "schoolClass": "3B",
+    "total": 5
+  },
+  "953881": {
+    "id": 26,
+    "name": "鄧兆洋",
+    "platformClass": "4B",
+    "platformStudentId": 953881,
+    "schoolClass": "4B",
+    "total": 5
+  },
+  "953882": {
+    "id": 19,
+    "name": "余晓鑫",
+    "platformClass": "2GA",
+    "platformStudentId": 953882,
+    "schoolClass": "2B",
+    "total": 5
+  },
+  "953883": {
+    "id": 19,
+    "name": "林修賢",
+    "platformClass": "4A",
+    "platformStudentId": 953883,
+    "schoolClass": "4A",
+    "total": 5
+  },
+  "953885": {
+    "id": 10,
+    "name": "曾寶兒",
+    "platformClass": "4B",
+    "platformStudentId": 953885,
+    "schoolClass": "4B",
+    "total": 5
+  },
+  "953886": {
+    "id": 4,
+    "name": "李舒涵",
+    "platformClass": "4C",
+    "platformStudentId": 953886,
+    "schoolClass": "4C",
+    "total": 5
+  },
+  "953887": {
+    "id": 12,
+    "name": "蔡銘燁",
+    "platformClass": "4A",
+    "platformStudentId": 953887,
+    "schoolClass": "4A",
+    "total": 5
+  },
+  "953888": {
+    "id": 10,
+    "name": "張庭瑜",
+    "platformClass": "3GA",
+    "platformStudentId": 953888,
+    "schoolClass": "3B",
+    "total": 5
+  },
+  "953889": {
+    "id": 2,
+    "name": "許芷盈",
+    "platformClass": "4B",
+    "platformStudentId": 953889,
+    "schoolClass": "4B",
+    "total": 5
+  },
+  "953890": {
+    "id": 12,
+    "name": "胡若妃",
+    "platformClass": "4B",
+    "platformStudentId": 953890,
+    "schoolClass": "4B",
+    "total": 5
+  },
+  "953891": {
+    "id": 13,
+    "name": "楊建恩",
+    "platformClass": "4B",
+    "platformStudentId": 953891,
+    "schoolClass": "4B",
+    "total": 5
+  },
+  "953892": {
+    "id": 17,
+    "name": "何豐任",
+    "platformClass": "4B",
+    "platformStudentId": 953892,
+    "schoolClass": "4B",
+    "total": 5
+  },
+  "953893": {
+    "id": 12,
+    "name": "何孝傑",
+    "platformClass": "2GB",
+    "platformStudentId": 953893,
+    "schoolClass": "2B",
+    "total": 5
+  },
+  "953894": {
+    "id": 20,
+    "name": "林治翰",
+    "platformClass": "4A",
+    "platformStudentId": 953894,
+    "schoolClass": "4A",
+    "total": 5
+  },
+  "953895": {
+    "id": 22,
+    "name": "吳杰燐",
+    "platformClass": "4A",
+    "platformStudentId": 953895,
+    "schoolClass": "4A",
+    "total": 5
+  },
+  "953897": {
+    "id": 20,
+    "name": "郭潤澤",
+    "platformClass": "4B",
+    "platformStudentId": 953897,
+    "schoolClass": "4B",
+    "total": 5
+  },
+  "953898": {
+    "id": 30,
+    "name": "余生銘",
+    "platformClass": "4B",
+    "platformStudentId": 953898,
+    "schoolClass": "4B",
+    "total": 5
+  },
+  "953899": {
+    "id": 31,
+    "name": "余承璟",
+    "platformClass": "4B",
+    "platformStudentId": 953899,
+    "schoolClass": "4B",
+    "total": 5
+  },
+  "953901": {
+    "id": 3,
+    "name": "劉晞怡",
+    "platformClass": "4B",
+    "platformStudentId": 953901,
+    "schoolClass": "4B",
+    "total": 5
+  },
+  "953902": {
+    "id": 4,
+    "name": "劉予馨",
+    "platformClass": "4B",
+    "platformStudentId": 953902,
+    "schoolClass": "4B",
+    "total": 5
+  },
+  "953904": {
+    "id": 18,
+    "name": "陳俊錡",
+    "platformClass": "4C",
+    "platformStudentId": 953904,
+    "schoolClass": "4C",
+    "total": 5
+  },
+  "953905": {
+    "id": 16,
+    "name": "張頌軒",
+    "platformClass": "4B",
+    "platformStudentId": 953905,
+    "schoolClass": "4B",
+    "total": 5
+  },
+  "953906": {
+    "id": 22,
+    "name": "李柏賢",
+    "platformClass": "4B",
+    "platformStudentId": 953906,
+    "schoolClass": "4B",
+    "total": 5
+  },
+  "953907": {
+    "id": 15,
+    "name": "陳泓叡",
+    "platformClass": "4B",
+    "platformStudentId": 953907,
+    "schoolClass": "4B",
+    "total": 5
+  },
+  "953908": {
+    "id": 21,
+    "name": "劉凱波",
+    "platformClass": "4A",
+    "platformStudentId": 953908,
+    "schoolClass": "4A",
+    "total": 5
+  },
+  "953909": {
+    "id": 20,
+    "name": "徐佳彤",
+    "platformClass": "1GA",
+    "platformStudentId": 953909,
+    "schoolClass": "1A",
+    "total": 5
+  },
+  "953911": {
+    "id": 14,
+    "name": "周嘉軒",
+    "platformClass": "4A",
+    "platformStudentId": 953911,
+    "schoolClass": "4A",
+    "total": 5
+  },
+  "953913": {
+    "id": 3,
+    "name": "陳亦姿",
+    "platformClass": "4A",
+    "platformStudentId": 953913,
+    "schoolClass": "4A",
+    "total": 5
+  },
+  "953915": {
+    "id": 11,
+    "name": "王筱婷",
+    "platformClass": "4C",
+    "platformStudentId": 953915,
+    "schoolClass": "4C",
+    "total": 5
+  },
+  "953916": {
+    "id": 6,
+    "name": "楊穎欣",
+    "platformClass": "2GA",
+    "platformStudentId": 953916,
+    "schoolClass": "2B",
+    "total": 5
+  },
+  "953917": {
+    "id": 13,
+    "name": "陳秉正",
+    "platformClass": "4A",
+    "platformStudentId": 953917,
+    "schoolClass": "4A",
+    "total": 5
+  },
+  "953918": {
+    "id": 18,
+    "name": "林藝文",
+    "platformClass": "4A",
+    "platformStudentId": 953918,
+    "schoolClass": "4A",
+    "total": 5
+  },
+  "953919": {
+    "id": 25,
+    "name": "柯夢明",
+    "platformClass": "4B",
+    "platformStudentId": 953919,
+    "schoolClass": "4B",
+    "total": 5
+  },
+  "953920": {
+    "id": 23,
+    "name": "彭振軒",
+    "platformClass": "4A",
+    "platformStudentId": 953920,
+    "schoolClass": "4A",
+    "total": 5
+  },
+  "953921": {
+    "id": 28,
+    "name": "王祖希",
+    "platformClass": "4B",
+    "platformStudentId": 953921,
+    "schoolClass": "4B",
+    "total": 5
+  },
+  "953923": {
+    "id": 28,
+    "name": "胡約伯",
+    "platformClass": "4A",
+    "platformStudentId": 953923,
+    "schoolClass": "4A",
+    "total": 5
+  },
+  "953924": {
+    "id": 30,
+    "name": "余俊程",
+    "platformClass": "4A",
+    "platformStudentId": 953924,
+    "schoolClass": "4A",
+    "total": 5
+  },
+  "953925": {
+    "id": 5,
+    "name": "李思潼",
+    "platformClass": "4B",
+    "platformStudentId": 953925,
+    "schoolClass": "4B",
+    "total": 5
+  },
+  "953926": {
+    "id": 9,
+    "name": "蘇意",
+    "platformClass": "4B",
+    "platformStudentId": 953926,
+    "schoolClass": "4B",
+    "total": 5
+  },
+  "953928": {
+    "id": 19,
+    "name": "范晨熙",
+    "platformClass": "4C",
+    "platformStudentId": 953928,
+    "schoolClass": "4C",
+    "total": 5
+  },
+  "953929": {
+    "id": 21,
+    "name": "賴志鋒",
+    "platformClass": "4B",
+    "platformStudentId": 953929,
+    "schoolClass": "4B",
+    "total": 5
+  },
+  "953930": {
+    "id": 22,
+    "name": "李錫安",
+    "platformClass": "4C",
+    "platformStudentId": 953930,
+    "schoolClass": "4C",
+    "total": 5
+  },
+  "953931": {
+    "id": 29,
+    "name": "黃健聰",
+    "platformClass": "4B",
+    "platformStudentId": 953931,
+    "schoolClass": "4B",
+    "total": 5
+  },
+  "953932": {
+    "id": 32,
+    "name": "楊子謙",
+    "platformClass": "4C",
+    "platformStudentId": 953932,
+    "schoolClass": "4C",
+    "total": 5
+  },
+  "953933": {
+    "id": 5,
+    "name": "李穎妍",
+    "platformClass": "4C",
+    "platformStudentId": 953933,
+    "schoolClass": "4C",
+    "total": 5
+  },
+  "953934": {
+    "id": 8,
+    "name": "劉思敏",
+    "platformClass": "4C",
+    "platformStudentId": 953934,
+    "schoolClass": "4C",
+    "total": 5
+  },
+  "953935": {
+    "id": 11,
+    "name": "王嘉琪",
+    "platformClass": "4B",
+    "platformStudentId": 953935,
+    "schoolClass": "4B",
+    "total": 5
+  },
+  "953936": {
+    "id": 15,
+    "name": "葉芷甄",
+    "platformClass": "4C",
+    "platformStudentId": 953936,
+    "schoolClass": "4C",
+    "total": 5
+  },
+  "953937": {
+    "id": 24,
+    "name": "戴健朗",
+    "platformClass": "4A",
+    "platformStudentId": 953937,
+    "schoolClass": "4A",
+    "total": 5
+  },
+  "953938": {
+    "id": 2,
+    "name": "陳梓茵",
+    "platformClass": "4A",
+    "platformStudentId": 953938,
+    "schoolClass": "4A",
+    "total": 5
+  },
+  "953939": {
+    "id": 6,
+    "name": "林君怡",
+    "platformClass": "4A",
+    "platformStudentId": 953939,
+    "schoolClass": "4A",
+    "total": 5
+  },
+  "953940": {
+    "id": 6,
+    "name": "林雅妍",
+    "platformClass": "4C",
+    "platformStudentId": 953940,
+    "schoolClass": "4C",
+    "total": 5
+  },
+  "953941": {
+    "id": 9,
+    "name": "劉茵婷",
+    "platformClass": "4C",
+    "platformStudentId": 953941,
+    "schoolClass": "4C",
+    "total": 5
+  },
+  "953942": {
+    "id": 7,
+    "name": "陸嘉晞",
+    "platformClass": "4B",
+    "platformStudentId": 953942,
+    "schoolClass": "4B",
+    "total": 5
+  },
+  "953943": {
+    "id": 14,
+    "name": "叶定汝",
+    "platformClass": "4C",
+    "platformStudentId": 953943,
+    "schoolClass": "4C",
+    "total": 5
+  },
+  "953945": {
+    "id": 16,
+    "name": "陳恩賜",
+    "platformClass": "4C",
+    "platformStudentId": 953945,
+    "schoolClass": "4C",
+    "total": 5
+  },
+  "953946": {
+    "id": 17,
+    "name": "賴晙熙",
+    "platformClass": "4A",
+    "platformStudentId": 953946,
+    "schoolClass": "4A",
+    "total": 5
+  },
+  "953947": {
+    "id": 20,
+    "name": "賴瑜鴻",
+    "platformClass": "4C",
+    "platformStudentId": 953947,
+    "schoolClass": "4C",
+    "total": 5
+  },
+  "953948": {
+    "id": 21,
+    "name": "林翹",
+    "platformClass": "4C",
+    "platformStudentId": 953948,
+    "schoolClass": "4C",
+    "total": 5
+  },
+  "953949": {
+    "id": 25,
+    "name": "林彦衡",
+    "platformClass": "4C",
+    "platformStudentId": 953949,
+    "schoolClass": "4C",
+    "total": 5
+  },
+  "953950": {
+    "id": 26,
+    "name": "劉遠志",
+    "platformClass": "4C",
+    "platformStudentId": 953950,
+    "schoolClass": "4C",
+    "total": 5
+  },
+  "953952": {
+    "id": 28,
+    "name": "王清林",
+    "platformClass": "4C",
+    "platformStudentId": 953952,
+    "schoolClass": "4C",
+    "total": 5
+  },
+  "953953": {
+    "id": 24,
+    "name": "伍德豪",
+    "platformClass": "5B",
+    "platformStudentId": 953953,
+    "schoolClass": "5B",
+    "total": 5
+  },
+  "953955": {
+    "id": 31,
+    "name": "楊青衡",
+    "platformClass": "4C",
+    "platformStudentId": 953955,
+    "schoolClass": "4C",
+    "total": 5
+  },
+  "953956": {
+    "id": 33,
+    "name": "鍾亦朗",
+    "platformClass": "4C",
+    "platformStudentId": 953956,
+    "schoolClass": "4C",
+    "total": 5
+  },
+  "953957": {
+    "id": 2,
+    "name": "曹穎欣",
+    "platformClass": "5A",
+    "platformStudentId": 953957,
+    "schoolClass": "5A",
+    "total": 5
+  },
+  "953958": {
+    "id": 5,
+    "name": "劉芯語",
+    "platformClass": "5A",
+    "platformStudentId": 953958,
+    "schoolClass": "5A",
+    "total": 5
+  },
+  "953959": {
+    "id": 9,
+    "name": "馬心悠",
+    "platformClass": "4A",
+    "platformStudentId": 953959,
+    "schoolClass": "4A",
+    "total": 5
+  },
+  "953960": {
+    "id": 7,
+    "name": "蘇靖宜",
+    "platformClass": "5A",
+    "platformStudentId": 953960,
+    "schoolClass": "5A",
+    "total": 5
+  },
+  "953961": {
+    "id": 10,
+    "name": "王悅",
+    "platformClass": "5A",
+    "platformStudentId": 953961,
+    "schoolClass": "5A",
+    "total": 5
+  },
+  "953963": {
+    "id": 13,
+    "name": "林子朗",
+    "platformClass": "5A",
+    "platformStudentId": 953963,
+    "schoolClass": "5A",
+    "total": 5
+  },
+  "953966": {
+    "id": 26,
+    "name": "吳子聰",
+    "platformClass": "5C",
+    "platformStudentId": 953966,
+    "schoolClass": "5C",
+    "total": 5
+  },
+  "953967": {
+    "id": 19,
+    "name": "鄭家俊",
+    "platformClass": "5A",
+    "platformStudentId": 953967,
+    "schoolClass": "5A",
+    "total": 5
+  },
+  "953969": {
+    "id": 7,
+    "name": "譚伊芸",
+    "platformClass": "5B",
+    "platformStudentId": 953969,
+    "schoolClass": "5B",
+    "total": 5
+  },
+  "953972": {
+    "id": 27,
+    "name": "蔡言致",
+    "platformClass": "4B",
+    "platformStudentId": 953972,
+    "schoolClass": "4B",
+    "total": 5
+  },
+  "953973": {
+    "id": 7,
+    "name": "羅婉晞",
+    "platformClass": "4A",
+    "platformStudentId": 953973,
+    "schoolClass": "4A",
+    "total": 5
+  },
+  "953974": {
+    "id": 9,
+    "name": "曾穎思",
+    "platformClass": "5A",
+    "platformStudentId": 953974,
+    "schoolClass": "5A",
+    "total": 5
+  },
+  "953975": {
+    "id": 11,
+    "name": "余泳霖",
+    "platformClass": "4A",
+    "platformStudentId": 953975,
+    "schoolClass": "4A",
+    "total": 5
+  },
+  "953976": {
+    "id": 15,
+    "name": "林凱聖",
+    "platformClass": "5A",
+    "platformStudentId": 953976,
+    "schoolClass": "5A",
+    "total": 5
+  },
+  "953977": {
+    "id": 1,
+    "name": "陳艷芳",
+    "platformClass": "5B",
+    "platformStudentId": 953977,
+    "schoolClass": "5B",
+    "total": 5
+  },
+  "953978": {
+    "id": 2,
+    "name": "陳霈樺",
+    "platformClass": "5B",
+    "platformStudentId": 953978,
+    "schoolClass": "5B",
+    "total": 5
+  },
+  "953981": {
+    "id": 4,
+    "name": "劉翠雯",
+    "platformClass": "5B",
+    "platformStudentId": 953981,
+    "schoolClass": "5B",
+    "total": 5
+  },
+  "953983": {
+    "id": 13,
+    "name": "洪梓瑜",
+    "platformClass": "5B",
+    "platformStudentId": 953983,
+    "schoolClass": "5B",
+    "total": 5
+  },
+  "953984": {
+    "id": 14,
+    "name": "林藝哲",
+    "platformClass": "5B",
+    "platformStudentId": 953984,
+    "schoolClass": "5B",
+    "total": 5
+  },
+  "953985": {
+    "id": 15,
+    "name": "林子樂",
+    "platformClass": "5B",
+    "platformStudentId": 953985,
+    "schoolClass": "5B",
+    "total": 5
+  },
+  "953986": {
+    "id": 21,
+    "name": "羅富俊",
+    "platformClass": "5B",
+    "platformStudentId": 953986,
+    "schoolClass": "5B",
+    "total": 5
+  },
+  "953987": {
+    "id": 25,
+    "name": "吳啟德",
+    "platformClass": "5C",
+    "platformStudentId": 953987,
+    "schoolClass": "5C",
+    "total": 5
+  },
+  "953988": {
+    "id": 16,
+    "name": "伍子朗",
+    "platformClass": "3GA",
+    "platformStudentId": 953988,
+    "schoolClass": "3B",
+    "total": 5
+  },
+  "953989": {
+    "id": 1,
+    "name": "陳慧慧",
+    "platformClass": "5A",
+    "platformStudentId": 953989,
+    "schoolClass": "5A",
+    "total": 5
+  },
+  "953990": {
+    "id": 9,
+    "name": "石佳雨",
+    "platformClass": "5C",
+    "platformStudentId": 953990,
+    "schoolClass": "5C",
+    "total": 5
+  },
+  "953992": {
+    "id": 14,
+    "name": "梁志誠",
+    "platformClass": "5A",
+    "platformStudentId": 953992,
+    "schoolClass": "5A",
+    "total": 5
+  },
+  "953994": {
+    "id": 6,
+    "name": "陸嘉雯",
+    "platformClass": "5B",
+    "platformStudentId": 953994,
+    "schoolClass": "5B",
+    "total": 5
+  },
+  "953995": {
+    "id": 18,
+    "name": "黃俊森",
+    "platformClass": "4B",
+    "platformStudentId": 953995,
+    "schoolClass": "4B",
+    "total": 5
+  },
+  "953996": {
+    "id": 18,
+    "name": "李沅潮",
+    "platformClass": "5B",
+    "platformStudentId": 953996,
+    "schoolClass": "5B",
+    "total": 5
+  },
+  "953997": {
+    "id": 19,
+    "name": "黎智忠",
+    "platformClass": "5B",
+    "platformStudentId": 953997,
+    "schoolClass": "5B",
+    "total": 5
+  },
+  "953998": {
+    "id": 3,
+    "name": "許芷琦",
+    "platformClass": "5B",
+    "platformStudentId": 953998,
+    "schoolClass": "5B",
+    "total": 5
+  },
+  "953999": {
+    "id": 11,
+    "name": "祝銳洲",
+    "platformClass": "5B",
+    "platformStudentId": 953999,
+    "schoolClass": "5B",
+    "total": 5
+  },
+  "954000": {
+    "id": 12,
+    "name": "符宝亮",
+    "platformClass": "5A",
+    "platformStudentId": 954000,
+    "schoolClass": "5A",
+    "total": 5
+  },
+  "954001": {
+    "id": 22,
+    "name": "梁博然",
+    "platformClass": "5C",
+    "platformStudentId": 954001,
+    "schoolClass": "5C",
+    "total": 5
+  },
+  "954002": {
+    "id": 22,
+    "name": "施宗益",
+    "platformClass": "5B",
+    "platformStudentId": 954002,
+    "schoolClass": "5B",
+    "total": 5
+  },
+  "954003": {
+    "id": 26,
+    "name": "朱鎮鋒",
+    "platformClass": "5B",
+    "platformStudentId": 954003,
+    "schoolClass": "5B",
+    "total": 5
+  },
+  "954004": {
+    "id": 1,
+    "name": "陳葎",
+    "platformClass": "5C",
+    "platformStudentId": 954004,
+    "schoolClass": "5C",
+    "total": 5
+  },
+  "954005": {
+    "id": 2,
+    "name": "陳淑綺",
+    "platformClass": "5C",
+    "platformStudentId": 954005,
+    "schoolClass": "5C",
+    "total": 5
+  },
+  "954006": {
+    "id": 3,
+    "name": "周潔怡",
+    "platformClass": "5A",
+    "platformStudentId": 954006,
+    "schoolClass": "5A",
+    "total": 5
+  },
+  "954007": {
+    "id": 3,
+    "name": "李家慧",
+    "platformClass": "5C",
+    "platformStudentId": 954007,
+    "schoolClass": "5C",
+    "total": 5
+  },
+  "954008": {
+    "id": 4,
+    "name": "梁嘉敏",
+    "platformClass": "5C",
+    "platformStudentId": 954008,
+    "schoolClass": "5C",
+    "total": 5
+  },
+  "954009": {
+    "id": 6,
+    "name": "劉茵桐",
+    "platformClass": "5A",
+    "platformStudentId": 954009,
+    "schoolClass": "5A",
+    "total": 5
+  },
+  "954010": {
+    "id": 7,
+    "name": "毛芷晴",
+    "platformClass": "5C",
+    "platformStudentId": 954010,
+    "schoolClass": "5C",
+    "total": 5
+  },
+  "954012": {
+    "id": 12,
+    "name": "吳曉彤",
+    "platformClass": "5C",
+    "platformStudentId": 954012,
+    "schoolClass": "5C",
+    "total": 5
+  },
+  "954013": {
+    "id": 13,
+    "name": "蕭靜嵐",
+    "platformClass": "5C",
+    "platformStudentId": 954013,
+    "schoolClass": "5C",
+    "total": 5
+  },
+  "954017": {
+    "id": 21,
+    "name": "郭兆傑",
+    "platformClass": "5C",
+    "platformStudentId": 954017,
+    "schoolClass": "5C",
+    "total": 5
+  },
+  "954018": {
+    "id": 16,
+    "name": "李鴻輝",
+    "platformClass": "5B",
+    "platformStudentId": 954018,
+    "schoolClass": "5B",
+    "total": 5
+  },
+  "954020": {
+    "id": 23,
+    "name": "梁梓聰",
+    "platformClass": "5C",
+    "platformStudentId": 954020,
+    "schoolClass": "5C",
+    "total": 5
+  },
+  "954021": {
+    "id": 24,
+    "name": "羅俊樺",
+    "platformClass": "5C",
+    "platformStudentId": 954021,
+    "schoolClass": "5C",
+    "total": 5
+  },
+  "954022": {
+    "id": 28,
+    "name": "張開越",
+    "platformClass": "5C",
+    "platformStudentId": 954022,
+    "schoolClass": "5C",
+    "total": 5
+  },
+  "954023": {
+    "id": 1,
+    "name": "陳梓淇",
+    "platformClass": "6C",
+    "platformStudentId": 954023,
+    "schoolClass": "6C",
+    "total": 5
+  },
+  "954025": {
+    "id": 6,
+    "name": "梁美琪",
+    "platformClass": "6C",
+    "platformStudentId": 954025,
+    "schoolClass": "6C",
+    "total": 5
+  },
+  "954027": {
+    "id": 3,
+    "name": "呂衍葵",
+    "platformClass": "6A",
+    "platformStudentId": 954027,
+    "schoolClass": "6A",
+    "total": 5
+  },
+  "954029": {
+    "id": 7,
+    "name": "程家炫",
+    "platformClass": "6A",
+    "platformStudentId": 954029,
+    "schoolClass": "6A",
+    "total": 5
+  },
+  "954030": {
+    "id": 8,
+    "name": "黃俊羲",
+    "platformClass": "6A",
+    "platformStudentId": 954030,
+    "schoolClass": "6A",
+    "total": 5
+  },
+  "954031": {
+    "id": 9,
+    "name": "姜禮謙",
+    "platformClass": "6A",
+    "platformStudentId": 954031,
+    "schoolClass": "6A",
+    "total": 5
+  },
+  "954032": {
+    "id": 10,
+    "name": "林浚偉",
+    "platformClass": "6A",
+    "platformStudentId": 954032,
+    "schoolClass": "6A",
+    "total": 5
+  },
+  "954033": {
+    "id": 11,
+    "name": "劉澤鏗",
+    "platformClass": "6A",
+    "platformStudentId": 954033,
+    "schoolClass": "6A",
+    "total": 5
+  },
+  "954034": {
+    "id": 13,
+    "name": "梁樂軒",
+    "platformClass": "6A",
+    "platformStudentId": 954034,
+    "schoolClass": "6A",
+    "total": 5
+  },
+  "954035": {
+    "id": 1,
+    "name": "安貴慧",
+    "platformClass": "6B",
+    "platformStudentId": 954035,
+    "schoolClass": "6B",
+    "total": 5
+  },
+  "954036": {
+    "id": 5,
+    "name": "林思琦",
+    "platformClass": "5B",
+    "platformStudentId": 954036,
+    "schoolClass": "5B",
+    "total": 5
+  },
+  "954037": {
+    "id": 6,
+    "name": "莫紫晴",
+    "platformClass": "6B",
+    "platformStudentId": 954037,
+    "schoolClass": "6B",
+    "total": 5
+  },
+  "954042": {
+    "id": 12,
+    "name": "李柏賢",
+    "platformClass": "6A",
+    "platformStudentId": 954042,
+    "schoolClass": "6A",
+    "total": 5
+  },
+  "954045": {
+    "id": 23,
+    "name": "蔡泓銓",
+    "platformClass": "5B",
+    "platformStudentId": 954045,
+    "schoolClass": "5B",
+    "total": 5
+  },
+  "954046": {
+    "id": 14,
+    "name": "王智星",
+    "platformClass": "6A",
+    "platformStudentId": 954046,
+    "schoolClass": "6A",
+    "total": 5
+  },
+  "954047": {
+    "id": 15,
+    "name": "吳煒軒",
+    "platformClass": "6A",
+    "platformStudentId": 954047,
+    "schoolClass": "6A",
+    "total": 5
+  },
+  "954048": {
+    "id": 16,
+    "name": "余家杰",
+    "platformClass": "6A",
+    "platformStudentId": 954048,
+    "schoolClass": "6A",
+    "total": 5
+  },
+  "954049": {
+    "id": 3,
+    "name": "梁倩瑜",
+    "platformClass": "6B",
+    "platformStudentId": 954049,
+    "schoolClass": "6B",
+    "total": 5
+  },
+  "954050": {
+    "id": 10,
+    "name": "曾靖文",
+    "platformClass": "6B",
+    "platformStudentId": 954050,
+    "schoolClass": "6B",
+    "total": 5
+  },
+  "954051": {
+    "id": 18,
+    "name": "范嘉龍",
+    "platformClass": "6C",
+    "platformStudentId": 954051,
+    "schoolClass": "6C",
+    "total": 5
+  },
+  "954052": {
+    "id": 19,
+    "name": "何剛毅",
+    "platformClass": "6C",
+    "platformStudentId": 954052,
+    "schoolClass": "6C",
+    "total": 5
+  },
+  "954053": {
+    "id": 14,
+    "name": "高深",
+    "platformClass": "6B",
+    "platformStudentId": 954053,
+    "schoolClass": "6B",
+    "total": 5
+  },
+  "954054": {
+    "id": 23,
+    "name": "李文傑",
+    "platformClass": "6C",
+    "platformStudentId": 954054,
+    "schoolClass": "6C",
+    "total": 5
+  },
+  "954055": {
+    "id": 24,
+    "name": "梁浩霖",
+    "platformClass": "6C",
+    "platformStudentId": 954055,
+    "schoolClass": "6C",
+    "total": 5
+  },
+  "954056": {
+    "id": 20,
+    "name": "黃澤林",
+    "platformClass": "6B",
+    "platformStudentId": 954056,
+    "schoolClass": "6B",
+    "total": 5
+  },
+  "954057": {
+    "id": 21,
+    "name": "曾梓健",
+    "platformClass": "6B",
+    "platformStudentId": 954057,
+    "schoolClass": "6B",
+    "total": 5
+  },
+  "954058": {
+    "id": 2,
+    "name": "鍾善晴",
+    "platformClass": "6B",
+    "platformStudentId": 954058,
+    "schoolClass": "6B",
+    "total": 5
+  },
+  "954059": {
+    "id": 29,
+    "name": "張景超",
+    "platformClass": "6C",
+    "platformStudentId": 954059,
+    "schoolClass": "6C",
+    "total": 5
+  },
+  "954062": {
+    "id": 4,
+    "name": "廖嘉兒",
+    "platformClass": "6B",
+    "platformStudentId": 954062,
+    "schoolClass": "6B",
+    "total": 5
+  },
+  "954063": {
+    "id": 8,
+    "name": "吳綽瑤",
+    "platformClass": "6B",
+    "platformStudentId": 954063,
+    "schoolClass": "6B",
+    "total": 5
+  },
+  "954064": {
+    "id": 9,
+    "name": "鄧泳晞",
+    "platformClass": "6B",
+    "platformStudentId": 954064,
+    "schoolClass": "6B",
+    "total": 5
+  },
+  "954065": {
+    "id": 12,
+    "name": "楊嘉兒",
+    "platformClass": "6B",
+    "platformStudentId": 954065,
+    "schoolClass": "6B",
+    "total": 5
+  },
+  "954066": {
+    "id": 15,
+    "name": "梁子翹",
+    "platformClass": "6B",
+    "platformStudentId": 954066,
+    "schoolClass": "6B",
+    "total": 5
+  },
+  "954067": {
+    "id": 18,
+    "name": "龍俊宏",
+    "platformClass": "6B",
+    "platformStudentId": 954067,
+    "schoolClass": "6B",
+    "total": 5
+  },
+  "954068": {
+    "id": 19,
+    "name": "彭梓輝",
+    "platformClass": "6B",
+    "platformStudentId": 954068,
+    "schoolClass": "6B",
+    "total": 5
+  },
+  "954069": {
+    "id": 5,
+    "name": "蘇爾情",
+    "platformClass": "6A",
+    "platformStudentId": 954069,
+    "schoolClass": "6A",
+    "total": 5
+  },
+  "954070": {
+    "id": 11,
+    "name": "王筱君",
+    "platformClass": "6B",
+    "platformStudentId": 954070,
+    "schoolClass": "6B",
+    "total": 5
+  },
+  "954073": {
+    "id": 20,
+    "name": "何逸晴",
+    "platformClass": "6C",
+    "platformStudentId": 954073,
+    "schoolClass": "6C",
+    "total": 5
+  },
+  "954074": {
+    "id": 21,
+    "name": "黃梓軒",
+    "platformClass": "6C",
+    "platformStudentId": 954074,
+    "schoolClass": "6C",
+    "total": 5
+  },
+  "954075": {
+    "id": 22,
+    "name": "林柏熹",
+    "platformClass": "6C",
+    "platformStudentId": 954075,
+    "schoolClass": "6C",
+    "total": 5
+  },
+  "954076": {
+    "id": 25,
+    "name": "王樺琰",
+    "platformClass": "6C",
+    "platformStudentId": 954076,
+    "schoolClass": "6C",
+    "total": 5
+  },
+  "954078": {
+    "id": 5,
+    "name": "羅慧賢",
+    "platformClass": "6B",
+    "platformStudentId": 954078,
+    "schoolClass": "6B",
+    "total": 5
+  },
+  "954079": {
+    "id": 2,
+    "name": "朱雅姸",
+    "platformClass": "6C",
+    "platformStudentId": 954079,
+    "schoolClass": "6C",
+    "total": 5
+  },
+  "954080": {
+    "id": 3,
+    "name": "何雨桐",
+    "platformClass": "6C",
+    "platformStudentId": 954080,
+    "schoolClass": "6C",
+    "total": 5
+  },
+  "954081": {
+    "id": 5,
+    "name": "李子悠",
+    "platformClass": "6C",
+    "platformStudentId": 954081,
+    "schoolClass": "6C",
+    "total": 5
+  },
+  "954082": {
+    "id": 7,
+    "name": "劉恩馨",
+    "platformClass": "6C",
+    "platformStudentId": 954082,
+    "schoolClass": "6C",
+    "total": 5
+  },
+  "954083": {
+    "id": 8,
+    "name": "吳雲欣",
+    "platformClass": "6C",
+    "platformStudentId": 954083,
+    "schoolClass": "6C",
+    "total": 5
+  },
+  "954084": {
+    "id": 9,
+    "name": "歐陽蓁鴻",
+    "platformClass": "6C",
+    "platformStudentId": 954084,
+    "schoolClass": "6C",
+    "total": 5
+  },
+  "954085": {
+    "id": 10,
+    "name": "黃琬迪",
+    "platformClass": "6C",
+    "platformStudentId": 954085,
+    "schoolClass": "6C",
+    "total": 5
+  },
+  "954086": {
+    "id": 11,
+    "name": "伍嘉怡",
+    "platformClass": "6C",
+    "platformStudentId": 954086,
+    "schoolClass": "6C",
+    "total": 5
+  },
+  "954087": {
+    "id": 12,
+    "name": "顏驪霖",
+    "platformClass": "6C",
+    "platformStudentId": 954087,
+    "schoolClass": "6C",
+    "total": 5
+  },
+  "954088": {
+    "id": 13,
+    "name": "游穎",
+    "platformClass": "6C",
+    "platformStudentId": 954088,
+    "schoolClass": "6C",
+    "total": 5
+  },
+  "954089": {
+    "id": 14,
+    "name": "張琦茵",
+    "platformClass": "6C",
+    "platformStudentId": 954089,
+    "schoolClass": "6C",
+    "total": 5
+  },
+  "954090": {
+    "id": 15,
+    "name": "陳杰彬",
+    "platformClass": "6C",
+    "platformStudentId": 954090,
+    "schoolClass": "6C",
+    "total": 5
+  },
+  "954091": {
+    "id": 16,
+    "name": "張健泓",
+    "platformClass": "6C",
+    "platformStudentId": 954091,
+    "schoolClass": "6C",
+    "total": 5
+  },
+  "954092": {
+    "id": 17,
+    "name": "周靖霖",
+    "platformClass": "6C",
+    "platformStudentId": 954092,
+    "schoolClass": "6C",
+    "total": 5
+  },
+  "954093": {
+    "id": 13,
+    "name": "郭首銘",
+    "platformClass": "6B",
+    "platformStudentId": 954093,
+    "schoolClass": "6B",
+    "total": 5
+  },
+  "954094": {
+    "id": 16,
+    "name": "李永",
+    "platformClass": "6B",
+    "platformStudentId": 954094,
+    "schoolClass": "6B",
+    "total": 5
+  },
+  "954095": {
+    "id": 17,
+    "name": "林梓杰",
+    "platformClass": "6B",
+    "platformStudentId": 954095,
+    "schoolClass": "6B",
+    "total": 5
+  },
+  "954096": {
+    "id": 26,
+    "name": "徐煥亮",
+    "platformClass": "6C",
+    "platformStudentId": 954096,
+    "schoolClass": "6C",
+    "total": 5
+  },
+  "954097": {
+    "id": 27,
+    "name": "禤何怡宁",
+    "platformClass": "6C",
+    "platformStudentId": 954097,
+    "schoolClass": "6C",
+    "total": 5
+  },
+  "954101": {
+    "id": 2,
+    "name": "李潤然",
+    "platformClass": "6A",
+    "platformStudentId": 954101,
+    "schoolClass": "6A",
+    "total": 5
+  },
+  "971093": {
+    "id": 13,
+    "name": "姚依晴",
+    "platformClass": "4C",
+    "platformStudentId": 971093,
+    "schoolClass": "4C",
+    "total": 5
+  },
+  "977780": {
+    "id": 3,
+    "name": "黎詩琳",
+    "platformClass": "4C",
+    "platformStudentId": 977780,
+    "schoolClass": "4C",
+    "total": 5
+  },
+  "977781": {
+    "id": 17,
+    "name": "黎杰鍁",
+    "platformClass": "5B",
+    "platformStudentId": 977781,
+    "schoolClass": "5B",
+    "total": 5
+  },
+  "977958": {
+    "id": 1,
+    "name": "蔡銣佳",
+    "platformClass": "4B",
+    "platformStudentId": 977958,
+    "schoolClass": "4B",
+    "total": 5
+  },
+  "977975": {
+    "id": 7,
+    "name": "穆琪鈞",
+    "platformClass": "6B",
+    "platformStudentId": 977975,
+    "schoolClass": "6B",
+    "total": 5
+  },
+  "978022": {
+    "id": 4,
+    "name": "蔣嘉恩",
+    "platformClass": "5A",
+    "platformStudentId": 978022,
+    "schoolClass": "5A",
+    "total": 5
+  }
+}
