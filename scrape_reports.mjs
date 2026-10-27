@@ -196,14 +196,31 @@ async function assertLoggedIn(page) {
 
 async function saveReport(page, url, outPath, label) {
   log(`navigating ${label}: ${url}`);
-  await page.goto(url, { waitUntil: "networkidle", timeout: 120_000 }).catch(async () => {
+  await page.goto(url, { waitUntil: "domcontentloaded", timeout: 120_000 }).catch(async () => {
     await page.waitForLoadState("domcontentloaded", { timeout: 30_000 });
   });
-  // Let any late tables settle
-  await page.waitForTimeout(2000);
-  const html = await page.content();
+  // WAF 可能在報告頁再擋一次；等到像報告或逾時
+  const deadline = Date.now() + 120_000;
+  let html = "";
+  while (Date.now() < deadline) {
+    await page.waitForTimeout(2000);
+    html = await page.content();
+    if (looksLikeReport(html)) break;
+    const title = await page.title().catch(() => "");
+    if (/one moment|稍候|just a moment/i.test(title) || /One moment, please/i.test(html)) {
+      log(`${label}: WAF interstitial — waiting/reload…`);
+      // 頁面自帶 5s reload；必要時主動 reload
+      await page.waitForTimeout(3500);
+      if (!looksLikeReport(await page.content())) {
+        await page.reload({ waitUntil: "domcontentloaded", timeout: 60_000 }).catch(() => null);
+      }
+      continue;
+    }
+    // 尚未像報告也未見 WAF：再等網路穩定
+    await page.waitForLoadState("networkidle", { timeout: 30_000 }).catch(() => null);
+  }
+  html = await page.content();
   if (!looksLikeReport(html)) {
-    // Save anyway for debugging, then fail
     fs.writeFileSync(outPath, html, "utf8");
     die(
       `${label} HTML does not look like a per-student report (saved ${outPath}, ${html.length} bytes, url=${page.url()}). Check login/session or URL.`
