@@ -389,37 +389,48 @@ async function main() {
       await assertLoggedIn(page);
 
       const urls = reportUrls();
-      // 晨檢混合路徑：headed Chrome 登入過 WAF 後，匯出 cookie，curl -k 拉報告（報告頁再開常再撞 WAF）
+      // 登入後優先用同 context 的 request.get（共享 cookie、ignoreHTTPSErrors），
+      // 避免再開分頁撞 WAF；失敗再 curl／瀏覽器導航。
       const jarPath = path.join("/tmp", `il-cookies-scrape-${process.pid}.txt`);
-      const cookies = await context.cookies("https://chinese.i-learner.com.hk");
-      cookiesToNetscape(cookies, jarPath);
-      log(`exported ${cookies.length} cookies → ${jarPath}`);
+
+      async function fetchViaRequest(label, url, outPath) {
+        log(`request.get ${label}: ${url}`);
+        const resp = await context.request.get(url, {
+          timeout: 180_000,
+          maxRedirects: 5,
+          failOnStatusCode: false,
+        });
+        const html = await resp.text();
+        fs.writeFileSync(outPath, html, "utf8");
+        log(`request.get ${label} status=${resp.status()} bytes=${html.length}`);
+        return html;
+      }
 
       async function fetchOne(label, url, outPath) {
-        let html = curlFetchReport(url, outPath, jarPath, label);
+        let html = await fetchViaRequest(label, url, outPath);
+        if (looksLikeReport(html)) {
+          log(`saved ${label} via request.get → ${outPath} (${html.length} bytes)`);
+          return;
+        }
+        const cookies = await context.cookies("https://chinese.i-learner.com.hk");
+        cookiesToNetscape(cookies, jarPath);
+        log(`${label}: request not report-like; try curl (${cookies.length} cookies)`);
+        html = curlFetchReport(url, outPath, jarPath, label);
         if (looksLikeReport(html)) {
           log(`saved ${label} via curl → ${outPath} (${html.length} bytes)`);
           return;
         }
-        log(`${label}: curl not report-like (${html.length} bytes); try browser navigation`);
+        log(`${label}: curl not report-like; try browser navigation`);
         try {
           await saveReport(page, url, outPath, label);
           return;
         } catch (e) {
-          log(`${label}: browser also failed (${e && e.message ? e.message : e})`);
-        }
-        // 再刷一次首頁／cookie 後 curl
-        await page.goto(LOGIN_URL, { waitUntil: "domcontentloaded", timeout: 60_000 }).catch(() => null);
-        await waitPastWaf(page).catch(() => null);
-        const cookies2 = await context.cookies("https://chinese.i-learner.com.hk");
-        cookiesToNetscape(cookies2, jarPath);
-        html = curlFetchReport(url, outPath, jarPath, label);
-        if (!looksLikeReport(html)) {
           die(
-            `${label} still not a per-student report after curl+browser (saved ${outPath}, ${html.length} bytes)`
+            `${label} failed request+curl+browser (last ${outPath}, ${fs.statSync(outPath).size} bytes): ${
+              e && e.message ? e.message : e
+            }`
           );
         }
-        log(`saved ${label} via curl-retry → ${outPath} (${html.length} bytes)`);
       }
       await fetchOne("prev", urls.prev, path.join(INBOX, "prev.html"));
       await fetchOne("current", urls.current, path.join(INBOX, "current.html"));
