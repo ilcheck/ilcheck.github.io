@@ -14,6 +14,7 @@ CLI:
 When student-roster.json exists (and --rebuild-roster is not set), only `done`
 is taken from HTML; name / id / classes / total come from the roster.
 Do NOT invent student names.
+students 含欠交與做滿；week["total"]＝欠交人數，week["complete"]＝做滿人數。
 """
 from __future__ import annotations
 
@@ -638,7 +639,7 @@ def week_payload(
     to_d: str,
     html_totals: List[int],
 ) -> Dict[str, Any]:
-    """Build one week object; students list = only those with done < total."""
+    """Build one week object; students 含欠交與做滿（done 0..practiceTotal）。"""
     # Practice total: prefer HTML total column mode; else roster total mode
     if html_totals:
         practice_total = Counter(html_totals).most_common(1)[0][0]
@@ -648,6 +649,8 @@ def week_payload(
         ).most_common(1)[0][0]
 
     students = []
+    missing = 0
+    complete = 0
     for key, stu in roster.items():
         total = int(stu.get("total", practice_total))
         # If this week's HTML declared a different total, prefer week practice_total
@@ -656,7 +659,9 @@ def week_payload(
             total = practice_total
         done = int(done_map.get(key, 0))  # unmatched → 0 (欠交)
         if done >= total:
-            continue
+            complete += 1
+        else:
+            missing += 1
         students.append(
             {
                 "platformClass": stu.get("platformClass", ""),
@@ -686,7 +691,8 @@ def week_payload(
     return {
         "from": from_d,
         "to": to_d,
-        "total": len(students),  # 欠交人數（與既有 schema 一致）
+        "total": missing,  # 欠交人數（與既有 schema／晨檢對比語意一致）
+        "complete": complete,  # 做滿人數（done >= practiceTotal）
         "practiceTotal": practice_total,
         "students": students,
     }
@@ -713,7 +719,7 @@ def main(argv: Optional[List[str]] = None) -> int:
     ap = argparse.ArgumentParser(
         description=(
             "Parse i-Learner per-student teacher report HTML into "
-            "school-practice-data.json (欠交 only)."
+            "school-practice-data.json（含欠交與做滿學生；week.total 仍＝欠交人數）。"
         )
     )
     ap.add_argument("--prev-html", type=Path, help="上周 Mon–Fri report HTML")
@@ -804,7 +810,8 @@ def main(argv: Optional[List[str]] = None) -> int:
     }
     args.out.write_text(json.dumps(out, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(
-        f"Wrote {args.out}: prev欠交={prev_week['total']} current欠交={curr_week['total']} "
+        f"Wrote {args.out}: prev欠交={prev_week['total']} 做滿={prev_week['complete']} "
+        f"current欠交={curr_week['total']} 做滿={curr_week['complete']} "
         f"(practiceTotal prev={prev_week['practiceTotal']} curr={curr_week['practiceTotal']})",
         file=sys.stderr,
     )

@@ -1,59 +1,49 @@
-{\rtf1\ansi\ansicpg950\cocoartf2761
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+# 智愛週練習欠交儀表板
 
-\f0\fs24 \cf0 # \uc0\u26234 \u24859 \u36913 \u32244 \u32722 \u27424 \u20132 \u20736 \u34920 \u26495 \
-\
-## \uc0\u20309 \u26178 \u20351 \u29992 \
-\uc0\u25945 \u24107 \u35201 \u27298 \u26597 \u26234 \u24859 \u32178 \u19978 \u20013 \u25991 \u24179 \u21488 \u12300 \u25945 \u24107 \u20013 \u24515 \u12301 \u25104 \u32318 \u65295 \u32244 \u32722 \u23436 \u25104 \u24230 \u65292 \u20006 \u29986 \u20986 \u20840 \u26657 \u27424 \u20132  HTML\u65288 \u21487 \u20999 \u25563 \u19978 \u21608 \u65295 \u30070 \u21608 \u12289 \u29677 \u21029 \u25910 \u21512 \u65289 \u26178 \u22519 \u34892 \u26412  skill\u12290 \
-\
-## \uc0\u21069 \u32622 \
-- \uc0\u32178 \u31449 \u65306 `https://chinese.i-learner.com.hk/`\
-- \uc0\u30331 \u20837 \u26178 \u24179 \u21488 \u36984 \u12300 \u26234 \u24859 \u20013 \u25991 \u24179 \u21488 \u12301 \u65288 `loginsys=reading`\u65289 \
-- \uc0\u24037 \u20316 \u30446 \u37636 \u24931 \u20363 \u65306 `/workspace/i-learner/`\u65288 `classes.json`\u12289 `school-practice-data.json`\u12289 `build_dashboard.py`\u12289 `weekly-practice.html`\u65289 \
-- \uc0\u20844 \u38283 \u31449 \u65306 `https://ilcheck.github.io/`\u65288 repo `ilcheck/ilcheck.github.io`\u65292 \u21780 \u25918 \u20491 \u20154 \u24115 \u34399 \u65289 \
-\
-## \uc0\u24977 \u35657 \u65288 \u20778 \u20808 \u38918 \u24207 \u65289 \
-1. **KRU\uc0\u65288 \u20778 \u20808 \u65292 \u38263 \u26399 \u24453 \u27231 \u65289 ** \'97 MCP `user-kru`\u65307 \u38917 \u30446 \u21517  `ilearner`\u65288 username + password\u65292 \u22343  Hidden\u65289 \u12290 \
-   - \uc0\u28961 \u38957  KRU **\u21780 \u25903 \u25588 ** desktop fill\u65307 \u28687 \u35261 \u22120 \u22635 \u23531 \u35201 \u38283  Browser Bridge\u65306 `kru browser enable`\u65292 Chrome \u36617 \u20837  unpacked \u25844 \u20805  `/home/box/.local/opt/KRU_0.15.0_linux-x64/browser-extension/`\u65292 \u20006  `kru browser pair`\u65307 \u25844 \u20805 \u39023 \u31034  CONNECTED \u24460 \u20808  `credential_fill`\u65288 `target=browser`\u65289 \u12290 \
-   - \uc0\u24314 \u35696 \u38918 \u24207 \u65306 **\u20808 \u36984 \u24179 \u21488 \u12300 \u26234 \u24859 \u20013 \u25991 \u24179 \u21488 \u12301 \u8594  \u22635  password \u8594  \u22635  username**\u65288 \u25913 \u24179 \u21488 \u26377 \u26178 \u26371 \u28165 \u27396 \u20301 \u65289 \u65307 \u27599 \u27493 \u22635 \u23436 \u29992 \u25130 \u22294 \u30906 \u35469 \u27396 \u20301 \u26377 \u20540 \u65292 \u20877  Submit\u12290 \
-   - \uc0\u29992  `credential_fill`\u65292 \u21780 \u22909 \u35712 \u20986 \u25110 \u35352 \u37636 \u26126 \u25991 \u12290 \
-2. **Bitwarden\uc0\u65288 \u20633 \u25588 \u65292 \u29992 \u25142 \u26126 \u30906 \u35201 \u27714 \u20808 \u29992  KRU \u26178 \u21487 \u36339 \u36942 \u65289 ** \'97 \u38917 \u30446 \u12300 \u26234 \u24859 \u20013 \u25991 \u24179 \u21488 \u12301 \u65307 MCP `user-bitwarden-local`\u12290 \
-3. **Secure Form** \'97 \uc0\u20841 \u32773 \u37117 \u19981 \u21487 \u29992 \u26178 \u36864 \u22238 \u65307 \u21780 \u22909 \u21483 \u29992 \u25142 \u25226 \u23494 \u30908 \u36028 \u19978 \u32842 \u22825 \u12290 \
-- 1Password \uc0\u24050  decline\u65307 \u21780 \u22909 \u20877 \u20027 \u21205 \u25512  1Password\u12290 \
-\
-## \uc0\u26085 \u26399 \u35215 \u21063 \
-- **\uc0\u19978 \u21608 **\u65306 \u23565 \u19978 \u19968 \u20491 \u23436 \u25972 \u26143 \u26399 \u19968 \u33267 \u20116 \u65288 \u30456 \u23565 \u27298 \u26597 \u30070 \u26085 \u65289 \
-- **\uc0\u30070 \u21608 **\u65306 \u26412 \u21608 \u26143 \u26399 \u19968 \u33267 \u20116 \u65288 \u21608 \u20013 \u20998 \u27597 \u21487 \u33021 \u23569 \u26044  5\u65289 \
-- \uc0\u33258 \u35330 \u26597 \u38321 \u65306 `timep=4`\u65292 `from`\u65295 `to`\u65292 `week=0,1,2,3,4`\u65288 \u21608 \u19968 \u33267 \u20116 \u65289 \
-\
-## \uc0\u25847 \u21462 \u27493 \u39519 \
-1. \uc0\u29992  box browser \u38283 \u24179 \u21488 \u65307 \u26410 \u30331 \u20837 \u21063 \u20381 \u19978 \u21015 \u20778 \u20808 \u29992  KRU `credential_fill`\u65288 item `ilearner`\u65289 \u30331 \u20837 \u65292 \u24179 \u21488 \u36984 \u12300 \u26234 \u24859 \u20013 \u25991 \u24179 \u21488 \u12301 \u65292 \u20877  Submit\u65288 \u21780 \u22909  screenshot \u23494 \u26009 \u27396 \u65289 \u12290 \
-2. \uc0\u20837 \u25945 \u24107 \u20013 \u24515 \u65288 \u24038 \u20596  `teacher-btn`\u65295 `teacher.php?cc=cla`\u65292 `sch=3147`\u65289 \u12290 \
-3. \uc0\u29677 \u21029 \u20778 \u20808 \u12300 \u20840 \u37096 \u29677 \u32026 \u32317 \u35336 \u12301 \u65288 `class=0`\u65289 \u65307 \u33509 \u39023 \u31034 \u27794 \u26377 \u36039 \u26009 \u65292 \u25353  `classes.json` \u36880 \u29677 \u25289 \u12290 \
-4. \uc0\u20998 \u21029 \u25289 \u19978 \u21608 \u21516 \u30070 \u21608 \u20841 \u27573 \u33258 \u35330 \u26085 \u26399 \u65292 \u35712 \u27599 \u21015 \u65306 `platformClass`\u12289 `schoolClass`\u12289 \u23416 \u34399 \u65288 \u25324 \u34399 \u20839 \u25976 \u23383 \u65289 \u12289 \u22995 \u21517 \u12289 `\u24050 \u23436 \u25104 \u32244 \u32722 \u25976 \u30446 `\u65295 `\u32317 \u32244 \u32722 \u25976 `\u12290 \
-5. \uc0\u21482 \u20445 \u30041  `done < total` \u23531 \u20837  `school-practice-data.json`\u12290 \
-\
-## \uc0\u29677 \u21029 \u39023 \u31034 \
-- \uc0\u24179 \u21488  1\'963 \u24180 \u32026 \u28858  GA\'96GD\u65307 \u30059 \u38754  header \u29992 \u12300 1A\u32068 \u12301 \'85\u12300 3D\u32068 \u12301 \u65288 \u20363 \u22914  1GB \u8594  **1B\u32068 **\u65289 \u12290 \
-- 4\'966 \uc0\u24180 \u32026 \u29992  4A\'966C\u12290 \
-- \uc0\u34920 \u20839 \u21780 \u23531  G1B\u65295 1GB \u21602 \u39006 \u24179 \u21488 \u20195 \u34399 \u12290 \
-- \uc0\u27599 \u34892 \u20154 \u21517 \u26684 \u24335 \u65306 `\u29677 \u21029 (\u23416 \u34399 )\u20154 \u21517 `\u65292 \u29677 \u21029 \u23383 \u27597 \u23567 \u23531 \u65292 \u20363 \u22914  `1a(3)\u32645 \u20521 \u20818 `\u12290 \
-- \uc0\u29677 \u21029  sub header \u21482 \u39023 \u31034 \u12300 \u20840 \u29677  N \u20154 \u12301 \u65292 **\u21780 \u39023 \u31034 **\u12300 \u27424 \u20132  N \u20154 \u12301 \u12290 \
-\
-## HTML \uc0\u29986 \u20986 \
-1. \uc0\u26356 \u26032 \u65295 \u30906 \u35469  `classes.json`\u65288 label\u12289 option value\u12289 header\u12289 \u20154 \u25976 \u65289 \u12290 \
-2. \uc0\u36305  `python3 build_dashboard.py` \u29983 \u25104  `weekly-practice.html`\u12290 \
-3. **\uc0\u27599 \u27425 \u37325 \u24314 \u24517 \u38920 \u33995 \u19978 \u30070 \u19979 \u26356 \u26032 \u26178 \u38291 **\u65288 \u26684 \u24335 \u22914  `YYYY-MM-DD HH:MM HKT`\u65289 \u65292 \u23531 \u20837 \u38913 \u38754 \u39023 \u31034 \u22021 \u12300 \u26356 \u26032 \u12301 \u27396 \u65307 \u21780 \u22909 \u27839 \u29992 \u33290 \u26178 \u38291 \u25139 \u12290 \
-4. \uc0\u38913 \u38754 \u24517 \u38920 \u26377 \u65306 \u19978 \u21608 \u65295 \u30070 \u21608 \u31721 \u36984 \u65307 \u20840 \u37096 \u29677 \u21029 \u38928 \u35373 \u25910 \u21512 \u65292 \u25779  header \u20808 \u23637 \u38283 \u65307 \u25353 \u12300 \u24050 \u23436 \u25104  0\'85(total-1) \u27425 \u12301 \u20998 \u27396 \u12290 \
-5. \uc0\u35079 \u35069 \u21040  `/workspace/i-learner/site/index.html`\u65292 commit \u20006  push \u21040  `ilcheck/ilcheck.github.io` \u22021  `main`\u65292 \u20196  `https://ilcheck.github.io/` \u26356 \u26032 \u12290 \
-\
-## \uc0\u20132 \u20184 \
-- \uc0\u29992 \u23565 \u26041 \u35486 \u35328 \u65288 \u36890 \u24120  zh-Hant-HK\u65289 \u31777 \u36848 \u20841 \u21608 \u27424 \u20132 \u20154 \u25976 \u65292 \u38468 \u19978 \u32178 \u31449 \u36899 \u32080 \u65292 \u20006 \u21487 \u38468  HTML\u12290 \
-- \uc0\u30331 \u20837 \u22833 \u25943 \u26178 \u20808 \u35430  KRU\u65288 \u27298 \u26597  Bridge CONNECTED\u65289 \u65292 \u20877 \u26597  Bitwarden\u65295 Secure Form\u65307 \u21780 \u22909 \u29468 \u23494 \u30908 \u12290 \
-\
-## \uc0\u26085 \u24120 \u33258 \u21205 \u21270 \u65288 routine \u29992 \u65289 \
-\uc0\u27599 \u26085 \u26089 \u19978 \u65288 \u38928 \u35373  7:30 \u30070 \u22320 \u26178 \u38291 \u65289 \u37325 \u36305 \u26412 \u27969 \u31243 \u20006 \u20132 \u20986 \u26356 \u26032  HTML\u65295 \u32178 \u31449 \u65307 routine prompt \u24341 \u29992 \u26412  skill\u65292 \u20006 \u35387 \u26126 \u20778 \u20808  KRU MCP\u65288 `ilearner` + Browser Bridge\u65289 \u30331 \u20837 \u65307 \u21780 \u22909 \u25226 \u24115 \u23494 \u23531 \u36914  routine\u12290 }
+## 何時使用
+教師要檢查智愛網上中文平台「教師中心」成績／練習完成度，並產出全校欠交 HTML（可切換上周／當周、班別收合）時執行本 skill。
+
+## 前置
+- 網站：`https://chinese.i-learner.com.hk/`
+- 登入時平台選「智愛中文平台」（`loginsys=reading`）
+- 工作目錄：`/workspace/i-learner/`（`school-practice-data.json`、`build_dashboard.py`、`apply_reports.py` 等）
+- 公開站：`https://ilcheck.github.io/`（repo `ilcheck/ilcheck.github.io`）
+
+## 憑證（優先順序）
+1. **KRU（優先，長期待機）** — MCP `user-kru`；項目名 `ilearner`（username + password，皆 Hidden）。
+   - 主路徑：`terminal_run` + `secretEnv` 跑 `bash /workspace/i-learner/scrape_and_publish.sh`。
+   - 用 `credential_fill` 時，不要詢出或記錄明文。
+2. **Bitwarden（備援）** — 項目「智愛中文平台」。
+3. **Secure Form** — 兩者皆不可用時退回；不要叫用戶把密碼貼上聊天。
+
+## 日期規則
+- **上周**：對上一個完整星期一至五（相對檢查當日）
+- **當周**：本周星期一至五（周中可能少於 5）
+- 自訂查閱：`timep=4`，`from`/`to`，`week=0,1,2,3,4`（周一至五）
+
+## 擷取步驟
+1. 用 Playwright／curl cookie＋headed Chrome（見 `scrape_reports.mjs`）登入；平台選「智愛中文平台」。
+2. 入教師中心（`sch=3147`）。
+3. 班別優先「全部班級統計」（`class=0`）。
+4. 分別拉上周同當周兩段自訂日期，讀每列：`platformClass`、`schoolClass`、學號、姓名、已完成練習數目／總練習數。
+5. `apply_reports.py` 將**欠交與做滿**學生皆寫入 `school-practice-data.json`（`week.total` 仍＝欠交人數；`week.complete`＝做滿人數；儀表板欄位為「已完成 0..practiceTotal 次」，含做滿欄）。
+
+## 班別顯示
+- 平台 1–3 年級為 GA–GD；畫面 header 用「1A組」…「3D組」（例如 1GB → **1B組**）。
+- 4–6 年級用 4A–6C。
+- 每行人名格式：`班別(學號)人名`，班別字母小寫，例如 `1a(3)鍾鳴妤`。
+- 班別 sub header 只顯示「全班 N 人」，**不顯示**「欠交 N 人」。
+
+## HTML 產出
+1. 更新／確認 roster（`student-roster.json`）。
+2. 跑 `python3 build_dashboard.py` 生成 `site/index.html`（可 `--also-root`）。
+3. **每次重建必須鎖上當下更新時間**（格式如 `YYYY-MM-DD HH:MM HKT`）。
+4. 頁面必須有：上周／當周選項；全部班別預設收合，撳 header 先展開；按「已完成 0…practiceTotal 次」分欄（**含做滿欄**）。
+5. 複製到 `/workspace/i-learner/site/index.html`，commit 並 push 到 `ilcheck/ilcheck.github.io` 嘅 `main`，令 `https://ilcheck.github.io/` 更新。
+
+## 交付
+- 用對方語言（通常 zh-Hant-HK）簡述兩周欠交人數，附上網站連結。
+- 登入失敗時先試 KRU，再查備援；不要洩密碼。
+
+## 日常自動化（routine 用）
+每日早上（預設 7:30 當地時間）重跑本流程並交出更新 HTML／網站；優先 KRU MCP（`ilearner` + `secretEnv`）登入；不要把帳密寫進 routine。

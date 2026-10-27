@@ -4,7 +4,7 @@
 UX matches the published dashboard:
   - week toggle prev / current
   - class blocks collapsed by default; click header to open
-  - columns by done count 0..(practiceTotal-1)
+  - columns by done count 0..practiceTotal（含做滿欄）
   - name format 班別(學號)人名 with lowercase class letter e.g. 1a(3)鍾鳴妤
   - headers P1–3: 1A組…3D組 (1GB→1B組); P4–6: 4A–6C
   - subheader「全班 N 人」only
@@ -137,7 +137,7 @@ HTML_SHELL = r"""<!DOCTYPE html>
 <style>
 :root {
   --bg:#f4f6f8; --card:#fff; --ink:#1a1d21; --muted:#5c6570; --line:#e2e6eb;
-  --c0:#b42318; --c1:#c4320a; --c2:#b54708; --c3:#175cd3; --c4:#027a48; --accent:#146c94;
+  --c0:#b42318; --c1:#c4320a; --c2:#b54708; --c3:#175cd3; --c4:#027a48; --c5:#0e7490; --accent:#146c94;
 }
 *{box-sizing:border-box}
 body{margin:0;font-family:"PingFang HK","Noto Sans TC","Microsoft JhengHei",system-ui,sans-serif;background:var(--bg);color:var(--ink);line-height:1.45}
@@ -159,7 +159,7 @@ main{padding:1.1rem;max-width:1400px;margin:0 auto}
 .class-head .stat{color:var(--muted);font-size:.82rem}
 .class-body{display:none;border-top:1px solid var(--line)}
 .class-block.open .class-body{display:block}
-.grid{display:grid;grid-template-columns:repeat(var(--cols,5),minmax(0,1fr))}
+.grid{display:grid;grid-template-columns:repeat(var(--cols,6),minmax(0,1fr))}
 @media(max-width:960px){.grid{grid-template-columns:1fr}}
 .col{border-right:1px solid var(--line);min-height:4rem}
 .col:last-child{border-right:none}
@@ -170,6 +170,7 @@ main{padding:1.1rem;max-width:1400px;margin:0 auto}
 .col[data-n="2"] .col-h{color:var(--c2);background:#fffaeb}
 .col[data-n="3"] .col-h{color:var(--c3);background:#eff8ff}
 .col[data-n="4"] .col-h{color:var(--c4);background:#ecfdf3}
+.col[data-n="5"] .col-h{color:var(--c5);background:#ecfeff}
 ul.roster{list-style:none;margin:0;padding:.45rem .7rem .65rem;font-size:.88rem}
 ul.roster li{padding:.22rem 0;border-bottom:1px dashed #eef1f4}
 ul.roster li:last-child{border-bottom:none}
@@ -243,7 +244,7 @@ function render(weekKey) {
 
   const root = document.getElementById('classes');
   root.innerHTML = '';
-  const colMax = Math.max(0, pTotal - 1);
+  const colMax = Math.max(0, pTotal);  // 0..practiceTotal（含做滿）
   for (const label of DATA.classOrder) {
     const list = byClass[label] || [];
     const header = DATA.headers[label] || label;
@@ -273,7 +274,7 @@ function render(weekKey) {
     for (let n = 0; n <= colMax; n++) {
       const col = document.createElement('div');
       col.className = 'col';
-      col.dataset.n = String(Math.min(n, 4));
+      col.dataset.n = String(Math.min(n, pTotal));
       const students = byDone[n] || [];
       const h = document.createElement('div');
       h.className = 'col-h';
