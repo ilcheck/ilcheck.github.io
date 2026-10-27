@@ -105,8 +105,12 @@ def build_embed_payload(data: Dict[str, Any], roster_sizes: Dict[str, int]) -> D
             continue
         pt = practice_total_for_week(week)
         week["practiceTotal"] = pt
-        # Keep week["total"] as 欠交 count (schema)
-        week["total"] = len(week.get("students") or [])
+        # week["total"]＝欠交人數（done < practiceTotal）；students 現含做滿
+        students = week.get("students") or []
+        missing = sum(1 for s in students if int(s.get("done", 0)) < pt)
+        complete = sum(1 for s in students if int(s.get("done", 0)) >= pt)
+        week["total"] = missing
+        week["complete"] = int(week.get("complete", complete))
         weeks_out[key] = week
 
     # classOrder: prefer fixed order intersecting roster / data
