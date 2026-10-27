@@ -99,34 +99,45 @@ function cookiesToNetscape(cookies, jarPath) {
 
 function curlFetchReport(url, outPath, jarPath, label) {
   log(`curl fetch ${label}: ${url}`);
-  const r = spawnSync(
-    "curl",
-    [
-      "-sk",
-      "--max-time",
-      "180",
-      "-L",
-      "-b",
-      jarPath,
-      "-c",
-      jarPath,
-      "-A",
-      "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "-o",
-      outPath,
-      "-w",
-      "%{http_code}",
-      url,
-    ],
-    { encoding: "utf8" }
-  );
-  if (r.status !== 0) {
-    die(`curl ${label} failed: status=${r.status} stderr=${(r.stderr || "").slice(0, 400)}`);
+  let lastErr = "";
+  for (let attempt = 1; attempt <= 4; attempt++) {
+    const r = spawnSync(
+      "curl",
+      [
+        "-sk",
+        "--http1.1",
+        "--retry",
+        "2",
+        "--retry-delay",
+        "2",
+        "--max-time",
+        "180",
+        "-L",
+        "-b",
+        jarPath,
+        "-c",
+        jarPath,
+        "-A",
+        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "-o",
+        outPath,
+        "-w",
+        "%{http_code}",
+        url,
+      ],
+      { encoding: "utf8" }
+    );
+    if (r.status === 0) {
+      const code = (r.stdout || "").trim();
+      const html = fs.readFileSync(outPath, "utf8");
+      log(`curl ${label} http=${code} bytes=${html.length} (attempt ${attempt})`);
+      return html;
+    }
+    lastErr = `status=${r.status} stderr=${(r.stderr || "").slice(0, 400)}`;
+    log(`curl ${label} attempt ${attempt} failed: ${lastErr}`);
+    spawnSync("sleep", [String(attempt * 2)]);
   }
-  const code = (r.stdout || "").trim();
-  const html = fs.readFileSync(outPath, "utf8");
-  log(`curl ${label} http=${code} bytes=${html.length}`);
-  return html;
+  die(`curl ${label} failed after retries: ${lastErr}`);
 }
 
 function looksLikeReport(html) {
