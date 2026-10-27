@@ -223,6 +223,8 @@ async function loginWithEnv(page, username, password) {
     page.locator('#login_form input[type="submit"]').click(),
   ]);
   await page.waitForTimeout(1500);
+  // Post-submit WAF / slow set-cookie: wait for session or leave pure login form
+  await waitForSessionOrLeaveLogin(page, page.context());
 }
 
 async function loginWithKruFill(page) {
@@ -242,19 +244,68 @@ async function loginWithKruFill(page) {
   await page.waitForTimeout(1500);
 }
 
+async function waitForSessionOrLeaveLogin(page, context) {
+  const deadline = Date.now() + 90_000;
+  while (Date.now() < deadline) {
+    const cookies = await context.cookies("https://chinese.i-learner.com.hk");
+    const byName = Object.fromEntries(cookies.map((c) => [c.name, c.value]));
+    if (byName.reading_id) {
+      log("session cookie reading_id present");
+      return;
+    }
+    const title = await page.title().catch(() => "");
+    const htmlHead = (await page.content().catch(() => "")).slice(0, 2500);
+    if (/one moment|请稍候|Just a moment/i.test(title) || /one moment|请稍候|Just a moment/i.test(htmlHead)) {
+      log("post-login WAF interstitial; waiting…");
+      await page.waitForTimeout(3000);
+      continue;
+    }
+    const userVisible = await page.locator('input[name="username"]').isVisible().catch(() => false);
+    const passVisible = await page.locator('input[name="password"]').isVisible().catch(() => false);
+    // Still on a bare login form with no session → keep waiting briefly for set-cookie
+    if (userVisible && passVisible && !byName.PHPSESSID) {
+      await page.waitForTimeout(1500);
+      continue;
+    }
+    // Left login fields or got PHPSESSID — give reading_id a moment more
+    if (byName.PHPSESSID || !(userVisible && passVisible)) {
+      await page.waitForTimeout(2000);
+      const again = Object.fromEntries(
+        (await context.cookies("https://chinese.i-learner.com.hk")).map((c) => [c.name, c.value])
+      );
+      if (again.reading_id) return;
+      // one soft reload can finish platform session
+      if (!again.reading_id && page.url().includes("login.php") === false) {
+        return;
+      }
+    }
+    await page.waitForTimeout(1500);
+  }
+}
+
 async function assertLoggedIn(page, context) {
+  await waitForSessionOrLeaveLogin(page, context);
   const url = page.url();
   const userVisible = await page.locator('input[name="username"]').isVisible().catch(() => false);
   const passVisible = await page.locator('input[name="password"]').isVisible().catch(() => false);
   if (userVisible && passVisible) {
+    try {
+      fs.writeFileSync(path.join("/tmp", "il-login-fail.html"), await page.content());
+    } catch (_) {}
     die(`login appears to have failed (login fields still visible). url=${url}`);
   }
   const cookies = await context.cookies("https://chinese.i-learner.com.hk");
   const byName = Object.fromEntries(cookies.map((c) => [c.name, c.value]));
   if (!byName.reading_id && !byName.PHPSESSID) {
+    try {
+      fs.writeFileSync(path.join("/tmp", "il-login-fail.html"), await page.content());
+    } catch (_) {}
     die(`login OK-looking but missing session cookies. url=${url} cookieNames=${Object.keys(byName).join(",")}`);
   }
   if (!byName.reading_id) {
+    try {
+      fs.writeFileSync(path.join("/tmp", "il-login-fail.html"), await page.content());
+    } catch (_) {}
     die(
       `login missing reading_id (platform session). url=${url} cookieNames=${Object.keys(byName).join(",")} — re-check platform dropdown = 智愛中文平台/reading`
     );

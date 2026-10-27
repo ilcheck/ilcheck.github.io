@@ -34,11 +34,25 @@ fi
 log "start (DRY_RUN=$DRY_RUN SKIP_PUBLISH=$SKIP_PUBLISH HEADED=${HEADED:-0} KRU_FILL=${KRU_FILL:-0})"
 log "overall timeout ${OVERALL_SEC}s"
 
-# Hard wall clock for the scrape step
+# Hard wall clock for the scrape step.
+# Prefer hybrid: curl --tlsv1.2 login (avoids post-submit browser WAF) + headed Chrome for report pages.
 set +e
-timeout --signal=TERM "${OVERALL_SEC}s" env SCRAPE_TIMEOUT_MS=$((OVERALL_SEC * 1000 - 30000)) \
-  node scrape_reports.mjs
-scrape_ec=$?
+if [[ -f "$ROOT/hybrid_scrape.mjs" ]]; then
+  log "scrape via hybrid_scrape.mjs (curl login + headed Chrome reports)"
+  timeout --signal=TERM "${OVERALL_SEC}s" env SCRAPE_TIMEOUT_MS=$((OVERALL_SEC * 1000 - 30000)) \
+    node hybrid_scrape.mjs
+  scrape_ec=$?
+  if [[ $scrape_ec -ne 0 ]]; then
+    log "hybrid_scrape.mjs exited $scrape_ec; fallback scrape_reports.mjs"
+    timeout --signal=TERM "${OVERALL_SEC}s" env SCRAPE_TIMEOUT_MS=$((OVERALL_SEC * 1000 - 30000)) \
+      node scrape_reports.mjs
+    scrape_ec=$?
+  fi
+else
+  timeout --signal=TERM "${OVERALL_SEC}s" env SCRAPE_TIMEOUT_MS=$((OVERALL_SEC * 1000 - 30000)) \
+    node scrape_reports.mjs
+  scrape_ec=$?
+fi
 set -e
 
 if [[ $scrape_ec -eq 124 ]]; then
@@ -46,7 +60,7 @@ if [[ $scrape_ec -eq 124 ]]; then
   exit 124
 fi
 if [[ $scrape_ec -ne 0 ]]; then
-  err "scrape_reports.mjs exited $scrape_ec"
+  err "scrape exited $scrape_ec"
   exit "$scrape_ec"
 fi
 
