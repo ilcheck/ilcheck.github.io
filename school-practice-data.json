@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-27 09:22 HKT",
+  "generated": "2026-10-27 14:01 HKT",
   "weeks": {
     "prev": {
       "from": "2026-10-19",
       "to": "2026-10-23",
-      "total": 380,
-      "complete": 139,
+      "total": 376,
+      "complete": 143,
       "practiceTotal": 5,
       "students": [
         {
@@ -157,7 +157,7 @@
           "schoolClass": "1C",
           "id": 12,
           "name": "關卓翹",
-          "done": 1,
+          "done": 2,
           "total": 5
         },
         {
@@ -181,7 +181,7 @@
           "schoolClass": "1A",
           "id": 3,
           "name": "羅倩兒",
-          "done": 2,
+          "done": 4,
           "total": 5
         },
         {
@@ -189,7 +189,7 @@
           "schoolClass": "1A",
           "id": 5,
           "name": "姚芷晴",
-          "done": 0,
+          "done": 3,
           "total": 5
         },
         {
@@ -261,7 +261,7 @@
           "schoolClass": "1B",
           "id": 11,
           "name": "鍾家樂",
-          "done": 0,
+          "done": 3,
           "total": 5
         },
         {
@@ -1205,7 +1205,7 @@
           "schoolClass": "2C",
           "id": 11,
           "name": "陳凱文",
-          "done": 0,
+          "done": 2,
           "total": 5
         },
         {
@@ -1229,7 +1229,7 @@
           "schoolClass": "2C",
           "id": 16,
           "name": "趙誠陽",
-          "done": 0,
+          "done": 3,
           "total": 5
         },
         {
@@ -1285,7 +1285,7 @@
           "schoolClass": "2D",
           "id": 8,
           "name": "龍梓琳",
-          "done": 0,
+          "done": 3,
           "total": 5
         },
         {
@@ -1301,7 +1301,7 @@
           "schoolClass": "2D",
           "id": 23,
           "name": "鄧浩賢",
-          "done": 0,
+          "done": 3,
           "total": 5
         },
         {
@@ -1341,7 +1341,7 @@
           "schoolClass": "2D",
           "id": 2,
           "name": "陳瑩雅",
-          "done": 0,
+          "done": 5,
           "total": 5
         },
         {
@@ -1365,7 +1365,7 @@
           "schoolClass": "2D",
           "id": 5,
           "name": "梁凱橋",
-          "done": 1,
+          "done": 4,
           "total": 5
         },
         {
@@ -1469,7 +1469,7 @@
           "schoolClass": "2D",
           "id": 22,
           "name": "施澤鍇",
-          "done": 1,
+          "done": 4,
           "total": 5
         },
         {
@@ -1477,7 +1477,7 @@
           "schoolClass": "2D",
           "id": 24,
           "name": "黃鎮嵐",
-          "done": 0,
+          "done": 4,
           "total": 5
         },
         {
@@ -1805,7 +1805,7 @@
           "schoolClass": "3C",
           "id": 18,
           "name": "方朗然",
-          "done": 3,
+          "done": 4,
           "total": 5
         },
         {
@@ -1877,7 +1877,7 @@
           "schoolClass": "3B",
           "id": 2,
           "name": "何瀅瀅",
-          "done": 1,
+          "done": 5,
           "total": 5
         },
         {
@@ -1965,7 +1965,7 @@
           "schoolClass": "3C",
           "id": 17,
           "name": "葛天賜",
-          "done": 2,
+          "done": 4,
           "total": 5
         },
         {
@@ -2093,7 +2093,7 @@
           "schoolClass": "3D",
           "id": 1,
           "name": "陳唯臻",
-          "done": 3,
+          "done": 5,
           "total": 5
         },
         {
@@ -2877,7 +2877,7 @@
           "schoolClass": "4C",
           "id": 16,
           "name": "陳恩賜",
-          "done": 0,
+          "done": 3,
           "total": 5
         },
         {
@@ -2885,7 +2885,7 @@
           "schoolClass": "4C",
           "id": 17,
           "name": "陳泊羽",
-          "done": 0,
+          "done": 3,
           "total": 5
         },
         {
@@ -3045,7 +3045,7 @@
           "schoolClass": "5A",
           "id": 2,
           "name": "曹穎欣",
-          "done": 0,
+          "done": 5,
           "total": 5
         },
         {
@@ -3189,7 +3189,7 @@
           "schoolClass": "5A",
           "id": 20,
           "name": "朱良明",
-          "done": 2,
+          "done": 4,
           "total": 5
         },
         {
@@ -4069,7 +4069,7 @@
           "schoolClass": "6C",
           "id": 18,
           "name": "范嘉龍",
-          "done": 0,
+          "done": 3,
           "total": 5
         },
         {
@@ -4165,8 +4165,8 @@
     "current": {
       "from": "2026-10-26",
       "to": "2026-10-30",
-      "total": 512,
-      "complete": 7,
+      "total": 482,
+      "complete": 37,
       "practiceTotal": 2,
       "students": [
         {
@@ -4342,7 +4342,7 @@
           "schoolClass": "1A",
           "id": 3,
           "name": "羅倩兒",
-          "done": 0,
+          "done": 2,
           "total": 2
         },
         {
@@ -4350,7 +4350,7 @@
           "schoolClass": "1A",
           "id": 5,
           "name": "姚芷晴",
-          "done": 0,
+          "done": 2,
           "total": 2
         },
         {
@@ -4374,7 +4374,7 @@
           "schoolClass": "1B",
           "id": 3,
           "name": "吳嘉琪",
-          "done": 0,
+          "done": 2,
           "total": 2
         },
         {
@@ -4382,7 +4382,7 @@
           "schoolClass": "1B",
           "id": 4,
           "name": "蘇泇澄",
-          "done": 1,
+          "done": 2,
           "total": 2
         },
         {
@@ -4422,7 +4422,7 @@
           "schoolClass": "1B",
           "id": 11,
           "name": "鍾家樂",
-          "done": 0,
+          "done": 2,
           "total": 2
         },
         {
@@ -4486,7 +4486,7 @@
           "schoolClass": "1C",
           "id": 13,
           "name": "關宇軒",
-          "done": 0,
+          "done": 2,
           "total": 2
         },
         {
@@ -4510,7 +4510,7 @@
           "schoolClass": "1C",
           "id": 27,
           "name": "王柏軒",
-          "done": 1,
+          "done": 2,
           "total": 2
         },
         {
@@ -5366,7 +5366,7 @@
           "schoolClass": "2C",
           "id": 11,
           "name": "陳凱文",
-          "done": 0,
+          "done": 1,
           "total": 2
         },
         {
@@ -5390,7 +5390,7 @@
           "schoolClass": "2C",
           "id": 16,
           "name": "趙誠陽",
-          "done": 0,
+          "done": 1,
           "total": 2
         },
         {
@@ -5446,7 +5446,7 @@
           "schoolClass": "2D",
           "id": 8,
           "name": "龍梓琳",
-          "done": 0,
+          "done": 2,
           "total": 2
         },
         {
@@ -5502,7 +5502,7 @@
           "schoolClass": "2D",
           "id": 2,
           "name": "陳瑩雅",
-          "done": 0,
+          "done": 2,
           "total": 2
         },
         {
@@ -5510,7 +5510,7 @@
           "schoolClass": "2D",
           "id": 3,
           "name": "陳映彤",
-          "done": 0,
+          "done": 1,
           "total": 2
         },
         {
@@ -5518,7 +5518,7 @@
           "schoolClass": "2D",
           "id": 4,
           "name": "許傳馨",
-          "done": 1,
+          "done": 2,
           "total": 2
         },
         {
@@ -5550,7 +5550,7 @@
           "schoolClass": "2D",
           "id": 10,
           "name": "蘇文茹",
-          "done": 0,
+          "done": 2,
           "total": 2
         },
         {
@@ -5558,7 +5558,7 @@
           "schoolClass": "2D",
           "id": 11,
           "name": "王富睿",
-          "done": 1,
+          "done": 2,
           "total": 2
         },
         {
@@ -5574,7 +5574,7 @@
           "schoolClass": "2D",
           "id": 13,
           "name": "夏熒熒",
-          "done": 1,
+          "done": 2,
           "total": 2
         },
         {
@@ -5646,7 +5646,7 @@
           "schoolClass": "2D",
           "id": 25,
           "name": "章赫宸",
-          "done": 0,
+          "done": 1,
           "total": 2
         },
         {
@@ -5854,7 +5854,7 @@
           "schoolClass": "3B",
           "id": 4,
           "name": "劉金希",
-          "done": 0,
+          "done": 2,
           "total": 2
         },
         {
@@ -5862,7 +5862,7 @@
           "schoolClass": "3B",
           "id": 5,
           "name": "許莎桫",
-          "done": 0,
+          "done": 2,
           "total": 2
         },
         {
@@ -5870,7 +5870,7 @@
           "schoolClass": "3B",
           "id": 6,
           "name": "葉康頤",
-          "done": 1,
+          "done": 2,
           "total": 2
         },
         {
@@ -5878,7 +5878,7 @@
           "schoolClass": "3B",
           "id": 8,
           "name": "朱良欣",
-          "done": 0,
+          "done": 2,
           "total": 2
         },
         {
@@ -5894,7 +5894,7 @@
           "schoolClass": "3B",
           "id": 12,
           "name": "高仲佳",
-          "done": 0,
+          "done": 2,
           "total": 2
         },
         {
@@ -5918,7 +5918,7 @@
           "schoolClass": "3C",
           "id": 2,
           "name": "蔡熙彤",
-          "done": 0,
+          "done": 1,
           "total": 2
         },
         {
@@ -5942,7 +5942,7 @@
           "schoolClass": "3C",
           "id": 12,
           "name": "陳志豪",
-          "done": 0,
+          "done": 2,
           "total": 2
         },
         {
@@ -5950,7 +5950,7 @@
           "schoolClass": "3C",
           "id": 14,
           "name": "陳樂軒",
-          "done": 0,
+          "done": 2,
           "total": 2
         },
         {
@@ -5958,7 +5958,7 @@
           "schoolClass": "3C",
           "id": 15,
           "name": "陳裕羲",
-          "done": 0,
+          "done": 2,
           "total": 2
         },
         {
@@ -5966,7 +5966,7 @@
           "schoolClass": "3C",
           "id": 18,
           "name": "方朗然",
-          "done": 0,
+          "done": 2,
           "total": 2
         },
         {
@@ -5974,7 +5974,7 @@
           "schoolClass": "3C",
           "id": 19,
           "name": "黄立恒",
-          "done": 0,
+          "done": 2,
           "total": 2
         },
         {
@@ -5982,7 +5982,7 @@
           "schoolClass": "3C",
           "id": 21,
           "name": "莫文曦",
-          "done": 0,
+          "done": 2,
           "total": 2
         },
         {
@@ -5998,7 +5998,7 @@
           "schoolClass": "3D",
           "id": 2,
           "name": "馮楚怡",
-          "done": 0,
+          "done": 2,
           "total": 2
         },
         {
@@ -6006,7 +6006,7 @@
           "schoolClass": "3D",
           "id": 8,
           "name": "李聞炎",
-          "done": 1,
+          "done": 2,
           "total": 2
         },
         {
@@ -6038,7 +6038,7 @@
           "schoolClass": "3B",
           "id": 2,
           "name": "何瀅瀅",
-          "done": 0,
+          "done": 2,
           "total": 2
         },
         {
@@ -6150,7 +6150,7 @@
           "schoolClass": "3C",
           "id": 24,
           "name": "禹弘博",
-          "done": 0,
+          "done": 2,
           "total": 2
         },
         {
@@ -6254,7 +6254,7 @@
           "schoolClass": "3D",
           "id": 1,
           "name": "陳唯臻",
-          "done": 0,
+          "done": 2,
           "total": 2
         },
         {
@@ -7206,7 +7206,7 @@
           "schoolClass": "5A",
           "id": 2,
           "name": "曹穎欣",
-          "done": 0,
+          "done": 1,
           "total": 2
         },
         {
@@ -7350,7 +7350,7 @@
           "schoolClass": "5A",
           "id": 20,
           "name": "朱良明",
-          "done": 0,
+          "done": 2,
           "total": 2
         },
         {

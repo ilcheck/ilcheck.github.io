@@ -137,7 +137,7 @@ function curlFetchReport(url, outPath, jarPath, label) {
     log(`curl ${label} attempt ${attempt} failed: ${lastErr}`);
     spawnSync("sleep", [String(attempt * 2)]);
   }
-  die(`curl ${label} failed after retries: ${lastErr}`);
+  throw new Error(`curl ${label} failed after retries: ${lastErr}`);
 }
 
 function looksLikeReport(html) {
@@ -242,14 +242,24 @@ async function loginWithKruFill(page) {
   await page.waitForTimeout(1500);
 }
 
-async function assertLoggedIn(page) {
+async function assertLoggedIn(page, context) {
   const url = page.url();
   const userVisible = await page.locator('input[name="username"]').isVisible().catch(() => false);
   const passVisible = await page.locator('input[name="password"]').isVisible().catch(() => false);
   if (userVisible && passVisible) {
     die(`login appears to have failed (login fields still visible). url=${url}`);
   }
-  log(`login OK (url=${url})`);
+  const cookies = await context.cookies("https://chinese.i-learner.com.hk");
+  const byName = Object.fromEntries(cookies.map((c) => [c.name, c.value]));
+  if (!byName.reading_id && !byName.PHPSESSID) {
+    die(`login OK-looking but missing session cookies. url=${url} cookieNames=${Object.keys(byName).join(",")}`);
+  }
+  if (!byName.reading_id) {
+    die(
+      `login missing reading_id (platform session). url=${url} cookieNames=${Object.keys(byName).join(",")} — re-check platform dropdown = 智愛中文平台/reading`
+    );
+  }
+  log(`login OK (url=${url}, reading_id set, cookies=${cookies.length})`);
 }
 
 async function saveReport(page, url, outPath, label) {
@@ -386,12 +396,18 @@ async function main() {
         log(`login mode: env secretEnv (${redactEnvPresent()})`);
         await loginWithEnv(page, username, password);
       }
-      await assertLoggedIn(page);
+      await assertLoggedIn(page, context);
 
       const urls = reportUrls();
-      // 登入後優先用同 context 的 request.get（共享 cookie、ignoreHTTPSErrors），
-      // 避免再開分頁撞 WAF；失敗再 curl／瀏覽器導航。
+      // 登入後先匯出 cookie → curl -k 拉報告（晨檢混合路徑）；失敗再 headed 瀏覽器過 WAF。
       const jarPath = path.join("/tmp", `il-cookies-scrape-${process.pid}.txt`);
+
+      async function exportJar() {
+        const cookies = await context.cookies("https://chinese.i-learner.com.hk");
+        cookiesToNetscape(cookies, jarPath);
+        log(`exported ${cookies.length} cookies → ${jarPath}`);
+        return cookies;
+      }
 
       async function fetchViaRequest(label, url, outPath) {
         log(`request.get ${label}: ${url}`);
@@ -407,26 +423,47 @@ async function main() {
       }
 
       async function fetchOne(label, url, outPath) {
-        let html = await fetchViaRequest(label, url, outPath);
-        if (looksLikeReport(html)) {
-          log(`saved ${label} via request.get → ${outPath} (${html.length} bytes)`);
-          return;
+        await exportJar();
+        let html = "";
+        try {
+          html = curlFetchReport(url, outPath, jarPath, label);
+        } catch (e) {
+          log(`${label}: curl threw (${e && e.message ? e.message : e})`);
+          html = "";
         }
-        const cookies = await context.cookies("https://chinese.i-learner.com.hk");
-        cookiesToNetscape(cookies, jarPath);
-        log(`${label}: request not report-like; try curl (${cookies.length} cookies)`);
-        html = curlFetchReport(url, outPath, jarPath, label);
-        if (looksLikeReport(html)) {
+        if (html && looksLikeReport(html)) {
           log(`saved ${label} via curl → ${outPath} (${html.length} bytes)`);
           return;
         }
-        log(`${label}: curl not report-like; try browser navigation`);
+        try {
+          html = await fetchViaRequest(label, url, outPath);
+        } catch (e) {
+          log(`${label}: request.get threw (${e && e.message ? e.message : e})`);
+          html = "";
+        }
+        if (html && looksLikeReport(html)) {
+          log(`saved ${label} via request.get → ${outPath} (${html.length} bytes)`);
+          return;
+        }
+        log(`${label}: curl/request not report-like; try browser navigation`);
         try {
           await saveReport(page, url, outPath, label);
           return;
         } catch (e) {
+          // browser 常被 WAF 導去 index；再匯一次 cookie 用 curl 重試
+          log(`${label}: browser failed (${e && e.message ? e.message : e}); re-export cookies + curl retry`);
+          await exportJar();
+          try {
+            html = curlFetchReport(url, outPath, jarPath, label);
+          } catch (e2) {
+            html = "";
+          }
+          if (html && looksLikeReport(html)) {
+            log(`saved ${label} via curl-after-browser → ${outPath} (${html.length} bytes)`);
+            return;
+          }
           die(
-            `${label} failed request+curl+browser (last ${outPath}, ${fs.statSync(outPath).size} bytes): ${
+            `${label} failed curl+request+browser (last ${outPath}, ${fs.existsSync(outPath) ? fs.statSync(outPath).size : 0} bytes): ${
               e && e.message ? e.message : e
             }`
           );
