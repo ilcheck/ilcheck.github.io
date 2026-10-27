@@ -10,7 +10,10 @@
  *     MCP credential_fill (item=ilearner, target=browser). Requires bridge paired.
  *
  * Env:
- *   HEADED=1          show browser (DISPLAY=:12)
+ *   HEADED=1          show browser (DISPLAY=:12). Default ON when USE_SYSTEM_CHROME
+ *                     (WAF「One moment」常擋 headless／bundled Chromium)。
+ *   USE_SYSTEM_CHROME=1  用系統 google-chrome channel（預設 1）；並 ignoreHTTPSErrors
+ *                     （Playwright bundled CA 可能不認新 LE Root YE → ERR_CERT_AUTHORITY_INVALID）。
  *   KRU_FILL=1        wait for extension fill instead of env credentials
  *   KRU_EXTENSION=1   also load extension when using env login (optional)
  *   SCRAPE_TIMEOUT_MS overall budget (default 660000 ≈ 11 min; wrapper adds margin)
@@ -131,8 +134,26 @@ async function selectChinesePlatform(page) {
   log(`platform selected: ${(label || "").trim()} (value=${final})`);
 }
 
+async function waitPastWaf(page) {
+  // WAF「One moment」會自動 reload；等到 login_form 可見。
+  const deadline = Date.now() + 90_000;
+  while (Date.now() < deadline) {
+    const has = await page.locator('input[name="username"]').isVisible().catch(() => false);
+    if (has) return;
+    const title = await page.title().catch(() => "");
+    if (/one moment|稍候|just a moment/i.test(title)) {
+      log("WAF interstitial detected; waiting for reload…");
+      await page.waitForTimeout(3000);
+      continue;
+    }
+    await page.waitForTimeout(1000);
+  }
+  die("timed out waiting past WAF / for login form");
+}
+
 async function loginWithEnv(page, username, password) {
   await page.goto(LOGIN_URL, { waitUntil: "domcontentloaded", timeout: 60_000 });
+  await waitPastWaf(page);
   await page.locator('input[name="username"]').waitFor({ state: "visible", timeout: 30_000 });
 
   // Order from skill: (1) username (2) password (3) LAST select platform (4) submit
@@ -148,6 +169,7 @@ async function loginWithEnv(page, username, password) {
 
 async function loginWithKruFill(page) {
   await page.goto(LOGIN_URL, { waitUntil: "domcontentloaded", timeout: 60_000 });
+  await waitPastWaf(page);
   await page.locator('input[name="username"]').waitFor({ state: "visible", timeout: 30_000 });
 
   await waitForKruFill(page, 'input[name="username"]', "username");
@@ -228,7 +250,11 @@ async function main() {
       );
     }
 
-    const headed = process.env.HEADED === "1";
+    // 系統 Chrome＋headed：過 WAF JS challenge；ignoreHTTPSErrors：過新 LE 憑證鏈。
+    const useSystemChrome = process.env.USE_SYSTEM_CHROME !== "0";
+    const headed =
+      process.env.HEADED === "1" ||
+      (process.env.HEADED !== "0" && useSystemChrome);
     const loadExt = kruFill || process.env.KRU_EXTENSION === "1";
     if (loadExt && !fs.existsSync(path.join(KRU_EXT, "manifest.json"))) {
       die(`KRU extension not found at ${KRU_EXT}`);
@@ -238,9 +264,21 @@ async function main() {
       headless: !headed,
       args: headed ? [] : ["--disable-dev-shm-usage"],
     };
+    if (useSystemChrome) {
+      launchOpts.channel = "chrome";
+    }
     if (headed) {
       launchOpts.env = { ...process.env, DISPLAY: process.env.DISPLAY || ":12" };
     }
+    log(
+      `browser: channel=${useSystemChrome ? "chrome" : "bundled"} headed=${headed} ignoreHTTPSErrors=1`
+    );
+
+    const contextOpts = {
+      viewport: { width: 1280, height: 900 },
+      locale: "zh-HK",
+      ignoreHTTPSErrors: true,
+    };
 
     let context;
     let browser;
@@ -250,19 +288,16 @@ async function main() {
       fs.mkdirSync(userData, { recursive: true });
       context = await chromium.launchPersistentContext(userData, {
         ...launchOpts,
+        ...contextOpts,
         args: [
           ...(launchOpts.args || []),
           `--disable-extensions-except=${KRU_EXT}`,
           `--load-extension=${KRU_EXT}`,
         ],
-        viewport: { width: 1280, height: 900 },
       });
     } else {
       browser = await chromium.launch(launchOpts);
-      context = await browser.newContext({
-        viewport: { width: 1280, height: 900 },
-        locale: "zh-HK",
-      });
+      context = await browser.newContext(contextOpts);
     }
 
     const page = context.pages()[0] || (await context.newPage());
