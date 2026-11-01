@@ -30,12 +30,22 @@ def given_name(full: str) -> str:
     return name
 
 
+def is_excluded_1b_name(name: str) -> bool:
+    """1B組交功課名單永遠排除 SAMIR／MUHAMMAD SAMIR（只限智愛交付）。"""
+    n = re.sub(r"\s+", " ", (name or "").strip().upper())
+    return n in {"SAMIR", "MUHAMMAD SAMIR"} or n.endswith(" SAMIR") and "MUHAMMAD" in n
+
+
 def owing(students: List[Dict[str, Any]], platform_class: str) -> List[Dict[str, Any]]:
-    out = [
-        s
-        for s in students
-        if s.get("platformClass") == platform_class and int(s.get("done") or 0) < 3
-    ]
+    out = []
+    for s in students:
+        if s.get("platformClass") != platform_class:
+            continue
+        if int(s.get("done") or 0) >= 3:
+            continue
+        if platform_class == "1GB" and is_excluded_1b_name(str(s.get("name") or "")):
+            continue
+        out.append(s)
     out.sort(key=lambda s: (int(s.get("id") or 0), str(s.get("name") or "")))
     return out
 
