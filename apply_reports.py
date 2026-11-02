@@ -632,6 +632,13 @@ def match_done(
     return done_map
 
 
+
+def is_excluded_1b_name(name: str) -> bool:
+    """1B組(1GB) 公開儀表板永遠排除 SAMIR／MUHAMMAD SAMIR（與 classroom_owing_snippet 同邏輯）。"""
+    n = re.sub(r"\s+", " ", (name or "").strip().upper())
+    return n in {"SAMIR", "MUHAMMAD SAMIR"} or n.endswith(" SAMIR") and "MUHAMMAD" in n
+
+
 def week_payload(
     roster: Dict[str, Dict[str, Any]],
     done_map: Dict[str, int],
@@ -652,6 +659,11 @@ def week_payload(
     missing = 0
     complete = 0
     for key, stu in roster.items():
+        pc = (stu.get("platformClass") or "").strip()
+        name = stu.get("name", "")
+        # Public dashboard: hide SAMIR from 1B組 (1GB); roster retains the row.
+        if pc == "1GB" and is_excluded_1b_name(str(name)):
+            continue
         total = int(stu.get("total", practice_total))
         # If this week's HTML declared a different total, prefer week practice_total
         # for the欠交 threshold (mid-week windows may have total < roster.total).
@@ -668,7 +680,7 @@ def week_payload(
                 "schoolClass": stu.get("schoolClass")
                 or platform_to_school_class(stu.get("platformClass", "")),
                 "id": int(stu.get("id", 0)),
-                "name": stu.get("name", ""),
+                "name": name,
                 "done": done,
                 "total": total,
             }
