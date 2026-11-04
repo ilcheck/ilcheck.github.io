@@ -639,6 +639,21 @@ def is_excluded_1b_name(name: str) -> bool:
     return n in {"SAMIR", "MUHAMMAD SAMIR"} or n.endswith(" SAMIR") and "MUHAMMAD" in n
 
 
+def is_excluded_5b_name(name: str) -> bool:
+    """5B 公開儀表板略過李鴻輝（退學；與 classroom_owing_snippet 同邏輯）。"""
+    n = re.sub(r"\s+", "", (name or "").strip())
+    return n == "李鴻輝"
+
+
+def is_excluded_5b_student(platform_class: str, student_id: int, name: str) -> bool:
+    """5B 李鴻輝：依姓名；或 platformClass 5B + id 16 且姓名相符／空白。"""
+    if (platform_class or "").strip() != "5B":
+        return False
+    if is_excluded_5b_name(name):
+        return True
+    return int(student_id or 0) == 16 and not (name or "").strip()
+
+
 def week_payload(
     roster: Dict[str, Dict[str, Any]],
     done_map: Dict[str, int],
@@ -663,6 +678,9 @@ def week_payload(
         name = stu.get("name", "")
         # Public dashboard: hide SAMIR from 1B組 (1GB); roster retains the row.
         if pc == "1GB" and is_excluded_1b_name(str(name)):
+            continue
+        # Public dashboard: hide withdrawn 李鴻輝 from 5B; roster retains the row.
+        if is_excluded_5b_student(pc, int(stu.get("id") or 0), str(name)):
             continue
         total = int(stu.get("total", practice_total))
         # If this week's HTML declared a different total, prefer week practice_total

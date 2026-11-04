@@ -42,6 +42,15 @@ def is_excluded_5b_name(name: str) -> bool:
     return n == "李鴻輝"
 
 
+def is_excluded_5b_student(platform_class: str, student_id: int, name: str) -> bool:
+    """5B 李鴻輝：依姓名；或 platformClass 5B + id 16 且姓名相符／空白。"""
+    if (platform_class or "").strip() != "5B":
+        return False
+    if is_excluded_5b_name(name):
+        return True
+    return int(student_id or 0) == 16 and not (name or "").strip()
+
+
 def owing(students: List[Dict[str, Any]], platform_class: str) -> List[Dict[str, Any]]:
     out = []
     for s in students:
@@ -52,7 +61,7 @@ def owing(students: List[Dict[str, Any]], platform_class: str) -> List[Dict[str,
         name = str(s.get("name") or "")
         if platform_class == "1GB" and is_excluded_1b_name(name):
             continue
-        if platform_class == "5B" and is_excluded_5b_name(name):
+        if is_excluded_5b_student(platform_class, int(s.get("id") or 0), name):
             continue
         out.append(s)
     out.sort(key=lambda s: (int(s.get("id") or 0), str(s.get("name") or "")))

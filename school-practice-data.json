@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-02 08:12 HKT",
+  "generated": "2026-11-04 13:58 HKT",
   "weeks": {
     "prev": {
       "from": "2026-10-26",
       "to": "2026-10-30",
-      "total": 425,
-      "complete": 93,
+      "total": 374,
+      "complete": 143,
       "practiceTotal": 5,
       "students": [
         {
@@ -181,7 +181,7 @@
           "schoolClass": "1A",
           "id": 3,
           "name": "羅倩兒",
-          "done": 2,
+          "done": 4,
           "total": 5
         },
         {
@@ -205,7 +205,7 @@
           "schoolClass": "1B",
           "id": 2,
           "name": "李子琳",
-          "done": 4,
+          "done": 5,
           "total": 5
         },
         {
@@ -261,7 +261,7 @@
           "schoolClass": "1B",
           "id": 11,
           "name": "鍾家樂",
-          "done": 2,
+          "done": 4,
           "total": 5
         },
         {
@@ -293,7 +293,7 @@
           "schoolClass": "1B",
           "id": 17,
           "name": "施文彬",
-          "done": 2,
+          "done": 3,
           "total": 5
         },
         {
@@ -301,7 +301,7 @@
           "schoolClass": "1B",
           "id": 18,
           "name": "王延鴻",
-          "done": 0,
+          "done": 3,
           "total": 5
         },
         {
@@ -317,7 +317,7 @@
           "schoolClass": "1C",
           "id": 9,
           "name": "周栢宇",
-          "done": 2,
+          "done": 4,
           "total": 5
         },
         {
@@ -333,7 +333,7 @@
           "schoolClass": "1C",
           "id": 18,
           "name": "盧声立",
-          "done": 4,
+          "done": 5,
           "total": 5
         },
         {
@@ -621,7 +621,7 @@
           "schoolClass": "1D",
           "id": 6,
           "name": "劉梓琪",
-          "done": 4,
+          "done": 5,
           "total": 5
         },
         {
@@ -701,7 +701,7 @@
           "schoolClass": "1D",
           "id": 16,
           "name": "何尚謙",
-          "done": 4,
+          "done": 5,
           "total": 5
         },
         {
@@ -749,7 +749,7 @@
           "schoolClass": "1D",
           "id": 26,
           "name": "顏鴻澤",
-          "done": 4,
+          "done": 5,
           "total": 5
         },
         {
@@ -773,7 +773,7 @@
           "schoolClass": "2A",
           "id": 2,
           "name": "黃思蕎",
-          "done": 0,
+          "done": 3,
           "total": 5
         },
         {
@@ -805,7 +805,7 @@
           "schoolClass": "2A",
           "id": 9,
           "name": "林梓健",
-          "done": 0,
+          "done": 3,
           "total": 5
         },
         {
@@ -821,7 +821,7 @@
           "schoolClass": "2A",
           "id": 11,
           "name": "梁峻榮",
-          "done": 0,
+          "done": 2,
           "total": 5
         },
         {
@@ -829,7 +829,7 @@
           "schoolClass": "2A",
           "id": 14,
           "name": "盧逸謙",
-          "done": 0,
+          "done": 1,
           "total": 5
         },
         {
@@ -837,7 +837,7 @@
           "schoolClass": "2A",
           "id": 19,
           "name": "楊東軒",
-          "done": 0,
+          "done": 1,
           "total": 5
         },
         {
@@ -861,7 +861,7 @@
           "schoolClass": "2A",
           "id": 22,
           "name": "余俊達",
-          "done": 0,
+          "done": 3,
           "total": 5
         },
         {
@@ -893,7 +893,7 @@
           "schoolClass": "2B",
           "id": 19,
           "name": "余晓鑫",
-          "done": 0,
+          "done": 2,
           "total": 5
         },
         {
@@ -965,7 +965,7 @@
           "schoolClass": "2B",
           "id": 3,
           "name": "蔡沛萁",
-          "done": 4,
+          "done": 5,
           "total": 5
         },
         {
@@ -981,7 +981,7 @@
           "schoolClass": "2B",
           "id": 5,
           "name": "胡若冰",
-          "done": 3,
+          "done": 5,
           "total": 5
         },
         {
@@ -997,7 +997,7 @@
           "schoolClass": "2B",
           "id": 9,
           "name": "鄭子諾",
-          "done": 3,
+          "done": 4,
           "total": 5
         },
         {
@@ -1005,7 +1005,7 @@
           "schoolClass": "2B",
           "id": 10,
           "name": "張啟宇",
-          "done": 4,
+          "done": 5,
           "total": 5
         },
         {
@@ -1021,7 +1021,7 @@
           "schoolClass": "2B",
           "id": 13,
           "name": "林學恆",
-          "done": 2,
+          "done": 3,
           "total": 5
         },
         {
@@ -1045,7 +1045,7 @@
           "schoolClass": "2B",
           "id": 16,
           "name": "麥綽洺",
-          "done": 3,
+          "done": 5,
           "total": 5
         },
         {
@@ -1061,7 +1061,7 @@
           "schoolClass": "2B",
           "id": 20,
           "name": "周家楊",
-          "done": 3,
+          "done": 4,
           "total": 5
         },
         {
@@ -1069,7 +1069,7 @@
           "schoolClass": "2B",
           "id": 21,
           "name": "鄒文輝",
-          "done": 1,
+          "done": 2,
           "total": 5
         },
         {
@@ -1077,7 +1077,7 @@
           "schoolClass": "2C",
           "id": 13,
           "name": "陳天賜",
-          "done": 3,
+          "done": 4,
           "total": 5
         },
         {
@@ -1093,7 +1093,7 @@
           "schoolClass": "2C",
           "id": 26,
           "name": "王若楠",
-          "done": 0,
+          "done": 2,
           "total": 5
         },
         {
@@ -1173,7 +1173,7 @@
           "schoolClass": "2C",
           "id": 7,
           "name": "鄧俙敏",
-          "done": 1,
+          "done": 4,
           "total": 5
         },
         {
@@ -1197,7 +1197,7 @@
           "schoolClass": "2C",
           "id": 11,
           "name": "陳凱文",
-          "done": 2,
+          "done": 4,
           "total": 5
         },
         {
@@ -1205,7 +1205,7 @@
           "schoolClass": "2C",
           "id": 14,
           "name": "陳柏楊",
-          "done": 1,
+          "done": 5,
           "total": 5
         },
         {
@@ -1221,7 +1221,7 @@
           "schoolClass": "2C",
           "id": 16,
           "name": "趙誠陽",
-          "done": 1,
+          "done": 2,
           "total": 5
         },
         {
@@ -1237,7 +1237,7 @@
           "schoolClass": "2C",
           "id": 19,
           "name": "劉駿熹",
-          "done": 3,
+          "done": 4,
           "total": 5
         },
         {
@@ -1309,7 +1309,7 @@
           "schoolClass": "2B",
           "id": 11,
           "name": "占梓言",
-          "done": 0,
+          "done": 4,
           "total": 5
         },
         {
@@ -1325,7 +1325,7 @@
           "schoolClass": "2D",
           "id": 1,
           "name": "陳梓澄",
-          "done": 0,
+          "done": 4,
           "total": 5
         },
         {
@@ -1357,7 +1357,7 @@
           "schoolClass": "2D",
           "id": 5,
           "name": "梁凱橋",
-          "done": 0,
+          "done": 4,
           "total": 5
         },
         {
@@ -1389,7 +1389,7 @@
           "schoolClass": "2D",
           "id": 11,
           "name": "王富睿",
-          "done": 2,
+          "done": 5,
           "total": 5
         },
         {
@@ -1397,7 +1397,7 @@
           "schoolClass": "2D",
           "id": 12,
           "name": "吳若希",
-          "done": 1,
+          "done": 4,
           "total": 5
         },
         {
@@ -1437,7 +1437,7 @@
           "schoolClass": "2D",
           "id": 19,
           "name": "江柏僑",
-          "done": 0,
+          "done": 4,
           "total": 5
         },
         {
@@ -1445,7 +1445,7 @@
           "schoolClass": "2D",
           "id": 20,
           "name": "梁峻熙",
-          "done": 1,
+          "done": 5,
           "total": 5
         },
         {
@@ -1461,7 +1461,7 @@
           "schoolClass": "2D",
           "id": 22,
           "name": "施澤鍇",
-          "done": 1,
+          "done": 4,
           "total": 5
         },
         {
@@ -1477,7 +1477,7 @@
           "schoolClass": "2D",
           "id": 25,
           "name": "章赫宸",
-          "done": 1,
+          "done": 5,
           "total": 5
         },
         {
@@ -1485,7 +1485,7 @@
           "schoolClass": "2D",
           "id": 26,
           "name": "周弘雨",
-          "done": 2,
+          "done": 4,
           "total": 5
         },
         {
@@ -1517,7 +1517,7 @@
           "schoolClass": "3A",
           "id": 6,
           "name": "羅碧賢",
-          "done": 4,
+          "done": 5,
           "total": 5
         },
         {
@@ -1525,7 +1525,7 @@
           "schoolClass": "3A",
           "id": 7,
           "name": "蘇鈺清",
-          "done": 4,
+          "done": 5,
           "total": 5
         },
         {
@@ -1533,7 +1533,7 @@
           "schoolClass": "3A",
           "id": 8,
           "name": "胡馨文",
-          "done": 4,
+          "done": 5,
           "total": 5
         },
         {
@@ -1541,7 +1541,7 @@
           "schoolClass": "3A",
           "id": 9,
           "name": "余恩欣",
-          "done": 4,
+          "done": 5,
           "total": 5
         },
         {
@@ -1581,7 +1581,7 @@
           "schoolClass": "3A",
           "id": 17,
           "name": "唐子軒",
-          "done": 3,
+          "done": 5,
           "total": 5
         },
         {
@@ -1589,7 +1589,7 @@
           "schoolClass": "3A",
           "id": 18,
           "name": "陳梓臣",
-          "done": 4,
+          "done": 5,
           "total": 5
         },
         {
@@ -1677,7 +1677,7 @@
           "schoolClass": "3B",
           "id": 1,
           "name": "張曉琳",
-          "done": 4,
+          "done": 5,
           "total": 5
         },
         {
@@ -1701,7 +1701,7 @@
           "schoolClass": "3B",
           "id": 6,
           "name": "葉康頤",
-          "done": 4,
+          "done": 5,
           "total": 5
         },
         {
@@ -1861,7 +1861,7 @@
           "schoolClass": "3A",
           "id": 13,
           "name": "劉嘉陞",
-          "done": 3,
+          "done": 5,
           "total": 5
         },
         {
@@ -1869,7 +1869,7 @@
           "schoolClass": "3B",
           "id": 2,
           "name": "何瀅瀅",
-          "done": 2,
+          "done": 5,
           "total": 5
         },
         {
@@ -1877,7 +1877,7 @@
           "schoolClass": "3B",
           "id": 21,
           "name": "周辰涵",
-          "done": 0,
+          "done": 4,
           "total": 5
         },
         {
@@ -1909,7 +1909,7 @@
           "schoolClass": "3C",
           "id": 6,
           "name": "盧世婷",
-          "done": 2,
+          "done": 5,
           "total": 5
         },
         {
@@ -1917,7 +1917,7 @@
           "schoolClass": "3C",
           "id": 7,
           "name": "羅子珊",
-          "done": 3,
+          "done": 5,
           "total": 5
         },
         {
@@ -1957,7 +1957,7 @@
           "schoolClass": "3C",
           "id": 17,
           "name": "葛天賜",
-          "done": 0,
+          "done": 5,
           "total": 5
         },
         {
@@ -1965,7 +1965,7 @@
           "schoolClass": "3C",
           "id": 20,
           "name": "江煒杰",
-          "done": 0,
+          "done": 5,
           "total": 5
         },
         {
@@ -1973,7 +1973,7 @@
           "schoolClass": "3C",
           "id": 23,
           "name": "姚智森",
-          "done": 3,
+          "done": 4,
           "total": 5
         },
         {
@@ -1981,7 +1981,7 @@
           "schoolClass": "3C",
           "id": 24,
           "name": "禹弘博",
-          "done": 4,
+          "done": 5,
           "total": 5
         },
         {
@@ -1989,7 +1989,7 @@
           "schoolClass": "3C",
           "id": 25,
           "name": "曾琦博",
-          "done": 0,
+          "done": 5,
           "total": 5
         },
         {
@@ -1997,7 +1997,7 @@
           "schoolClass": "3C",
           "id": 26,
           "name": "曾子軒",
-          "done": 0,
+          "done": 5,
           "total": 5
         },
         {
@@ -2013,7 +2013,7 @@
           "schoolClass": "3D",
           "id": 5,
           "name": "黃錦雯",
-          "done": 0,
+          "done": 5,
           "total": 5
         },
         {
@@ -2021,7 +2021,7 @@
           "schoolClass": "3D",
           "id": 12,
           "name": "吳希妍",
-          "done": 2,
+          "done": 5,
           "total": 5
         },
         {
@@ -2029,7 +2029,7 @@
           "schoolClass": "3D",
           "id": 16,
           "name": "楊雨晨",
-          "done": 0,
+          "done": 5,
           "total": 5
         },
         {
@@ -2037,7 +2037,7 @@
           "schoolClass": "3D",
           "id": 19,
           "name": "何泳鍵",
-          "done": 0,
+          "done": 5,
           "total": 5
         },
         {
@@ -2045,7 +2045,7 @@
           "schoolClass": "3D",
           "id": 29,
           "name": "張家豪",
-          "done": 0,
+          "done": 4,
           "total": 5
         },
         {
@@ -2085,7 +2085,7 @@
           "schoolClass": "3D",
           "id": 1,
           "name": "陳唯臻",
-          "done": 4,
+          "done": 5,
           "total": 5
         },
         {
@@ -2093,7 +2093,7 @@
           "schoolClass": "3D",
           "id": 3,
           "name": "馮樂瑤",
-          "done": 4,
+          "done": 5,
           "total": 5
         },
         {
@@ -2157,7 +2157,7 @@
           "schoolClass": "3D",
           "id": 14,
           "name": "王梓芊",
-          "done": 4,
+          "done": 5,
           "total": 5
         },
         {
@@ -2229,7 +2229,7 @@
           "schoolClass": "3D",
           "id": 25,
           "name": "吳秉燁",
-          "done": 4,
+          "done": 5,
           "total": 5
         },
         {
@@ -2501,7 +2501,7 @@
           "schoolClass": "4B",
           "id": 1,
           "name": "蔡銣佳",
-          "done": 0,
+          "done": 1,
           "total": 5
         },
         {
@@ -2517,7 +2517,7 @@
           "schoolClass": "4B",
           "id": 3,
           "name": "劉晞怡",
-          "done": 0,
+          "done": 3,
           "total": 5
         },
         {
@@ -2525,7 +2525,7 @@
           "schoolClass": "4B",
           "id": 4,
           "name": "劉予馨",
-          "done": 0,
+          "done": 2,
           "total": 5
         },
         {
@@ -2581,7 +2581,7 @@
           "schoolClass": "4B",
           "id": 11,
           "name": "王嘉琪",
-          "done": 0,
+          "done": 2,
           "total": 5
         },
         {
@@ -2613,7 +2613,7 @@
           "schoolClass": "4B",
           "id": 15,
           "name": "陳泓叡",
-          "done": 0,
+          "done": 2,
           "total": 5
         },
         {
@@ -2621,7 +2621,7 @@
           "schoolClass": "4B",
           "id": 16,
           "name": "張頌軒",
-          "done": 2,
+          "done": 3,
           "total": 5
         },
         {
@@ -2645,7 +2645,7 @@
           "schoolClass": "4B",
           "id": 19,
           "name": "江磊",
-          "done": 0,
+          "done": 3,
           "total": 5
         },
         {
@@ -2661,7 +2661,7 @@
           "schoolClass": "4B",
           "id": 21,
           "name": "賴志鋒",
-          "done": 0,
+          "done": 2,
           "total": 5
         },
         {
@@ -2669,7 +2669,7 @@
           "schoolClass": "4B",
           "id": 22,
           "name": "李柏賢",
-          "done": 2,
+          "done": 3,
           "total": 5
         },
         {
@@ -2685,7 +2685,7 @@
           "schoolClass": "4B",
           "id": 24,
           "name": "李世博",
-          "done": 0,
+          "done": 4,
           "total": 5
         },
         {
@@ -2725,7 +2725,7 @@
           "schoolClass": "4B",
           "id": 29,
           "name": "黃健聰",
-          "done": 0,
+          "done": 4,
           "total": 5
         },
         {
@@ -2733,7 +2733,7 @@
           "schoolClass": "4B",
           "id": 30,
           "name": "余生銘",
-          "done": 0,
+          "done": 2,
           "total": 5
         },
         {
@@ -2845,7 +2845,7 @@
           "schoolClass": "4C",
           "id": 13,
           "name": "姚依晴",
-          "done": 0,
+          "done": 3,
           "total": 5
         },
         {
@@ -2869,7 +2869,7 @@
           "schoolClass": "4C",
           "id": 16,
           "name": "陳恩賜",
-          "done": 2,
+          "done": 3,
           "total": 5
         },
         {
@@ -2909,7 +2909,7 @@
           "schoolClass": "4C",
           "id": 21,
           "name": "林翹",
-          "done": 0,
+          "done": 3,
           "total": 5
         },
         {
@@ -2933,7 +2933,7 @@
           "schoolClass": "4C",
           "id": 24,
           "name": "林睿",
-          "done": 0,
+          "done": 3,
           "total": 5
         },
         {
@@ -3061,7 +3061,7 @@
           "schoolClass": "5A",
           "id": 5,
           "name": "劉芯語",
-          "done": 4,
+          "done": 5,
           "total": 5
         },
         {
@@ -3269,7 +3269,7 @@
           "schoolClass": "5B",
           "id": 10,
           "name": "陳增炫",
-          "done": 2,
+          "done": 4,
           "total": 5
         },
         {
@@ -3315,17 +3315,9 @@
         {
           "platformClass": "5B",
           "schoolClass": "5B",
-          "id": 16,
-          "name": "李鴻輝",
-          "done": 0,
-          "total": 5
-        },
-        {
-          "platformClass": "5B",
-          "schoolClass": "5B",
           "id": 17,
           "name": "黎杰鍁",
-          "done": 0,
+          "done": 1,
           "total": 5
         },
         {
@@ -3357,7 +3349,7 @@
           "schoolClass": "5B",
           "id": 21,
           "name": "羅富俊",
-          "done": 0,
+          "done": 3,
           "total": 5
         },
         {
@@ -3381,7 +3373,7 @@
           "schoolClass": "5B",
           "id": 24,
           "name": "伍德豪",
-          "done": 0,
+          "done": 5,
           "total": 5
         },
         {
@@ -3389,7 +3381,7 @@
           "schoolClass": "5B",
           "id": 25,
           "name": "張諾軒",
-          "done": 2,
+          "done": 4,
           "total": 5
         },
         {
@@ -3397,7 +3389,7 @@
           "schoolClass": "5B",
           "id": 26,
           "name": "朱鎮鋒",
-          "done": 2,
+          "done": 3,
           "total": 5
         },
         {
@@ -3461,7 +3453,7 @@
           "schoolClass": "5C",
           "id": 8,
           "name": "邱梓珊",
-          "done": 3,
+          "done": 4,
           "total": 5
         },
         {
@@ -3541,7 +3533,7 @@
           "schoolClass": "5C",
           "id": 18,
           "name": "陳子安",
-          "done": 0,
+          "done": 1,
           "total": 5
         },
         {
@@ -3597,7 +3589,7 @@
           "schoolClass": "5C",
           "id": 25,
           "name": "吳啟德",
-          "done": 0,
+          "done": 4,
           "total": 5
         },
         {
@@ -3605,7 +3597,7 @@
           "schoolClass": "5C",
           "id": 26,
           "name": "吳子聰",
-          "done": 0,
+          "done": 5,
           "total": 5
         },
         {
@@ -3637,7 +3629,7 @@
           "schoolClass": "6A",
           "id": 2,
           "name": "李潤然",
-          "done": 0,
+          "done": 5,
           "total": 5
         },
         {
@@ -3653,7 +3645,7 @@
           "schoolClass": "6A",
           "id": 4,
           "name": "吳欣琦",
-          "done": 0,
+          "done": 4,
           "total": 5
         },
         {
@@ -3669,7 +3661,7 @@
           "schoolClass": "6A",
           "id": 6,
           "name": "陳政衡",
-          "done": 0,
+          "done": 5,
           "total": 5
         },
         {
@@ -3685,7 +3677,7 @@
           "schoolClass": "6A",
           "id": 8,
           "name": "黃俊羲",
-          "done": 0,
+          "done": 4,
           "total": 5
         },
         {
@@ -3957,7 +3949,7 @@
           "schoolClass": "6C",
           "id": 5,
           "name": "李子悠",
-          "done": 3,
+          "done": 5,
           "total": 5
         },
         {
@@ -3973,7 +3965,7 @@
           "schoolClass": "6C",
           "id": 7,
           "name": "劉恩馨",
-          "done": 0,
+          "done": 5,
           "total": 5
         },
         {
@@ -4021,7 +4013,7 @@
           "schoolClass": "6C",
           "id": 13,
           "name": "游穎",
-          "done": 0,
+          "done": 5,
           "total": 5
         },
         {
@@ -4053,7 +4045,7 @@
           "schoolClass": "6C",
           "id": 17,
           "name": "周靖霖",
-          "done": 0,
+          "done": 5,
           "total": 5
         },
         {
@@ -4069,7 +4061,7 @@
           "schoolClass": "6C",
           "id": 19,
           "name": "何剛毅",
-          "done": 0,
+          "done": 5,
           "total": 5
         },
         {
@@ -4077,7 +4069,7 @@
           "schoolClass": "6C",
           "id": 20,
           "name": "何逸晴",
-          "done": 0,
+          "done": 5,
           "total": 5
         },
         {
@@ -4109,7 +4101,7 @@
           "schoolClass": "6C",
           "id": 24,
           "name": "梁浩霖",
-          "done": 0,
+          "done": 5,
           "total": 5
         },
         {
@@ -4157,9 +4149,9 @@
     "current": {
       "from": "2026-11-02",
       "to": "2026-11-06",
-      "total": 502,
-      "complete": 16,
-      "practiceTotal": 1,
+      "total": 479,
+      "complete": 38,
+      "practiceTotal": 3,
       "students": [
         {
           "platformClass": "1GA",
@@ -4167,15 +4159,15 @@
           "id": 4,
           "name": "鍾鳴妤",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GA",
           "schoolClass": "1A",
           "id": 6,
           "name": "張淽墧",
-          "done": 0,
-          "total": 1
+          "done": 1,
+          "total": 3
         },
         {
           "platformClass": "1GA",
@@ -4183,7 +4175,7 @@
           "id": 7,
           "name": "BAYR ASHTON MARTIN",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GA",
@@ -4191,7 +4183,7 @@
           "id": 8,
           "name": "陳健峰",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GA",
@@ -4199,7 +4191,7 @@
           "id": 10,
           "name": "周卓霆",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GA",
@@ -4207,7 +4199,7 @@
           "id": 11,
           "name": "江柏翹",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GA",
@@ -4215,7 +4207,7 @@
           "id": 12,
           "name": "黎樂賢",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GA",
@@ -4223,7 +4215,7 @@
           "id": 13,
           "name": "李宇恒",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GA",
@@ -4231,7 +4223,7 @@
           "id": 14,
           "name": "李金俊",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GA",
@@ -4239,7 +4231,7 @@
           "id": 15,
           "name": "李文睿",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GA",
@@ -4247,7 +4239,7 @@
           "id": 16,
           "name": "盧永耀",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GA",
@@ -4255,7 +4247,7 @@
           "id": 17,
           "name": "SHAH SHAHZAD FAISAL",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GA",
@@ -4263,15 +4255,15 @@
           "id": 18,
           "name": "孫正昊",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GA",
           "schoolClass": "1A",
           "id": 19,
           "name": "譚栢翹",
-          "done": 0,
-          "total": 1
+          "done": 2,
+          "total": 3
         },
         {
           "platformClass": "1GA",
@@ -4279,15 +4271,15 @@
           "id": 20,
           "name": "徐佳彤",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GA",
           "schoolClass": "1B",
           "id": 10,
           "name": "陳銘康",
-          "done": 0,
-          "total": 1
+          "done": 1,
+          "total": 3
         },
         {
           "platformClass": "1GA",
@@ -4295,7 +4287,7 @@
           "id": 12,
           "name": "高朗",
           "done": 1,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GA",
@@ -4303,7 +4295,7 @@
           "id": 20,
           "name": "嚴浩洛",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GA",
@@ -4311,7 +4303,7 @@
           "id": 12,
           "name": "關卓翹",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GA",
@@ -4319,23 +4311,23 @@
           "id": 23,
           "name": "唐振翔",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GA",
           "schoolClass": "1D",
           "id": 28,
           "name": "張立之",
-          "done": 0,
-          "total": 1
+          "done": 1,
+          "total": 3
         },
         {
           "platformClass": "1GB",
           "schoolClass": "1A",
           "id": 3,
           "name": "羅倩兒",
-          "done": 0,
-          "total": 1
+          "done": 1,
+          "total": 3
         },
         {
           "platformClass": "1GB",
@@ -4343,7 +4335,7 @@
           "id": 5,
           "name": "姚芷晴",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GB",
@@ -4351,15 +4343,15 @@
           "id": 1,
           "name": "陳宥言",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GB",
           "schoolClass": "1B",
           "id": 2,
           "name": "李子琳",
-          "done": 0,
-          "total": 1
+          "done": 1,
+          "total": 3
         },
         {
           "platformClass": "1GB",
@@ -4367,15 +4359,15 @@
           "id": 3,
           "name": "吳嘉琪",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GB",
           "schoolClass": "1B",
           "id": 4,
           "name": "蘇泇澄",
-          "done": 0,
-          "total": 1
+          "done": 3,
+          "total": 3
         },
         {
           "platformClass": "1GB",
@@ -4383,23 +4375,23 @@
           "id": 6,
           "name": "唐靜怡",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GB",
           "schoolClass": "1B",
           "id": 7,
           "name": "張樂怡",
-          "done": 0,
-          "total": 1
+          "done": 1,
+          "total": 3
         },
         {
           "platformClass": "1GB",
           "schoolClass": "1B",
           "id": 8,
           "name": "翟俊然",
-          "done": 0,
-          "total": 1
+          "done": 2,
+          "total": 3
         },
         {
           "platformClass": "1GB",
@@ -4407,15 +4399,15 @@
           "id": 9,
           "name": "陳志健",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GB",
           "schoolClass": "1B",
           "id": 11,
           "name": "鍾家樂",
-          "done": 0,
-          "total": 1
+          "done": 1,
+          "total": 3
         },
         {
           "platformClass": "1GB",
@@ -4423,7 +4415,7 @@
           "id": 13,
           "name": "林景山",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GB",
@@ -4431,7 +4423,7 @@
           "id": 14,
           "name": "羅文康",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GB",
@@ -4439,7 +4431,7 @@
           "id": 15,
           "name": "林凱延",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GB",
@@ -4447,15 +4439,15 @@
           "id": 17,
           "name": "施文彬",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GB",
           "schoolClass": "1B",
           "id": 18,
           "name": "王延鴻",
-          "done": 0,
-          "total": 1
+          "done": 1,
+          "total": 3
         },
         {
           "platformClass": "1GB",
@@ -4463,15 +4455,15 @@
           "id": 6,
           "name": "陳俊僖",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GB",
           "schoolClass": "1C",
           "id": 9,
           "name": "周栢宇",
-          "done": 0,
-          "total": 1
+          "done": 1,
+          "total": 3
         },
         {
           "platformClass": "1GB",
@@ -4479,23 +4471,23 @@
           "id": 13,
           "name": "關宇軒",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GB",
           "schoolClass": "1C",
           "id": 18,
           "name": "盧声立",
-          "done": 0,
-          "total": 1
+          "done": 1,
+          "total": 3
         },
         {
           "platformClass": "1GB",
           "schoolClass": "1C",
           "id": 27,
           "name": "王柏軒",
-          "done": 0,
-          "total": 1
+          "done": 1,
+          "total": 3
         },
         {
           "platformClass": "1GC",
@@ -4503,7 +4495,7 @@
           "id": 1,
           "name": "陳洛頤",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GC",
@@ -4511,7 +4503,7 @@
           "id": 2,
           "name": "付梓鎣",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GC",
@@ -4519,7 +4511,7 @@
           "id": 9,
           "name": "鄭頌熹",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GC",
@@ -4527,7 +4519,7 @@
           "id": 16,
           "name": "莫賀名",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GC",
@@ -4535,7 +4527,7 @@
           "id": 19,
           "name": "謝賢明",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GC",
@@ -4543,7 +4535,7 @@
           "id": 1,
           "name": "陳卓瑤",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GC",
@@ -4551,7 +4543,7 @@
           "id": 2,
           "name": "陳梓怡",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GC",
@@ -4559,7 +4551,7 @@
           "id": 3,
           "name": "徐思敏",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GC",
@@ -4567,7 +4559,7 @@
           "id": 4,
           "name": "俞晞瞳",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GC",
@@ -4575,7 +4567,7 @@
           "id": 5,
           "name": "余慧琪",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GC",
@@ -4583,7 +4575,7 @@
           "id": 7,
           "name": "陳曉陽",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GC",
@@ -4591,7 +4583,7 @@
           "id": 8,
           "name": "鄭丞希",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GC",
@@ -4599,7 +4591,7 @@
           "id": 11,
           "name": "侯振傑",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GC",
@@ -4607,7 +4599,7 @@
           "id": 15,
           "name": "利宗謙",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GC",
@@ -4615,7 +4607,7 @@
           "id": 16,
           "name": "梁曉賢",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GC",
@@ -4623,7 +4615,7 @@
           "id": 17,
           "name": "梁思炫",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GC",
@@ -4631,7 +4623,7 @@
           "id": 20,
           "name": "冼葦軒",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GC",
@@ -4639,7 +4631,7 @@
           "id": 22,
           "name": "譚朗翹",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GC",
@@ -4647,7 +4639,7 @@
           "id": 25,
           "name": "蔡珀言",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GC",
@@ -4655,7 +4647,7 @@
           "id": 26,
           "name": "王柏熙",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GC",
@@ -4663,7 +4655,7 @@
           "id": 2,
           "name": "張子琪",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GC",
@@ -4671,7 +4663,7 @@
           "id": 4,
           "name": "林子倩",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GC",
@@ -4679,7 +4671,7 @@
           "id": 17,
           "name": "何永康",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GC",
@@ -4687,7 +4679,7 @@
           "id": 20,
           "name": "李浩林",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GC",
@@ -4695,7 +4687,7 @@
           "id": 24,
           "name": "王梓浚",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GC",
@@ -4703,7 +4695,7 @@
           "id": 25,
           "name": "王灃晞",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GD",
@@ -4711,7 +4703,7 @@
           "id": 10,
           "name": "何彥樑",
           "done": 1,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GD",
@@ -4719,7 +4711,7 @@
           "id": 14,
           "name": "林梓洛",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GD",
@@ -4727,7 +4719,7 @@
           "id": 21,
           "name": "蕭廷熹",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GD",
@@ -4735,7 +4727,7 @@
           "id": 24,
           "name": "謝勒邦",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GD",
@@ -4743,7 +4735,7 @@
           "id": 28,
           "name": "葉栢鋒",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GD",
@@ -4751,7 +4743,7 @@
           "id": 1,
           "name": "陳欣彤",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GD",
@@ -4759,7 +4751,7 @@
           "id": 3,
           "name": "江凱嵐",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GD",
@@ -4767,15 +4759,15 @@
           "id": 5,
           "name": "羅婧嵐",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GD",
           "schoolClass": "1D",
           "id": 6,
           "name": "劉梓琪",
-          "done": 0,
-          "total": 1
+          "done": 3,
+          "total": 3
         },
         {
           "platformClass": "1GD",
@@ -4783,7 +4775,7 @@
           "id": 7,
           "name": "譚綺玲",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GD",
@@ -4791,7 +4783,7 @@
           "id": 8,
           "name": "吳思涵",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GD",
@@ -4799,7 +4791,7 @@
           "id": 9,
           "name": "曾婉婷",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GD",
@@ -4807,7 +4799,7 @@
           "id": 10,
           "name": "張淑怡",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GD",
@@ -4815,7 +4807,7 @@
           "id": 11,
           "name": "朱若琳",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GD",
@@ -4823,7 +4815,7 @@
           "id": 12,
           "name": "朱文第",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GD",
@@ -4831,7 +4823,7 @@
           "id": 13,
           "name": "翟梓俊",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GD",
@@ -4839,7 +4831,7 @@
           "id": 14,
           "name": "傅奕信",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GD",
@@ -4847,15 +4839,15 @@
           "id": 15,
           "name": "何胤達",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GD",
           "schoolClass": "1D",
           "id": 16,
           "name": "何尚謙",
-          "done": 0,
-          "total": 1
+          "done": 1,
+          "total": 3
         },
         {
           "platformClass": "1GD",
@@ -4863,7 +4855,7 @@
           "id": 18,
           "name": "關嘉輝",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GD",
@@ -4871,7 +4863,7 @@
           "id": 19,
           "name": "林修立",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GD",
@@ -4879,7 +4871,7 @@
           "id": 21,
           "name": "劉思炫",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GD",
@@ -4887,23 +4879,23 @@
           "id": 22,
           "name": "盧禹仁",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "1GD",
           "schoolClass": "1D",
           "id": 23,
           "name": "鄧宇政",
-          "done": 0,
-          "total": 1
+          "done": 2,
+          "total": 3
         },
         {
           "platformClass": "1GD",
           "schoolClass": "1D",
           "id": 26,
           "name": "顏鴻澤",
-          "done": 0,
-          "total": 1
+          "done": 1,
+          "total": 3
         },
         {
           "platformClass": "1GD",
@@ -4911,7 +4903,7 @@
           "id": 27,
           "name": "曾麒恩",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GA",
@@ -4919,7 +4911,7 @@
           "id": 1,
           "name": "李紫熒",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GA",
@@ -4927,7 +4919,7 @@
           "id": 2,
           "name": "黃思蕎",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GA",
@@ -4935,7 +4927,7 @@
           "id": 5,
           "name": "徐晉亨",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GA",
@@ -4943,7 +4935,7 @@
           "id": 6,
           "name": "何駿軒",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GA",
@@ -4951,15 +4943,15 @@
           "id": 7,
           "name": "林皓峻",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GA",
           "schoolClass": "2A",
           "id": 9,
           "name": "林梓健",
-          "done": 0,
-          "total": 1
+          "done": 1,
+          "total": 3
         },
         {
           "platformClass": "2GA",
@@ -4967,7 +4959,7 @@
           "id": 10,
           "name": "林葦峯",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GA",
@@ -4975,7 +4967,7 @@
           "id": 11,
           "name": "梁峻榮",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GA",
@@ -4983,7 +4975,7 @@
           "id": 14,
           "name": "盧逸謙",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GA",
@@ -4991,7 +4983,7 @@
           "id": 19,
           "name": "楊東軒",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GA",
@@ -4999,7 +4991,7 @@
           "id": 20,
           "name": "尤沁諾",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GA",
@@ -5007,7 +4999,7 @@
           "id": 21,
           "name": "余竣傑",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GA",
@@ -5015,7 +5007,7 @@
           "id": 22,
           "name": "余俊達",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GA",
@@ -5023,7 +5015,7 @@
           "id": 6,
           "name": "楊穎欣",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GA",
@@ -5031,7 +5023,7 @@
           "id": 7,
           "name": "陳治文",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GA",
@@ -5039,15 +5031,15 @@
           "id": 17,
           "name": "施敬軒",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GA",
           "schoolClass": "2B",
           "id": 19,
           "name": "余晓鑫",
-          "done": 0,
-          "total": 1
+          "done": 1,
+          "total": 3
         },
         {
           "platformClass": "2GA",
@@ -5055,7 +5047,7 @@
           "id": 4,
           "name": "李心儀",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GA",
@@ -5063,15 +5055,15 @@
           "id": 6,
           "name": "劉堯曦",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GA",
           "schoolClass": "2C",
           "id": 12,
           "name": "陳立智",
-          "done": 0,
-          "total": 1
+          "done": 1,
+          "total": 3
         },
         {
           "platformClass": "2GA",
@@ -5079,7 +5071,7 @@
           "id": 22,
           "name": "李天睿",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GB",
@@ -5087,7 +5079,7 @@
           "id": 4,
           "name": "鄭康瑞",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GB",
@@ -5095,7 +5087,7 @@
           "id": 16,
           "name": "蘇爾聲",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GB",
@@ -5103,7 +5095,7 @@
           "id": 18,
           "name": "黃曉瑨",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GB",
@@ -5111,15 +5103,15 @@
           "id": 2,
           "name": "吳泳儀",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GB",
           "schoolClass": "2B",
           "id": 3,
           "name": "蔡沛萁",
-          "done": 0,
-          "total": 1
+          "done": 3,
+          "total": 3
         },
         {
           "platformClass": "2GB",
@@ -5127,39 +5119,39 @@
           "id": 4,
           "name": "謝焯姿",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GB",
           "schoolClass": "2B",
           "id": 5,
           "name": "胡若冰",
-          "done": 0,
-          "total": 1
+          "done": 3,
+          "total": 3
         },
         {
           "platformClass": "2GB",
           "schoolClass": "2B",
           "id": 8,
           "name": "陳祉豪",
-          "done": 0,
-          "total": 1
+          "done": 3,
+          "total": 3
         },
         {
           "platformClass": "2GB",
           "schoolClass": "2B",
           "id": 9,
           "name": "鄭子諾",
-          "done": 0,
-          "total": 1
+          "done": 3,
+          "total": 3
         },
         {
           "platformClass": "2GB",
           "schoolClass": "2B",
           "id": 10,
           "name": "張啟宇",
-          "done": 0,
-          "total": 1
+          "done": 3,
+          "total": 3
         },
         {
           "platformClass": "2GB",
@@ -5167,7 +5159,7 @@
           "id": 12,
           "name": "何孝傑",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GB",
@@ -5175,7 +5167,7 @@
           "id": 13,
           "name": "林學恆",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GB",
@@ -5183,7 +5175,7 @@
           "id": 14,
           "name": "李卓賢",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GB",
@@ -5191,15 +5183,15 @@
           "id": 15,
           "name": "呂嘉豪",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GB",
           "schoolClass": "2B",
           "id": 16,
           "name": "麥綽洺",
-          "done": 0,
-          "total": 1
+          "done": 3,
+          "total": 3
         },
         {
           "platformClass": "2GB",
@@ -5207,31 +5199,31 @@
           "id": 18,
           "name": "鄔俊熙",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GB",
           "schoolClass": "2B",
           "id": 20,
           "name": "周家楊",
-          "done": 0,
-          "total": 1
+          "done": 3,
+          "total": 3
         },
         {
           "platformClass": "2GB",
           "schoolClass": "2B",
           "id": 21,
           "name": "鄒文輝",
-          "done": 0,
-          "total": 1
+          "done": 3,
+          "total": 3
         },
         {
           "platformClass": "2GB",
           "schoolClass": "2C",
           "id": 13,
           "name": "陳天賜",
-          "done": 0,
-          "total": 1
+          "done": 3,
+          "total": 3
         },
         {
           "platformClass": "2GB",
@@ -5239,7 +5231,7 @@
           "id": 24,
           "name": "盧弘智",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GB",
@@ -5247,15 +5239,15 @@
           "id": 26,
           "name": "王若楠",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GC",
           "schoolClass": "2A",
           "id": 3,
           "name": "楊智茵",
-          "done": 0,
-          "total": 1
+          "done": 3,
+          "total": 3
         },
         {
           "platformClass": "2GC",
@@ -5263,7 +5255,7 @@
           "id": 8,
           "name": "林景汶",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GC",
@@ -5271,7 +5263,7 @@
           "id": 12,
           "name": "李俊賢",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GC",
@@ -5279,7 +5271,7 @@
           "id": 13,
           "name": "林梓阳",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GC",
@@ -5287,7 +5279,7 @@
           "id": 17,
           "name": "曾卓一",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GC",
@@ -5295,7 +5287,7 @@
           "id": 1,
           "name": "陳浠兒",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GC",
@@ -5303,7 +5295,7 @@
           "id": 2,
           "name": "利璐佳",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GC",
@@ -5311,23 +5303,23 @@
           "id": 3,
           "name": "利璐雅",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GC",
           "schoolClass": "2C",
           "id": 5,
           "name": "梁伊涵",
-          "done": 0,
-          "total": 1
+          "done": 2,
+          "total": 3
         },
         {
           "platformClass": "2GC",
           "schoolClass": "2C",
           "id": 7,
           "name": "鄧俙敏",
-          "done": 0,
-          "total": 1
+          "done": 2,
+          "total": 3
         },
         {
           "platformClass": "2GC",
@@ -5335,7 +5327,7 @@
           "id": 8,
           "name": "嚴格",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GC",
@@ -5343,23 +5335,23 @@
           "id": 10,
           "name": "趙芊譽",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GC",
           "schoolClass": "2C",
           "id": 11,
           "name": "陳凱文",
-          "done": 0,
-          "total": 1
+          "done": 3,
+          "total": 3
         },
         {
           "platformClass": "2GC",
           "schoolClass": "2C",
           "id": 14,
           "name": "陳柏楊",
-          "done": 0,
-          "total": 1
+          "done": 3,
+          "total": 3
         },
         {
           "platformClass": "2GC",
@@ -5367,7 +5359,7 @@
           "id": 15,
           "name": "張其鑫",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GC",
@@ -5375,7 +5367,7 @@
           "id": 16,
           "name": "趙誠陽",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GC",
@@ -5383,15 +5375,15 @@
           "id": 18,
           "name": "許進禧",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GC",
           "schoolClass": "2C",
           "id": 19,
           "name": "劉駿熹",
-          "done": 0,
-          "total": 1
+          "done": 2,
+          "total": 3
         },
         {
           "platformClass": "2GC",
@@ -5399,15 +5391,15 @@
           "id": 21,
           "name": "梁澤天",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GC",
           "schoolClass": "2C",
           "id": 23,
           "name": "林健翔",
-          "done": 0,
-          "total": 1
+          "done": 2,
+          "total": 3
         },
         {
           "platformClass": "2GC",
@@ -5415,7 +5407,7 @@
           "id": 25,
           "name": "王毅",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GC",
@@ -5423,7 +5415,7 @@
           "id": 7,
           "name": "凌宇芯",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GC",
@@ -5431,7 +5423,7 @@
           "id": 8,
           "name": "龍梓琳",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GC",
@@ -5439,15 +5431,15 @@
           "id": 14,
           "name": "哈迪",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GC",
           "schoolClass": "2D",
           "id": 23,
           "name": "鄧浩賢",
-          "done": 0,
-          "total": 1
+          "done": 3,
+          "total": 3
         },
         {
           "platformClass": "2GD",
@@ -5455,15 +5447,15 @@
           "id": 1,
           "name": "雷靜",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GD",
           "schoolClass": "2B",
           "id": 11,
           "name": "占梓言",
-          "done": 0,
-          "total": 1
+          "done": 1,
+          "total": 3
         },
         {
           "platformClass": "2GD",
@@ -5471,7 +5463,7 @@
           "id": 9,
           "name": "楊海棠",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GD",
@@ -5479,7 +5471,7 @@
           "id": 1,
           "name": "陳梓澄",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GD",
@@ -5487,7 +5479,7 @@
           "id": 2,
           "name": "陳瑩雅",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GD",
@@ -5495,15 +5487,15 @@
           "id": 3,
           "name": "陳映彤",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GD",
           "schoolClass": "2D",
           "id": 4,
           "name": "許傳馨",
-          "done": 0,
-          "total": 1
+          "done": 3,
+          "total": 3
         },
         {
           "platformClass": "2GD",
@@ -5511,7 +5503,7 @@
           "id": 5,
           "name": "梁凱橋",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GD",
@@ -5519,15 +5511,15 @@
           "id": 6,
           "name": "林詩晨",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GD",
           "schoolClass": "2D",
           "id": 9,
           "name": "伍卓婷",
-          "done": 1,
-          "total": 1
+          "done": 3,
+          "total": 3
         },
         {
           "platformClass": "2GD",
@@ -5535,23 +5527,23 @@
           "id": 10,
           "name": "蘇文茹",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GD",
           "schoolClass": "2D",
           "id": 11,
           "name": "王富睿",
-          "done": 0,
-          "total": 1
+          "done": 3,
+          "total": 3
         },
         {
           "platformClass": "2GD",
           "schoolClass": "2D",
           "id": 12,
           "name": "吳若希",
-          "done": 0,
-          "total": 1
+          "done": 1,
+          "total": 3
         },
         {
           "platformClass": "2GD",
@@ -5559,7 +5551,7 @@
           "id": 13,
           "name": "夏熒熒",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GD",
@@ -5567,7 +5559,7 @@
           "id": 15,
           "name": "陳子睿",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GD",
@@ -5575,7 +5567,7 @@
           "id": 17,
           "name": "陳熠林",
           "done": 1,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GD",
@@ -5583,7 +5575,7 @@
           "id": 18,
           "name": "朱惠俊",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GD",
@@ -5591,15 +5583,15 @@
           "id": 19,
           "name": "江柏僑",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GD",
           "schoolClass": "2D",
           "id": 20,
           "name": "梁峻熙",
-          "done": 0,
-          "total": 1
+          "done": 1,
+          "total": 3
         },
         {
           "platformClass": "2GD",
@@ -5607,15 +5599,15 @@
           "id": 21,
           "name": "呂日朗",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GD",
           "schoolClass": "2D",
           "id": 22,
           "name": "施澤鍇",
-          "done": 0,
-          "total": 1
+          "done": 3,
+          "total": 3
         },
         {
           "platformClass": "2GD",
@@ -5623,7 +5615,7 @@
           "id": 24,
           "name": "黃鎮嵐",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GD",
@@ -5631,15 +5623,15 @@
           "id": 25,
           "name": "章赫宸",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "2GD",
           "schoolClass": "2D",
           "id": 26,
           "name": "周弘雨",
-          "done": 0,
-          "total": 1
+          "done": 2,
+          "total": 3
         },
         {
           "platformClass": "2GD",
@@ -5647,7 +5639,7 @@
           "id": 27,
           "name": "左武生",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GA",
@@ -5655,7 +5647,7 @@
           "id": 1,
           "name": "莊皓晴",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GA",
@@ -5663,31 +5655,31 @@
           "id": 2,
           "name": "何霈霖",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GA",
           "schoolClass": "3A",
           "id": 6,
           "name": "羅碧賢",
-          "done": 0,
-          "total": 1
+          "done": 3,
+          "total": 3
         },
         {
           "platformClass": "3GA",
           "schoolClass": "3A",
           "id": 7,
           "name": "蘇鈺清",
-          "done": 0,
-          "total": 1
+          "done": 3,
+          "total": 3
         },
         {
           "platformClass": "3GA",
           "schoolClass": "3A",
           "id": 8,
           "name": "胡馨文",
-          "done": 0,
-          "total": 1
+          "done": 3,
+          "total": 3
         },
         {
           "platformClass": "3GA",
@@ -5695,7 +5687,7 @@
           "id": 9,
           "name": "余恩欣",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GA",
@@ -5703,7 +5695,7 @@
           "id": 10,
           "name": "張俊柏",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GA",
@@ -5711,7 +5703,7 @@
           "id": 11,
           "name": "樊達軒",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GA",
@@ -5719,7 +5711,7 @@
           "id": 12,
           "name": "劉恒雒",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GA",
@@ -5727,23 +5719,23 @@
           "id": 14,
           "name": "李熠晨",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GA",
           "schoolClass": "3A",
           "id": 17,
           "name": "唐子軒",
-          "done": 0,
-          "total": 1
+          "done": 3,
+          "total": 3
         },
         {
           "platformClass": "3GA",
           "schoolClass": "3A",
           "id": 18,
           "name": "陳梓臣",
-          "done": 0,
-          "total": 1
+          "done": 2,
+          "total": 3
         },
         {
           "platformClass": "3GA",
@@ -5751,7 +5743,7 @@
           "id": 19,
           "name": "俞晟睿",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GA",
@@ -5759,7 +5751,7 @@
           "id": 3,
           "name": "黃思源",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GA",
@@ -5767,7 +5759,7 @@
           "id": 7,
           "name": "余芷晴",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GA",
@@ -5775,7 +5767,7 @@
           "id": 9,
           "name": "陳世峰",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GA",
@@ -5783,7 +5775,7 @@
           "id": 10,
           "name": "張庭瑜",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GA",
@@ -5791,7 +5783,7 @@
           "id": 14,
           "name": "林柏皓",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GA",
@@ -5799,7 +5791,7 @@
           "id": 16,
           "name": "伍子朗",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GA",
@@ -5807,7 +5799,7 @@
           "id": 18,
           "name": "蘇志軒",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GA",
@@ -5815,7 +5807,7 @@
           "id": 13,
           "name": "陳浩賢",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GB",
@@ -5823,15 +5815,15 @@
           "id": 16,
           "name": "馬浩軒",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GB",
           "schoolClass": "3B",
           "id": 1,
           "name": "張曉琳",
-          "done": 0,
-          "total": 1
+          "done": 3,
+          "total": 3
         },
         {
           "platformClass": "3GB",
@@ -5839,7 +5831,7 @@
           "id": 4,
           "name": "劉金希",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GB",
@@ -5847,15 +5839,15 @@
           "id": 5,
           "name": "許莎桫",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GB",
           "schoolClass": "3B",
           "id": 6,
           "name": "葉康頤",
-          "done": 0,
-          "total": 1
+          "done": 3,
+          "total": 3
         },
         {
           "platformClass": "3GB",
@@ -5863,7 +5855,7 @@
           "id": 8,
           "name": "朱良欣",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GB",
@@ -5871,7 +5863,7 @@
           "id": 11,
           "name": "徐駿朗",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GB",
@@ -5879,7 +5871,7 @@
           "id": 12,
           "name": "高仲佳",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GB",
@@ -5887,7 +5879,7 @@
           "id": 13,
           "name": "李兆宏",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GB",
@@ -5895,7 +5887,7 @@
           "id": 15,
           "name": "巫曦嵐",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GB",
@@ -5903,7 +5895,7 @@
           "id": 2,
           "name": "蔡熙彤",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GB",
@@ -5911,7 +5903,7 @@
           "id": 4,
           "name": "許芷晴",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GB",
@@ -5919,7 +5911,7 @@
           "id": 8,
           "name": "馬敏瑜",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GB",
@@ -5927,7 +5919,7 @@
           "id": 12,
           "name": "陳志豪",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GB",
@@ -5935,7 +5927,7 @@
           "id": 14,
           "name": "陳樂軒",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GB",
@@ -5943,7 +5935,7 @@
           "id": 15,
           "name": "陳裕羲",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GB",
@@ -5951,7 +5943,7 @@
           "id": 18,
           "name": "方朗然",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GB",
@@ -5959,7 +5951,7 @@
           "id": 19,
           "name": "黄立恒",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GB",
@@ -5967,7 +5959,7 @@
           "id": 21,
           "name": "莫文曦",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GB",
@@ -5975,7 +5967,7 @@
           "id": 22,
           "name": "譚斯駿",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GB",
@@ -5983,7 +5975,7 @@
           "id": 2,
           "name": "馮楚怡",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GB",
@@ -5991,15 +5983,15 @@
           "id": 8,
           "name": "李聞炎",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GC",
           "schoolClass": "3A",
           "id": 4,
           "name": "凌莉",
-          "done": 1,
-          "total": 1
+          "done": 3,
+          "total": 3
         },
         {
           "platformClass": "3GC",
@@ -6007,15 +5999,15 @@
           "id": 5,
           "name": "羅浚婷",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GC",
           "schoolClass": "3A",
           "id": 13,
           "name": "劉嘉陞",
-          "done": 0,
-          "total": 1
+          "done": 3,
+          "total": 3
         },
         {
           "platformClass": "3GC",
@@ -6023,7 +6015,7 @@
           "id": 2,
           "name": "何瀅瀅",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GC",
@@ -6031,7 +6023,7 @@
           "id": 21,
           "name": "周辰涵",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GC",
@@ -6039,7 +6031,7 @@
           "id": 1,
           "name": "陳樂桐",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GC",
@@ -6047,7 +6039,7 @@
           "id": 3,
           "name": "付梓希",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GC",
@@ -6055,7 +6047,7 @@
           "id": 5,
           "name": "關昕怡",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GC",
@@ -6063,23 +6055,23 @@
           "id": 6,
           "name": "盧世婷",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GC",
           "schoolClass": "3C",
           "id": 7,
           "name": "羅子珊",
-          "done": 0,
-          "total": 1
+          "done": 1,
+          "total": 3
         },
         {
           "platformClass": "3GC",
           "schoolClass": "3C",
           "id": 9,
           "name": "徐丁敏",
-          "done": 1,
-          "total": 1
+          "done": 3,
+          "total": 3
         },
         {
           "platformClass": "3GC",
@@ -6087,7 +6079,7 @@
           "id": 10,
           "name": "黃詠詩",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GC",
@@ -6095,15 +6087,15 @@
           "id": 11,
           "name": "黃彦婷",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GC",
           "schoolClass": "3C",
           "id": 16,
           "name": "鍾嘉軒",
-          "done": 0,
-          "total": 1
+          "done": 3,
+          "total": 3
         },
         {
           "platformClass": "3GC",
@@ -6111,7 +6103,7 @@
           "id": 17,
           "name": "葛天賜",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GC",
@@ -6119,7 +6111,7 @@
           "id": 20,
           "name": "江煒杰",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GC",
@@ -6127,15 +6119,15 @@
           "id": 23,
           "name": "姚智森",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GC",
           "schoolClass": "3C",
           "id": 24,
           "name": "禹弘博",
-          "done": 0,
-          "total": 1
+          "done": 1,
+          "total": 3
         },
         {
           "platformClass": "3GC",
@@ -6143,7 +6135,7 @@
           "id": 25,
           "name": "曾琦博",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GC",
@@ -6151,15 +6143,15 @@
           "id": 26,
           "name": "曾子軒",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GC",
           "schoolClass": "3C",
           "id": 27,
           "name": "吳世傑",
-          "done": 0,
-          "total": 1
+          "done": 2,
+          "total": 3
         },
         {
           "platformClass": "3GC",
@@ -6167,7 +6159,7 @@
           "id": 5,
           "name": "黃錦雯",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GC",
@@ -6175,7 +6167,7 @@
           "id": 12,
           "name": "吳希妍",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GC",
@@ -6183,7 +6175,7 @@
           "id": 16,
           "name": "楊雨晨",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GC",
@@ -6191,7 +6183,7 @@
           "id": 19,
           "name": "何泳鍵",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GC",
@@ -6199,7 +6191,7 @@
           "id": 29,
           "name": "張家豪",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GD",
@@ -6207,7 +6199,7 @@
           "id": 3,
           "name": "黃錦淇",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GD",
@@ -6215,7 +6207,7 @@
           "id": 15,
           "name": "陸家軒",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GD",
@@ -6223,7 +6215,7 @@
           "id": 17,
           "name": "彭英杰",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GD",
@@ -6231,39 +6223,39 @@
           "id": 28,
           "name": "楊文軒",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GD",
           "schoolClass": "3D",
           "id": 1,
           "name": "陳唯臻",
-          "done": 0,
-          "total": 1
+          "done": 2,
+          "total": 3
         },
         {
           "platformClass": "3GD",
           "schoolClass": "3D",
           "id": 3,
           "name": "馮樂瑤",
-          "done": 0,
-          "total": 1
+          "done": 1,
+          "total": 3
         },
         {
           "platformClass": "3GD",
           "schoolClass": "3D",
           "id": 4,
           "name": "黃安雅",
-          "done": 0,
-          "total": 1
+          "done": 2,
+          "total": 3
         },
         {
           "platformClass": "3GD",
           "schoolClass": "3D",
           "id": 6,
           "name": "江欣",
-          "done": 1,
-          "total": 1
+          "done": 3,
+          "total": 3
         },
         {
           "platformClass": "3GD",
@@ -6271,15 +6263,15 @@
           "id": 7,
           "name": "李岭",
           "done": 1,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GD",
           "schoolClass": "3D",
           "id": 9,
           "name": "黎宇珊",
-          "done": 0,
-          "total": 1
+          "done": 3,
+          "total": 3
         },
         {
           "platformClass": "3GD",
@@ -6287,7 +6279,7 @@
           "id": 10,
           "name": "凌菲",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GD",
@@ -6295,31 +6287,31 @@
           "id": 11,
           "name": "劉孟涵",
           "done": 1,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GD",
           "schoolClass": "3D",
           "id": 13,
           "name": "施詩",
-          "done": 1,
-          "total": 1
+          "done": 3,
+          "total": 3
         },
         {
           "platformClass": "3GD",
           "schoolClass": "3D",
           "id": 14,
           "name": "王梓芊",
-          "done": 0,
-          "total": 1
+          "done": 3,
+          "total": 3
         },
         {
           "platformClass": "3GD",
           "schoolClass": "3D",
           "id": 15,
           "name": "蕭銦彤",
-          "done": 0,
-          "total": 1
+          "done": 1,
+          "total": 3
         },
         {
           "platformClass": "3GD",
@@ -6327,7 +6319,7 @@
           "id": 17,
           "name": "陳家棟",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GD",
@@ -6335,7 +6327,7 @@
           "id": 18,
           "name": "陳煜光",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GD",
@@ -6343,7 +6335,7 @@
           "id": 20,
           "name": "黃鴻軍",
           "done": 1,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GD",
@@ -6351,7 +6343,7 @@
           "id": 21,
           "name": "黃梓燁",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GD",
@@ -6359,31 +6351,31 @@
           "id": 22,
           "name": "林師裕",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GD",
           "schoolClass": "3D",
           "id": 23,
           "name": "林宗濤",
-          "done": 0,
-          "total": 1
+          "done": 2,
+          "total": 3
         },
         {
           "platformClass": "3GD",
           "schoolClass": "3D",
           "id": 24,
           "name": "王智超",
-          "done": 0,
-          "total": 1
+          "done": 3,
+          "total": 3
         },
         {
           "platformClass": "3GD",
           "schoolClass": "3D",
           "id": 25,
           "name": "吳秉燁",
-          "done": 0,
-          "total": 1
+          "done": 3,
+          "total": 3
         },
         {
           "platformClass": "3GD",
@@ -6391,15 +6383,15 @@
           "id": 26,
           "name": "晏子杰",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "3GD",
           "schoolClass": "3D",
           "id": 27,
           "name": "嚴駿濤",
-          "done": 1,
-          "total": 1
+          "done": 3,
+          "total": 3
         },
         {
           "platformClass": "3GD",
@@ -6407,7 +6399,7 @@
           "id": 28,
           "name": "余澤峯",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4A",
@@ -6415,7 +6407,7 @@
           "id": 1,
           "name": "蔡顏冰",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4A",
@@ -6423,7 +6415,7 @@
           "id": 2,
           "name": "陳梓茵",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4A",
@@ -6431,15 +6423,15 @@
           "id": 3,
           "name": "陳亦姿",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4A",
           "schoolClass": "4A",
           "id": 4,
           "name": "陳宛靖",
-          "done": 0,
-          "total": 1
+          "done": 2,
+          "total": 3
         },
         {
           "platformClass": "4A",
@@ -6447,7 +6439,7 @@
           "id": 5,
           "name": "陳芯麗",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4A",
@@ -6455,7 +6447,7 @@
           "id": 6,
           "name": "林君怡",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4A",
@@ -6463,7 +6455,7 @@
           "id": 7,
           "name": "羅婉晞",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4A",
@@ -6471,7 +6463,7 @@
           "id": 8,
           "name": "黎宇桐",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4A",
@@ -6479,7 +6471,7 @@
           "id": 9,
           "name": "馬心悠",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4A",
@@ -6487,7 +6479,7 @@
           "id": 10,
           "name": "吳芯如",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4A",
@@ -6495,7 +6487,7 @@
           "id": 11,
           "name": "余泳霖",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4A",
@@ -6503,7 +6495,7 @@
           "id": 12,
           "name": "蔡銘燁",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4A",
@@ -6511,7 +6503,7 @@
           "id": 13,
           "name": "陳秉正",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4A",
@@ -6519,7 +6511,7 @@
           "id": 14,
           "name": "周嘉軒",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4A",
@@ -6527,7 +6519,7 @@
           "id": 15,
           "name": "馮柏喬",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4A",
@@ -6535,7 +6527,7 @@
           "id": 16,
           "name": "何鈺城",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4A",
@@ -6543,7 +6535,7 @@
           "id": 17,
           "name": "賴晙熙",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4A",
@@ -6551,7 +6543,7 @@
           "id": 18,
           "name": "林藝文",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4A",
@@ -6559,7 +6551,7 @@
           "id": 19,
           "name": "林修賢",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4A",
@@ -6567,7 +6559,7 @@
           "id": 20,
           "name": "林治翰",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4A",
@@ -6575,7 +6567,7 @@
           "id": 21,
           "name": "劉凱波",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4A",
@@ -6583,7 +6575,7 @@
           "id": 22,
           "name": "吳杰燐",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4A",
@@ -6591,7 +6583,7 @@
           "id": 23,
           "name": "彭振軒",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4A",
@@ -6599,7 +6591,7 @@
           "id": 24,
           "name": "戴健朗",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4A",
@@ -6607,7 +6599,7 @@
           "id": 25,
           "name": "温曉明",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4A",
@@ -6615,7 +6607,7 @@
           "id": 26,
           "name": "王克燁",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4A",
@@ -6623,7 +6615,7 @@
           "id": 28,
           "name": "胡約伯",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4A",
@@ -6631,7 +6623,7 @@
           "id": 29,
           "name": "冼嘉軒",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4A",
@@ -6639,7 +6631,7 @@
           "id": 30,
           "name": "余俊程",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4A",
@@ -6647,7 +6639,7 @@
           "id": 31,
           "name": "左宇生",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4B",
@@ -6655,7 +6647,7 @@
           "id": 1,
           "name": "蔡銣佳",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4B",
@@ -6663,7 +6655,7 @@
           "id": 2,
           "name": "許芷盈",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4B",
@@ -6671,7 +6663,7 @@
           "id": 3,
           "name": "劉晞怡",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4B",
@@ -6679,7 +6671,7 @@
           "id": 4,
           "name": "劉予馨",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4B",
@@ -6687,7 +6679,7 @@
           "id": 5,
           "name": "李思潼",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4B",
@@ -6695,7 +6687,7 @@
           "id": 6,
           "name": "梁可佳",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4B",
@@ -6703,7 +6695,7 @@
           "id": 7,
           "name": "陸嘉晞",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4B",
@@ -6711,7 +6703,7 @@
           "id": 8,
           "name": "羅欣琪",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4B",
@@ -6719,7 +6711,7 @@
           "id": 9,
           "name": "蘇意",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4B",
@@ -6727,7 +6719,7 @@
           "id": 10,
           "name": "曾寶兒",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4B",
@@ -6735,7 +6727,7 @@
           "id": 11,
           "name": "王嘉琪",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4B",
@@ -6743,7 +6735,7 @@
           "id": 12,
           "name": "胡若妃",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4B",
@@ -6751,7 +6743,7 @@
           "id": 13,
           "name": "楊建恩",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4B",
@@ -6759,7 +6751,7 @@
           "id": 14,
           "name": "蔡沛錦",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4B",
@@ -6767,7 +6759,7 @@
           "id": 15,
           "name": "陳泓叡",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4B",
@@ -6775,7 +6767,7 @@
           "id": 16,
           "name": "張頌軒",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4B",
@@ -6783,7 +6775,7 @@
           "id": 17,
           "name": "何豐任",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4B",
@@ -6791,15 +6783,15 @@
           "id": 18,
           "name": "黃俊森",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4B",
           "schoolClass": "4B",
           "id": 19,
           "name": "江磊",
-          "done": 0,
-          "total": 1
+          "done": 1,
+          "total": 3
         },
         {
           "platformClass": "4B",
@@ -6807,7 +6799,7 @@
           "id": 20,
           "name": "郭潤澤",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4B",
@@ -6815,15 +6807,15 @@
           "id": 21,
           "name": "賴志鋒",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4B",
           "schoolClass": "4B",
           "id": 22,
           "name": "李柏賢",
-          "done": 0,
-          "total": 1
+          "done": 1,
+          "total": 3
         },
         {
           "platformClass": "4B",
@@ -6831,15 +6823,15 @@
           "id": 23,
           "name": "李承志",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4B",
           "schoolClass": "4B",
           "id": 24,
           "name": "李世博",
-          "done": 0,
-          "total": 1
+          "done": 1,
+          "total": 3
         },
         {
           "platformClass": "4B",
@@ -6847,7 +6839,7 @@
           "id": 25,
           "name": "柯夢明",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4B",
@@ -6855,7 +6847,7 @@
           "id": 26,
           "name": "鄧兆洋",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4B",
@@ -6863,7 +6855,7 @@
           "id": 27,
           "name": "蔡言致",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4B",
@@ -6871,7 +6863,7 @@
           "id": 28,
           "name": "王祖希",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4B",
@@ -6879,7 +6871,7 @@
           "id": 29,
           "name": "黃健聰",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4B",
@@ -6887,7 +6879,7 @@
           "id": 30,
           "name": "余生銘",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4B",
@@ -6895,7 +6887,7 @@
           "id": 31,
           "name": "余承璟",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4C",
@@ -6903,7 +6895,7 @@
           "id": 1,
           "name": "招梓晴",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4C",
@@ -6911,23 +6903,23 @@
           "id": 2,
           "name": "黃真心",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4C",
           "schoolClass": "4C",
           "id": 3,
           "name": "黎詩琳",
-          "done": 0,
-          "total": 1
+          "done": 3,
+          "total": 3
         },
         {
           "platformClass": "4C",
           "schoolClass": "4C",
           "id": 4,
           "name": "李舒涵",
-          "done": 0,
-          "total": 1
+          "done": 2,
+          "total": 3
         },
         {
           "platformClass": "4C",
@@ -6935,7 +6927,7 @@
           "id": 5,
           "name": "李穎妍",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4C",
@@ -6943,7 +6935,7 @@
           "id": 6,
           "name": "林雅妍",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4C",
@@ -6951,7 +6943,7 @@
           "id": 7,
           "name": "劉佳林",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4C",
@@ -6959,7 +6951,7 @@
           "id": 8,
           "name": "劉思敏",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4C",
@@ -6967,7 +6959,7 @@
           "id": 9,
           "name": "劉茵婷",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4C",
@@ -6975,7 +6967,7 @@
           "id": 10,
           "name": "盧正晴",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4C",
@@ -6983,7 +6975,7 @@
           "id": 11,
           "name": "王筱婷",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4C",
@@ -6991,7 +6983,7 @@
           "id": 12,
           "name": "徐絲瑜",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4C",
@@ -6999,7 +6991,7 @@
           "id": 13,
           "name": "姚依晴",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4C",
@@ -7007,7 +6999,7 @@
           "id": 14,
           "name": "叶定汝",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4C",
@@ -7015,7 +7007,7 @@
           "id": 15,
           "name": "葉芷甄",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4C",
@@ -7023,7 +7015,7 @@
           "id": 16,
           "name": "陳恩賜",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4C",
@@ -7031,7 +7023,7 @@
           "id": 17,
           "name": "陳泊羽",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4C",
@@ -7039,7 +7031,7 @@
           "id": 18,
           "name": "陳俊錡",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4C",
@@ -7047,15 +7039,15 @@
           "id": 19,
           "name": "范晨熙",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4C",
           "schoolClass": "4C",
           "id": 20,
           "name": "賴瑜鴻",
-          "done": 0,
-          "total": 1
+          "done": 2,
+          "total": 3
         },
         {
           "platformClass": "4C",
@@ -7063,7 +7055,7 @@
           "id": 21,
           "name": "林翹",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4C",
@@ -7071,7 +7063,7 @@
           "id": 22,
           "name": "李錫安",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4C",
@@ -7079,7 +7071,7 @@
           "id": 23,
           "name": "林宝鑫",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4C",
@@ -7087,7 +7079,7 @@
           "id": 24,
           "name": "林睿",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4C",
@@ -7095,15 +7087,15 @@
           "id": 25,
           "name": "林彦衡",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4C",
           "schoolClass": "4C",
           "id": 26,
           "name": "劉遠志",
-          "done": 0,
-          "total": 1
+          "done": 2,
+          "total": 3
         },
         {
           "platformClass": "4C",
@@ -7111,7 +7103,7 @@
           "id": 27,
           "name": "王富申",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4C",
@@ -7119,15 +7111,15 @@
           "id": 28,
           "name": "王清林",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4C",
           "schoolClass": "4C",
           "id": 29,
           "name": "許嘉亮",
-          "done": 1,
-          "total": 1
+          "done": 2,
+          "total": 3
         },
         {
           "platformClass": "4C",
@@ -7135,7 +7127,7 @@
           "id": 30,
           "name": "晏子豪",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4C",
@@ -7143,7 +7135,7 @@
           "id": 31,
           "name": "楊青衡",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4C",
@@ -7151,7 +7143,7 @@
           "id": 32,
           "name": "楊子謙",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4C",
@@ -7159,7 +7151,7 @@
           "id": 33,
           "name": "鍾亦朗",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4C",
@@ -7167,7 +7159,7 @@
           "id": 34,
           "name": "周鴻彬",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "4C",
@@ -7175,7 +7167,7 @@
           "id": 35,
           "name": "黃祺越",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5A",
@@ -7183,7 +7175,7 @@
           "id": 1,
           "name": "陳慧慧",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5A",
@@ -7191,7 +7183,7 @@
           "id": 2,
           "name": "曹穎欣",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5A",
@@ -7199,7 +7191,7 @@
           "id": 3,
           "name": "周潔怡",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5A",
@@ -7207,15 +7199,15 @@
           "id": 4,
           "name": "蔣嘉恩",
           "done": 1,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5A",
           "schoolClass": "5A",
           "id": 5,
           "name": "劉芯語",
-          "done": 0,
-          "total": 1
+          "done": 2,
+          "total": 3
         },
         {
           "platformClass": "5A",
@@ -7223,7 +7215,7 @@
           "id": 6,
           "name": "劉茵桐",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5A",
@@ -7231,7 +7223,7 @@
           "id": 7,
           "name": "蘇靖宜",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5A",
@@ -7239,7 +7231,7 @@
           "id": 8,
           "name": "鄧文希",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5A",
@@ -7247,7 +7239,7 @@
           "id": 9,
           "name": "曾穎思",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5A",
@@ -7255,7 +7247,7 @@
           "id": 10,
           "name": "王悅",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5A",
@@ -7263,7 +7255,7 @@
           "id": 11,
           "name": "陳景豪",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5A",
@@ -7271,7 +7263,7 @@
           "id": 12,
           "name": "符宝亮",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5A",
@@ -7279,7 +7271,7 @@
           "id": 13,
           "name": "林子朗",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5A",
@@ -7287,7 +7279,7 @@
           "id": 14,
           "name": "梁志誠",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5A",
@@ -7295,7 +7287,7 @@
           "id": 15,
           "name": "林凱聖",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5A",
@@ -7303,23 +7295,23 @@
           "id": 16,
           "name": "羅卓言",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5A",
           "schoolClass": "5A",
           "id": 17,
           "name": "彭源宇",
-          "done": 0,
-          "total": 1
+          "done": 2,
+          "total": 3
         },
         {
           "platformClass": "5A",
           "schoolClass": "5A",
           "id": 18,
           "name": "章杰瀚",
-          "done": 0,
-          "total": 1
+          "done": 2,
+          "total": 3
         },
         {
           "platformClass": "5A",
@@ -7327,7 +7319,7 @@
           "id": 19,
           "name": "鄭家俊",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5A",
@@ -7335,7 +7327,7 @@
           "id": 20,
           "name": "朱良明",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5A",
@@ -7343,7 +7335,7 @@
           "id": 21,
           "name": "楊梓茵",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5B",
@@ -7351,7 +7343,7 @@
           "id": 1,
           "name": "陳艷芳",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5B",
@@ -7359,7 +7351,7 @@
           "id": 2,
           "name": "陳霈樺",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5B",
@@ -7367,7 +7359,7 @@
           "id": 3,
           "name": "許芷琦",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5B",
@@ -7375,7 +7367,7 @@
           "id": 4,
           "name": "劉翠雯",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5B",
@@ -7383,7 +7375,7 @@
           "id": 5,
           "name": "林思琦",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5B",
@@ -7391,7 +7383,7 @@
           "id": 6,
           "name": "陸嘉雯",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5B",
@@ -7399,7 +7391,7 @@
           "id": 7,
           "name": "譚伊芸",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5B",
@@ -7407,7 +7399,7 @@
           "id": 8,
           "name": "夏桑茹",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5B",
@@ -7415,7 +7407,7 @@
           "id": 9,
           "name": "陳梓鏵",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5B",
@@ -7423,7 +7415,7 @@
           "id": 10,
           "name": "陳增炫",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5B",
@@ -7431,7 +7423,7 @@
           "id": 11,
           "name": "祝銳洲",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5B",
@@ -7439,7 +7431,7 @@
           "id": 12,
           "name": "郭俊揚",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5B",
@@ -7447,7 +7439,7 @@
           "id": 13,
           "name": "洪梓瑜",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5B",
@@ -7455,7 +7447,7 @@
           "id": 14,
           "name": "林藝哲",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5B",
@@ -7463,23 +7455,15 @@
           "id": 15,
           "name": "林子樂",
           "done": 0,
-          "total": 1
-        },
-        {
-          "platformClass": "5B",
-          "schoolClass": "5B",
-          "id": 16,
-          "name": "李鴻輝",
-          "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5B",
           "schoolClass": "5B",
           "id": 17,
           "name": "黎杰鍁",
-          "done": 0,
-          "total": 1
+          "done": 1,
+          "total": 3
         },
         {
           "platformClass": "5B",
@@ -7487,7 +7471,7 @@
           "id": 18,
           "name": "李沅潮",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5B",
@@ -7495,15 +7479,15 @@
           "id": 19,
           "name": "黎智忠",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5B",
           "schoolClass": "5B",
           "id": 20,
           "name": "劉礼城",
-          "done": 0,
-          "total": 1
+          "done": 3,
+          "total": 3
         },
         {
           "platformClass": "5B",
@@ -7511,7 +7495,7 @@
           "id": 21,
           "name": "羅富俊",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5B",
@@ -7519,7 +7503,7 @@
           "id": 22,
           "name": "施宗益",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5B",
@@ -7527,7 +7511,7 @@
           "id": 23,
           "name": "蔡泓銓",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5B",
@@ -7535,31 +7519,31 @@
           "id": 24,
           "name": "伍德豪",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5B",
           "schoolClass": "5B",
           "id": 25,
           "name": "張諾軒",
-          "done": 0,
-          "total": 1
+          "done": 1,
+          "total": 3
         },
         {
           "platformClass": "5B",
           "schoolClass": "5B",
           "id": 26,
           "name": "朱鎮鋒",
-          "done": 0,
-          "total": 1
+          "done": 1,
+          "total": 3
         },
         {
           "platformClass": "5C",
           "schoolClass": "5C",
           "id": 1,
           "name": "陳葎",
-          "done": 0,
-          "total": 1
+          "done": 2,
+          "total": 3
         },
         {
           "platformClass": "5C",
@@ -7567,15 +7551,15 @@
           "id": 2,
           "name": "陳淑綺",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5C",
           "schoolClass": "5C",
           "id": 3,
           "name": "李家慧",
-          "done": 0,
-          "total": 1
+          "done": 2,
+          "total": 3
         },
         {
           "platformClass": "5C",
@@ -7583,7 +7567,7 @@
           "id": 4,
           "name": "梁嘉敏",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5C",
@@ -7591,7 +7575,7 @@
           "id": 5,
           "name": "呂佩恩",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5C",
@@ -7599,7 +7583,7 @@
           "id": 6,
           "name": "呂雅榆",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5C",
@@ -7607,15 +7591,15 @@
           "id": 7,
           "name": "毛芷晴",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5C",
           "schoolClass": "5C",
           "id": 8,
           "name": "邱梓珊",
-          "done": 0,
-          "total": 1
+          "done": 1,
+          "total": 3
         },
         {
           "platformClass": "5C",
@@ -7623,7 +7607,7 @@
           "id": 9,
           "name": "石佳雨",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5C",
@@ -7631,7 +7615,7 @@
           "id": 10,
           "name": "蘇晓楠",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5C",
@@ -7639,7 +7623,7 @@
           "id": 11,
           "name": "黃裕捷",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5C",
@@ -7647,7 +7631,7 @@
           "id": 12,
           "name": "吳曉彤",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5C",
@@ -7655,7 +7639,7 @@
           "id": 13,
           "name": "蕭靜嵐",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5C",
@@ -7663,7 +7647,7 @@
           "id": 14,
           "name": "俞嘉慧",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5C",
@@ -7671,7 +7655,7 @@
           "id": 15,
           "name": "趙希希",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5C",
@@ -7679,7 +7663,7 @@
           "id": 16,
           "name": "朱曦敏",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5C",
@@ -7687,15 +7671,15 @@
           "id": 17,
           "name": "陳少鋒",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5C",
           "schoolClass": "5C",
           "id": 18,
           "name": "陳子安",
-          "done": 0,
-          "total": 1
+          "done": 2,
+          "total": 3
         },
         {
           "platformClass": "5C",
@@ -7703,7 +7687,7 @@
           "id": 19,
           "name": "方偉同",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5C",
@@ -7711,7 +7695,7 @@
           "id": 20,
           "name": "郭奧林",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5C",
@@ -7719,7 +7703,7 @@
           "id": 21,
           "name": "郭兆傑",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5C",
@@ -7727,7 +7711,7 @@
           "id": 22,
           "name": "梁博然",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5C",
@@ -7735,7 +7719,7 @@
           "id": 23,
           "name": "梁梓聰",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5C",
@@ -7743,7 +7727,7 @@
           "id": 24,
           "name": "羅俊樺",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5C",
@@ -7751,7 +7735,7 @@
           "id": 25,
           "name": "吳啟德",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5C",
@@ -7759,7 +7743,7 @@
           "id": 26,
           "name": "吳子聰",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5C",
@@ -7767,7 +7751,7 @@
           "id": 27,
           "name": "許鎰俊",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "5C",
@@ -7775,7 +7759,7 @@
           "id": 28,
           "name": "張開越",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6A",
@@ -7783,7 +7767,7 @@
           "id": 1,
           "name": "鄭詠心",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6A",
@@ -7791,7 +7775,7 @@
           "id": 2,
           "name": "李潤然",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6A",
@@ -7799,7 +7783,7 @@
           "id": 3,
           "name": "呂衍葵",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6A",
@@ -7807,7 +7791,7 @@
           "id": 4,
           "name": "吳欣琦",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6A",
@@ -7815,7 +7799,7 @@
           "id": 5,
           "name": "蘇爾情",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6A",
@@ -7823,7 +7807,7 @@
           "id": 6,
           "name": "陳政衡",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6A",
@@ -7831,7 +7815,7 @@
           "id": 7,
           "name": "程家炫",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6A",
@@ -7839,7 +7823,7 @@
           "id": 8,
           "name": "黃俊羲",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6A",
@@ -7847,7 +7831,7 @@
           "id": 9,
           "name": "姜禮謙",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6A",
@@ -7855,7 +7839,7 @@
           "id": 10,
           "name": "林浚偉",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6A",
@@ -7863,7 +7847,7 @@
           "id": 11,
           "name": "劉澤鏗",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6A",
@@ -7871,15 +7855,15 @@
           "id": 12,
           "name": "李柏賢",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6A",
           "schoolClass": "6A",
           "id": 13,
           "name": "梁樂軒",
-          "done": 0,
-          "total": 1
+          "done": 2,
+          "total": 3
         },
         {
           "platformClass": "6A",
@@ -7887,7 +7871,7 @@
           "id": 14,
           "name": "王智星",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6A",
@@ -7895,7 +7879,7 @@
           "id": 15,
           "name": "吳煒軒",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6A",
@@ -7903,7 +7887,7 @@
           "id": 16,
           "name": "余家杰",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6B",
@@ -7911,7 +7895,7 @@
           "id": 1,
           "name": "安貴慧",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6B",
@@ -7919,7 +7903,7 @@
           "id": 2,
           "name": "鍾善晴",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6B",
@@ -7927,7 +7911,7 @@
           "id": 3,
           "name": "梁倩瑜",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6B",
@@ -7935,7 +7919,7 @@
           "id": 4,
           "name": "廖嘉兒",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6B",
@@ -7943,7 +7927,7 @@
           "id": 5,
           "name": "羅慧賢",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6B",
@@ -7951,7 +7935,7 @@
           "id": 6,
           "name": "莫紫晴",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6B",
@@ -7959,7 +7943,7 @@
           "id": 7,
           "name": "穆琪鈞",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6B",
@@ -7967,7 +7951,7 @@
           "id": 8,
           "name": "吳綽瑤",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6B",
@@ -7975,7 +7959,7 @@
           "id": 9,
           "name": "鄧泳晞",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6B",
@@ -7983,7 +7967,7 @@
           "id": 10,
           "name": "曾靖文",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6B",
@@ -7991,7 +7975,7 @@
           "id": 11,
           "name": "王筱君",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6B",
@@ -7999,7 +7983,7 @@
           "id": 12,
           "name": "楊嘉兒",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6B",
@@ -8007,7 +7991,7 @@
           "id": 13,
           "name": "郭首銘",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6B",
@@ -8015,7 +7999,7 @@
           "id": 14,
           "name": "高深",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6B",
@@ -8023,7 +8007,7 @@
           "id": 15,
           "name": "梁子翹",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6B",
@@ -8031,7 +8015,7 @@
           "id": 16,
           "name": "李永",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6B",
@@ -8039,7 +8023,7 @@
           "id": 17,
           "name": "林梓杰",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6B",
@@ -8047,7 +8031,7 @@
           "id": 18,
           "name": "龍俊宏",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6B",
@@ -8055,7 +8039,7 @@
           "id": 19,
           "name": "彭梓輝",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6B",
@@ -8063,7 +8047,7 @@
           "id": 20,
           "name": "黃澤林",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6B",
@@ -8071,7 +8055,7 @@
           "id": 21,
           "name": "曾梓健",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6C",
@@ -8079,7 +8063,7 @@
           "id": 1,
           "name": "陳梓淇",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6C",
@@ -8087,7 +8071,7 @@
           "id": 2,
           "name": "朱雅姸",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6C",
@@ -8095,7 +8079,7 @@
           "id": 3,
           "name": "何雨桐",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6C",
@@ -8103,7 +8087,7 @@
           "id": 4,
           "name": "黃琦舒",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6C",
@@ -8111,7 +8095,7 @@
           "id": 5,
           "name": "李子悠",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6C",
@@ -8119,7 +8103,7 @@
           "id": 6,
           "name": "梁美琪",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6C",
@@ -8127,7 +8111,7 @@
           "id": 7,
           "name": "劉恩馨",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6C",
@@ -8135,7 +8119,7 @@
           "id": 8,
           "name": "吳雲欣",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6C",
@@ -8143,7 +8127,7 @@
           "id": 9,
           "name": "歐陽蓁鴻",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6C",
@@ -8151,7 +8135,7 @@
           "id": 10,
           "name": "黃琬迪",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6C",
@@ -8159,7 +8143,7 @@
           "id": 11,
           "name": "伍嘉怡",
           "done": 1,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6C",
@@ -8167,7 +8151,7 @@
           "id": 12,
           "name": "顏驪霖",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6C",
@@ -8175,7 +8159,7 @@
           "id": 13,
           "name": "游穎",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6C",
@@ -8183,7 +8167,7 @@
           "id": 14,
           "name": "張琦茵",
           "done": 1,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6C",
@@ -8191,7 +8175,7 @@
           "id": 15,
           "name": "陳杰彬",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6C",
@@ -8199,7 +8183,7 @@
           "id": 16,
           "name": "張健泓",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6C",
@@ -8207,7 +8191,7 @@
           "id": 17,
           "name": "周靖霖",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6C",
@@ -8215,7 +8199,7 @@
           "id": 18,
           "name": "范嘉龍",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6C",
@@ -8223,7 +8207,7 @@
           "id": 19,
           "name": "何剛毅",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6C",
@@ -8231,7 +8215,7 @@
           "id": 20,
           "name": "何逸晴",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6C",
@@ -8239,7 +8223,7 @@
           "id": 21,
           "name": "黃梓軒",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6C",
@@ -8247,7 +8231,7 @@
           "id": 22,
           "name": "林柏熹",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6C",
@@ -8255,7 +8239,7 @@
           "id": 23,
           "name": "李文傑",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6C",
@@ -8263,7 +8247,7 @@
           "id": 24,
           "name": "梁浩霖",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6C",
@@ -8271,7 +8255,7 @@
           "id": 25,
           "name": "王樺琰",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6C",
@@ -8279,7 +8263,7 @@
           "id": 26,
           "name": "徐煥亮",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6C",
@@ -8287,7 +8271,7 @@
           "id": 27,
           "name": "禤何怡宁",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6C",
@@ -8295,7 +8279,7 @@
           "id": 28,
           "name": "薛宗凱",
           "done": 0,
-          "total": 1
+          "total": 3
         },
         {
           "platformClass": "6C",
@@ -8303,7 +8287,7 @@
           "id": 29,
           "name": "張景超",
           "done": 0,
-          "total": 1
+          "total": 3
         }
       ]
     }
