@@ -68,9 +68,14 @@ def owing(students: List[Dict[str, Any]], platform_class: str) -> List[Dict[str,
     return out
 
 
-def line_for(label: str, item: str, students: List[Dict[str, Any]], use_given: bool) -> str:
+def line_for(label: str, item: str, students: List[Dict[str, Any]], use_given: bool, platform_class: str = "") -> str:
     if not students:
         return f"·{item} — （無）"
+    # 4C：名單只剩學號 31（或空）→ 寫「空」（用戶裁定）
+    if platform_class == "4C" and not use_given:
+        ids = [int(s.get("id") or 0) for s in students]
+        if ids == [31]:
+            return f"·{item} — 空"
     if use_given:
         body = "、".join(given_name(str(s.get("name") or "")) for s in students)
     else:
@@ -93,7 +98,7 @@ def build(data: Dict[str, Any]) -> str:
             use_given = pc == "1GB"
             xs = owing(students, pc)
             blocks.append(f"{label}")
-            blocks.append(line_for(label, item, xs, use_given))
+            blocks.append(line_for(label, item, xs, use_given, pc))
     return "\n".join(blocks) + "\n"
 
 
