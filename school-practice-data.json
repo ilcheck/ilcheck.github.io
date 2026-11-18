@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-18 19:51 HKT",
+  "generated": "2026-11-18 20:29 HKT",
   "weeks": {
     "prev": {
       "from": "2026-11-09",
       "to": "2026-11-13",
-      "total": 320,
-      "complete": 198,
+      "total": 319,
+      "complete": 199,
       "practiceTotal": 5,
       "students": [
         {
@@ -2705,7 +2705,7 @@
           "id": 18,
           "seat": 18,
           "name": "林藝文",
-          "done": 4,
+          "done": 5,
           "total": 5
         },
         {
@@ -4675,8 +4675,8 @@
     "current": {
       "from": "2026-11-16",
       "to": "2026-11-20",
-      "total": 485,
-      "complete": 33,
+      "total": 482,
+      "complete": 36,
       "practiceTotal": 3,
       "students": [
         {
@@ -5144,7 +5144,7 @@
           "id": 5,
           "seat": 5,
           "name": "余慧琪",
-          "done": 2,
+          "done": 3,
           "total": 3
         },
         {
@@ -7241,7 +7241,7 @@
           "id": 3,
           "seat": 3,
           "name": "陳亦姿",
-          "done": 2,
+          "done": 3,
           "total": 3
         },
         {
@@ -7376,7 +7376,7 @@
           "id": 18,
           "seat": 18,
           "name": "林藝文",
-          "done": 0,
+          "done": 3,
           "total": 3
         },
         {
