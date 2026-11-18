@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-18 20:44 HKT",
+  "generated": "2026-11-18 21:42 HKT",
   "weeks": {
     "prev": {
       "from": "2026-11-09",
@@ -4675,8 +4675,8 @@
     "current": {
       "from": "2026-11-16",
       "to": "2026-11-20",
-      "total": 479,
-      "complete": 39,
+      "total": 478,
+      "complete": 40,
       "practiceTotal": 3,
       "students": [
         {
@@ -5054,7 +5054,7 @@
           "id": 27,
           "seat": 27,
           "name": "王柏軒",
-          "done": 1,
+          "done": 2,
           "total": 3
         },
         {
@@ -8150,7 +8150,7 @@
           "id": 8,
           "seat": 8,
           "name": "鄧文希",
-          "done": 2,
+          "done": 3,
           "total": 3
         },
         {
