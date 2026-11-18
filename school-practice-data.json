@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-18 18:09 HKT",
+  "generated": "2026-11-18 19:51 HKT",
   "weeks": {
     "prev": {
       "from": "2026-11-09",
@@ -4675,8 +4675,8 @@
     "current": {
       "from": "2026-11-16",
       "to": "2026-11-20",
-      "total": 490,
-      "complete": 28,
+      "total": 485,
+      "complete": 33,
       "practiceTotal": 3,
       "students": [
         {
@@ -4793,7 +4793,7 @@
           "id": 18,
           "seat": 18,
           "name": "孫正昊",
-          "done": 2,
+          "done": 3,
           "total": 3
         },
         {
@@ -4820,7 +4820,7 @@
           "id": 10,
           "seat": 10,
           "name": "陳銘康",
-          "done": 2,
+          "done": 3,
           "total": 3
         },
         {
@@ -4901,7 +4901,7 @@
           "id": 2,
           "seat": 2,
           "name": "李子琳",
-          "done": 2,
+          "done": 3,
           "total": 3
         },
         {
@@ -4946,7 +4946,7 @@
           "id": 8,
           "seat": 8,
           "name": "翟俊然",
-          "done": 2,
+          "done": 3,
           "total": 3
         },
         {
@@ -5261,7 +5261,7 @@
           "id": 17,
           "seat": 17,
           "name": "何永康",
-          "done": 2,
+          "done": 3,
           "total": 3
         },
         {
