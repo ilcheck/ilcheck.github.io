@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-18 15:06 HKT",
+  "generated": "2026-11-18 18:09 HKT",
   "weeks": {
     "prev": {
       "from": "2026-11-09",
@@ -4675,8 +4675,8 @@
     "current": {
       "from": "2026-11-16",
       "to": "2026-11-20",
-      "total": 496,
-      "complete": 22,
+      "total": 490,
+      "complete": 28,
       "practiceTotal": 3,
       "students": [
         {
@@ -5981,7 +5981,7 @@
           "id": 5,
           "seat": 5,
           "name": "梁伊涵",
-          "done": 2,
+          "done": 3,
           "total": 3
         },
         {
@@ -6062,7 +6062,7 @@
           "id": 19,
           "seat": 19,
           "name": "劉駿熹",
-          "done": 1,
+          "done": 2,
           "total": 3
         },
         {
@@ -7781,7 +7781,7 @@
           "id": 2,
           "seat": 2,
           "name": "黃真心",
-          "done": 0,
+          "done": 3,
           "total": 3
         },
         {
@@ -7997,7 +7997,7 @@
           "id": 26,
           "seat": 26,
           "name": "劉遠志",
-          "done": 2,
+          "done": 3,
           "total": 3
         },
         {
@@ -8501,7 +8501,7 @@
           "id": 1,
           "seat": 1,
           "name": "陳葎",
-          "done": 2,
+          "done": 3,
           "total": 3
         },
         {
@@ -8519,7 +8519,7 @@
           "id": 3,
           "seat": 3,
           "name": "李家慧",
-          "done": 0,
+          "done": 3,
           "total": 3
         },
         {
@@ -8609,7 +8609,7 @@
           "id": 13,
           "seat": 13,
           "name": "蕭靜嵐",
-          "done": 0,
+          "done": 3,
           "total": 3
         },
         {
