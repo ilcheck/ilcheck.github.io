@@ -755,15 +755,6 @@
     "seat": 27,
     "total": 4
   },
-  "953973": {
-    "platformStudentId": 953973,
-    "name": "羅婉晞",
-    "platformClass": "4A",
-    "schoolClass": "4A",
-    "id": 7,
-    "seat": 7,
-    "total": 4
-  },
   "953974": {
     "platformStudentId": 953974,
     "name": "曾穎思",
@@ -4677,6 +4668,15 @@
     "schoolClass": "2D",
     "id": 28,
     "seat": 28,
+    "total": 4
+  },
+  "1075232": {
+    "platformStudentId": 1075232,
+    "name": "鄭芯茹",
+    "platformClass": "3GC",
+    "schoolClass": "3D",
+    "id": 30,
+    "seat": 30,
     "total": 4
   }
 }
