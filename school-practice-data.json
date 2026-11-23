@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-23 09:12 HKT",
+  "generated": "2026-11-23 09:35 HKT",
   "weeks": {
     "prev": {
       "from": "2026-11-16",
       "to": "2026-11-20",
-      "total": 395,
-      "complete": 123,
+      "total": 394,
+      "complete": 124,
       "practiceTotal": 5,
       "students": [
         {
@@ -1490,7 +1490,7 @@
           "id": 1,
           "seat": 1,
           "name": "陳梓澄",
-          "done": 3,
+          "done": 5,
           "total": 5
         },
         {
