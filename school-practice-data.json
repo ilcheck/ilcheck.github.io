@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-23 10:06 HKT",
+  "generated": "2026-11-23 13:36 HKT",
   "weeks": {
     "prev": {
       "from": "2026-11-16",
       "to": "2026-11-20",
-      "total": 392,
-      "complete": 126,
+      "total": 391,
+      "complete": 127,
       "practiceTotal": 5,
       "students": [
         {
@@ -203,7 +203,7 @@
           "id": 3,
           "seat": 3,
           "name": "羅倩兒",
-          "done": 1,
+          "done": 2,
           "total": 5
         },
         {
@@ -221,7 +221,7 @@
           "id": 1,
           "seat": 1,
           "name": "陳宥言",
-          "done": 2,
+          "done": 3,
           "total": 5
         },
         {
@@ -365,7 +365,7 @@
           "id": 13,
           "seat": 13,
           "name": "關宇軒",
-          "done": 0,
+          "done": 3,
           "total": 5
         },
         {
@@ -1031,7 +1031,7 @@
           "id": 12,
           "seat": 12,
           "name": "陳立智",
-          "done": 1,
+          "done": 4,
           "total": 5
         },
         {
@@ -1319,7 +1319,7 @@
           "id": 7,
           "seat": 7,
           "name": "鄧俙敏",
-          "done": 1,
+          "done": 4,
           "total": 5
         },
         {
@@ -1346,7 +1346,7 @@
           "id": 11,
           "seat": 11,
           "name": "陳凱文",
-          "done": 0,
+          "done": 4,
           "total": 5
         },
         {
@@ -1355,7 +1355,7 @@
           "id": 14,
           "seat": 14,
           "name": "陳柏楊",
-          "done": 1,
+          "done": 4,
           "total": 5
         },
         {
@@ -1481,7 +1481,7 @@
           "id": 9,
           "seat": 9,
           "name": "楊海棠",
-          "done": 1,
+          "done": 5,
           "total": 5
         },
         {
@@ -2210,7 +2210,7 @@
           "id": 17,
           "seat": 17,
           "name": "葛天賜",
-          "done": 0,
+          "done": 2,
           "total": 5
         },
         {
@@ -3164,7 +3164,7 @@
           "id": 8,
           "seat": 8,
           "name": "劉思敏",
-          "done": 0,
+          "done": 3,
           "total": 5
         },
         {
@@ -3173,7 +3173,7 @@
           "id": 9,
           "seat": 9,
           "name": "劉茵婷",
-          "done": 0,
+          "done": 3,
           "total": 5
         },
         {
@@ -3191,7 +3191,7 @@
           "id": 11,
           "seat": 11,
           "name": "王筱婷",
-          "done": 0,
+          "done": 3,
           "total": 5
         },
         {
@@ -4675,8 +4675,8 @@
     "current": {
       "from": "2026-11-23",
       "to": "2026-11-27",
-      "total": 494,
-      "complete": 24,
+      "total": 484,
+      "complete": 34,
       "practiceTotal": 1,
       "students": [
         {
@@ -4874,7 +4874,7 @@
           "id": 3,
           "seat": 3,
           "name": "羅倩兒",
-          "done": 0,
+          "done": 1,
           "total": 1
         },
         {
@@ -5036,7 +5036,7 @@
           "id": 13,
           "seat": 13,
           "name": "關宇軒",
-          "done": 0,
+          "done": 1,
           "total": 1
         },
         {
@@ -5081,7 +5081,7 @@
           "id": 9,
           "seat": 9,
           "name": "鄭頌熹",
-          "done": 0,
+          "done": 1,
           "total": 1
         },
         {
@@ -5171,7 +5171,7 @@
           "id": 11,
           "seat": 11,
           "name": "侯振傑",
-          "done": 0,
+          "done": 1,
           "total": 1
         },
         {
@@ -5279,7 +5279,7 @@
           "id": 24,
           "seat": 24,
           "name": "王梓浚",
-          "done": 0,
+          "done": 1,
           "total": 1
         },
         {
@@ -5981,7 +5981,7 @@
           "id": 5,
           "seat": 5,
           "name": "梁伊涵",
-          "done": 0,
+          "done": 1,
           "total": 1
         },
         {
@@ -5990,7 +5990,7 @@
           "id": 7,
           "seat": 7,
           "name": "鄧俙敏",
-          "done": 0,
+          "done": 1,
           "total": 1
         },
         {
@@ -6017,7 +6017,7 @@
           "id": 11,
           "seat": 11,
           "name": "陳凱文",
-          "done": 0,
+          "done": 1,
           "total": 1
         },
         {
@@ -6026,7 +6026,7 @@
           "id": 14,
           "seat": 14,
           "name": "陳柏楊",
-          "done": 0,
+          "done": 1,
           "total": 1
         },
         {
@@ -6224,7 +6224,7 @@
           "id": 10,
           "seat": 10,
           "name": "蘇文茹",
-          "done": 0,
+          "done": 1,
           "total": 1
         },
         {
