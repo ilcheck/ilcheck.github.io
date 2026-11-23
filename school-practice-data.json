@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-23 08:07 HKT",
+  "generated": "2026-11-23 09:12 HKT",
   "weeks": {
     "prev": {
       "from": "2026-11-16",
       "to": "2026-11-20",
-      "total": 400,
-      "complete": 118,
+      "total": 395,
+      "complete": 123,
       "practiceTotal": 5,
       "students": [
         {
@@ -1490,7 +1490,7 @@
           "id": 1,
           "seat": 1,
           "name": "陳梓澄",
-          "done": 0,
+          "done": 3,
           "total": 5
         },
         {
@@ -1517,7 +1517,7 @@
           "id": 4,
           "seat": 4,
           "name": "許傳馨",
-          "done": 2,
+          "done": 5,
           "total": 5
         },
         {
@@ -1562,7 +1562,7 @@
           "id": 11,
           "seat": 11,
           "name": "王富睿",
-          "done": 2,
+          "done": 5,
           "total": 5
         },
         {
@@ -1580,7 +1580,7 @@
           "id": 13,
           "seat": 13,
           "name": "夏熒熒",
-          "done": 2,
+          "done": 5,
           "total": 5
         },
         {
@@ -1625,7 +1625,7 @@
           "id": 20,
           "seat": 20,
           "name": "梁峻熙",
-          "done": 1,
+          "done": 5,
           "total": 5
         },
         {
@@ -1643,7 +1643,7 @@
           "id": 22,
           "seat": 22,
           "name": "施澤鍇",
-          "done": 4,
+          "done": 5,
           "total": 5
         },
         {
@@ -4675,8 +4675,8 @@
     "current": {
       "from": "2026-11-23",
       "to": "2026-11-27",
-      "total": 501,
-      "complete": 17,
+      "total": 496,
+      "complete": 22,
       "practiceTotal": 1,
       "students": [
         {
@@ -6179,7 +6179,7 @@
           "id": 3,
           "seat": 3,
           "name": "陳映彤",
-          "done": 0,
+          "done": 1,
           "total": 1
         },
         {
@@ -6188,7 +6188,7 @@
           "id": 4,
           "seat": 4,
           "name": "許傳馨",
-          "done": 0,
+          "done": 1,
           "total": 1
         },
         {
@@ -6233,7 +6233,7 @@
           "id": 11,
           "seat": 11,
           "name": "王富睿",
-          "done": 0,
+          "done": 1,
           "total": 1
         },
         {
@@ -6251,7 +6251,7 @@
           "id": 13,
           "seat": 13,
           "name": "夏熒熒",
-          "done": 0,
+          "done": 1,
           "total": 1
         },
         {
@@ -6314,7 +6314,7 @@
           "id": 22,
           "seat": 22,
           "name": "施澤鍇",
-          "done": 0,
+          "done": 1,
           "total": 1
         },
         {
