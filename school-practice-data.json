@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-24 11:33 HKT",
+  "generated": "2026-11-24 13:37 HKT",
   "weeks": {
     "prev": {
       "from": "2026-11-16",
       "to": "2026-11-20",
-      "total": 363,
-      "complete": 155,
+      "total": 362,
+      "complete": 156,
       "practiceTotal": 5,
       "students": [
         {
@@ -3992,7 +3992,7 @@
           "id": 19,
           "seat": 19,
           "name": "方偉同",
-          "done": 0,
+          "done": 5,
           "total": 5
         },
         {
@@ -4675,8 +4675,8 @@
     "current": {
       "from": "2026-11-23",
       "to": "2026-11-27",
-      "total": 505,
-      "complete": 13,
+      "total": 504,
+      "complete": 14,
       "practiceTotal": 2,
       "students": [
         {
@@ -6908,7 +6908,7 @@
           "id": 24,
           "seat": 24,
           "name": "禹弘博",
-          "done": 1,
+          "done": 2,
           "total": 2
         },
         {
