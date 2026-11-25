@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-25 08:07 HKT",
+  "generated": "2026-11-25 13:37 HKT",
   "weeks": {
     "prev": {
       "from": "2026-11-16",
       "to": "2026-11-20",
-      "total": 349,
-      "complete": 169,
+      "total": 343,
+      "complete": 175,
       "practiceTotal": 5,
       "students": [
         {
@@ -923,7 +923,7 @@
           "id": 11,
           "seat": 11,
           "name": "梁峻榮",
-          "done": 0,
+          "done": 3,
           "total": 5
         },
         {
@@ -932,7 +932,7 @@
           "id": 14,
           "seat": 14,
           "name": "盧逸謙",
-          "done": 0,
+          "done": 5,
           "total": 5
         },
         {
@@ -968,7 +968,7 @@
           "id": 22,
           "seat": 22,
           "name": "余俊達",
-          "done": 0,
+          "done": 2,
           "total": 5
         },
         {
@@ -1040,7 +1040,7 @@
           "id": 22,
           "seat": 22,
           "name": "李天睿",
-          "done": 0,
+          "done": 5,
           "total": 5
         },
         {
@@ -1238,7 +1238,7 @@
           "id": 3,
           "seat": 3,
           "name": "楊智茵",
-          "done": 3,
+          "done": 4,
           "total": 5
         },
         {
@@ -1301,7 +1301,7 @@
           "id": 3,
           "seat": 3,
           "name": "利璐雅",
-          "done": 2,
+          "done": 3,
           "total": 5
         },
         {
@@ -1319,7 +1319,7 @@
           "id": 7,
           "seat": 7,
           "name": "鄧俙敏",
-          "done": 4,
+          "done": 5,
           "total": 5
         },
         {
@@ -1328,7 +1328,7 @@
           "id": 8,
           "seat": 8,
           "name": "嚴格",
-          "done": 0,
+          "done": 4,
           "total": 5
         },
         {
@@ -1373,7 +1373,7 @@
           "id": 16,
           "seat": 16,
           "name": "趙誠陽",
-          "done": 1,
+          "done": 3,
           "total": 5
         },
         {
@@ -1382,7 +1382,7 @@
           "id": 18,
           "seat": 18,
           "name": "許進禧",
-          "done": 0,
+          "done": 4,
           "total": 5
         },
         {
@@ -1400,7 +1400,7 @@
           "id": 21,
           "seat": 21,
           "name": "梁澤天",
-          "done": 0,
+          "done": 3,
           "total": 5
         },
         {
@@ -1427,7 +1427,7 @@
           "id": 7,
           "seat": 7,
           "name": "凌宇芯",
-          "done": 0,
+          "done": 3,
           "total": 5
         },
         {
@@ -1715,7 +1715,7 @@
           "id": 6,
           "seat": 6,
           "name": "羅碧賢",
-          "done": 3,
+          "done": 5,
           "total": 5
         },
         {
@@ -2313,15 +2313,6 @@
           "total": 5
         },
         {
-          "platformClass": "3GC",
-          "schoolClass": "3D",
-          "id": 30,
-          "seat": 30,
-          "name": "鄭芯茹",
-          "done": 0,
-          "total": 5
-        },
-        {
           "platformClass": "3GD",
           "schoolClass": "3A",
           "id": 3,
@@ -2399,7 +2390,7 @@
           "id": 7,
           "seat": 7,
           "name": "李岭",
-          "done": 3,
+          "done": 5,
           "total": 5
         },
         {
@@ -2525,7 +2516,7 @@
           "id": 25,
           "seat": 25,
           "name": "吳秉燁",
-          "done": 0,
+          "done": 5,
           "total": 5
         },
         {
@@ -2553,6 +2544,15 @@
           "seat": 28,
           "name": "余澤峯",
           "done": 5,
+          "total": 5
+        },
+        {
+          "platformClass": "3GD",
+          "schoolClass": "3D",
+          "id": 30,
+          "seat": 30,
+          "name": "鄭芯茹",
+          "done": 0,
           "total": 5
         },
         {
@@ -4675,8 +4675,8 @@
     "current": {
       "from": "2026-11-23",
       "to": "2026-11-27",
-      "total": 510,
-      "complete": 8,
+      "total": 491,
+      "complete": 27,
       "practiceTotal": 3,
       "students": [
         {
@@ -4919,7 +4919,7 @@
           "id": 4,
           "seat": 4,
           "name": "蘇泇澄",
-          "done": 0,
+          "done": 3,
           "total": 3
         },
         {
@@ -5279,7 +5279,7 @@
           "id": 24,
           "seat": 24,
           "name": "王梓浚",
-          "done": 2,
+          "done": 3,
           "total": 3
         },
         {
@@ -5540,7 +5540,7 @@
           "id": 2,
           "seat": 2,
           "name": "黃思蕎",
-          "done": 0,
+          "done": 1,
           "total": 3
         },
         {
@@ -5594,7 +5594,7 @@
           "id": 11,
           "seat": 11,
           "name": "梁峻榮",
-          "done": 0,
+          "done": 3,
           "total": 3
         },
         {
@@ -5603,7 +5603,7 @@
           "id": 14,
           "seat": 14,
           "name": "盧逸謙",
-          "done": 0,
+          "done": 3,
           "total": 3
         },
         {
@@ -5702,7 +5702,7 @@
           "id": 12,
           "seat": 12,
           "name": "陳立智",
-          "done": 0,
+          "done": 3,
           "total": 3
         },
         {
@@ -5927,7 +5927,7 @@
           "id": 12,
           "seat": 12,
           "name": "李俊賢",
-          "done": 2,
+          "done": 3,
           "total": 3
         },
         {
@@ -5936,7 +5936,7 @@
           "id": 13,
           "seat": 13,
           "name": "林梓阳",
-          "done": 2,
+          "done": 3,
           "total": 3
         },
         {
@@ -5972,7 +5972,7 @@
           "id": 3,
           "seat": 3,
           "name": "利璐雅",
-          "done": 0,
+          "done": 3,
           "total": 3
         },
         {
@@ -5981,7 +5981,7 @@
           "id": 5,
           "seat": 5,
           "name": "梁伊涵",
-          "done": 2,
+          "done": 3,
           "total": 3
         },
         {
@@ -5990,7 +5990,7 @@
           "id": 7,
           "seat": 7,
           "name": "鄧俙敏",
-          "done": 2,
+          "done": 3,
           "total": 3
         },
         {
@@ -5999,7 +5999,7 @@
           "id": 8,
           "seat": 8,
           "name": "嚴格",
-          "done": 0,
+          "done": 2,
           "total": 3
         },
         {
@@ -6044,7 +6044,7 @@
           "id": 16,
           "seat": 16,
           "name": "趙誠陽",
-          "done": 2,
+          "done": 3,
           "total": 3
         },
         {
@@ -6053,7 +6053,7 @@
           "id": 18,
           "seat": 18,
           "name": "許進禧",
-          "done": 0,
+          "done": 3,
           "total": 3
         },
         {
@@ -6062,7 +6062,7 @@
           "id": 19,
           "seat": 19,
           "name": "劉駿熹",
-          "done": 2,
+          "done": 3,
           "total": 3
         },
         {
@@ -6071,7 +6071,7 @@
           "id": 21,
           "seat": 21,
           "name": "梁澤天",
-          "done": 0,
+          "done": 2,
           "total": 3
         },
         {
@@ -6098,7 +6098,7 @@
           "id": 7,
           "seat": 7,
           "name": "凌宇芯",
-          "done": 0,
+          "done": 3,
           "total": 3
         },
         {
@@ -6116,7 +6116,7 @@
           "id": 14,
           "seat": 14,
           "name": "哈迪",
-          "done": 2,
+          "done": 3,
           "total": 3
         },
         {
@@ -6386,7 +6386,7 @@
           "id": 6,
           "seat": 6,
           "name": "羅碧賢",
-          "done": 0,
+          "done": 1,
           "total": 3
         },
         {
@@ -6395,7 +6395,7 @@
           "id": 7,
           "seat": 7,
           "name": "蘇鈺清",
-          "done": 0,
+          "done": 2,
           "total": 3
         },
         {
@@ -6467,7 +6467,7 @@
           "id": 18,
           "seat": 18,
           "name": "陳梓臣",
-          "done": 0,
+          "done": 2,
           "total": 3
         },
         {
@@ -6773,7 +6773,7 @@
           "id": 13,
           "seat": 13,
           "name": "劉嘉陞",
-          "done": 0,
+          "done": 3,
           "total": 3
         },
         {
@@ -6984,15 +6984,6 @@
           "total": 3
         },
         {
-          "platformClass": "3GC",
-          "schoolClass": "3D",
-          "id": 30,
-          "seat": 30,
-          "name": "鄭芯茹",
-          "done": 0,
-          "total": 3
-        },
-        {
           "platformClass": "3GD",
           "schoolClass": "3A",
           "id": 3,
@@ -7070,7 +7061,7 @@
           "id": 7,
           "seat": 7,
           "name": "李岭",
-          "done": 0,
+          "done": 2,
           "total": 3
         },
         {
@@ -7187,7 +7178,7 @@
           "id": 24,
           "seat": 24,
           "name": "王智超",
-          "done": 0,
+          "done": 3,
           "total": 3
         },
         {
@@ -7196,7 +7187,7 @@
           "id": 25,
           "seat": 25,
           "name": "吳秉燁",
-          "done": 0,
+          "done": 3,
           "total": 3
         },
         {
@@ -7214,7 +7205,7 @@
           "id": 27,
           "seat": 27,
           "name": "嚴駿濤",
-          "done": 2,
+          "done": 3,
           "total": 3
         },
         {
@@ -7223,6 +7214,15 @@
           "id": 28,
           "seat": 28,
           "name": "余澤峯",
+          "done": 2,
+          "total": 3
+        },
+        {
+          "platformClass": "3GD",
+          "schoolClass": "3D",
+          "id": 30,
+          "seat": 30,
+          "name": "鄭芯茹",
           "done": 0,
           "total": 3
         },
